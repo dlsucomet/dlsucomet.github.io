@@ -1,0 +1,449 @@
+- last: Deja	
+  first: Jordan Aiko
+  program: Computer Science	
+  role: Assistant Professor
+  interests: Human-Computer Interaction
+  pic: ../assets/png/profile/jordan_deja.png
+- last: Samson	
+  first: Briane Paul V.
+  program: Computer Science	
+  role: Assistant Professor
+  interests: Complex Systems, Human-Computer Interaction
+  pic: ../assets/png/profile/briane_samson.png
+- last: Lao	
+  first: Angelyn R.
+  program: Mathematics	
+  role: Associate Professor
+  interests: Systems Biology, Chemical Reaction Networks
+  pic: ../assets/png/profile/angelyn_lao.png
+- last: Aguilar	
+  first: Emerico	
+  program: Computer Science	
+  role: Assistant Professor
+  interests: Social Networks, Control Theory
+  pic: ../assets/png/profile/emerico_aguilar.png
+- last: Tan	
+  first: Daniel Stanley	
+  program: Computer Science	
+  role: Assistant Professor
+  interests: Computer Vision, Deep Learning
+  pic: ../assets/png/profile/stanley_tan.png
+- last: Leong	
+  first: Robert	
+  program: Statistics	
+  role: Assistant Professor
+  interests: Complex Systems, Spatial Analysis
+  pic: ../assets/png/profile/robert_leong.png
+- last: Villagracia	
+  first: Al Rey	
+  program: Physics	
+  role: Full Professor
+  interests: Complex Systems
+  pic: ../assets/png/profile/al_villagracia.png
+- last: Cabredo	
+  first: Rafael	A.
+  program: Computer Science	
+  role: Associate Professor
+  interests: Music Information Retrieval
+  pic: ../assets/png/profile/rafael_cabredo.png
+- last: Lim	
+  first: Dickson	
+  program: Economics	
+  role: Assistant Professor
+  pic: ../assets/png/profile/dickson_lim.png
+- last: Shrestha	
+  first: Anish MS	
+  program: Computer Science	
+  role: Associate Professor
+  interests: Bioinformatics
+  pic: ../assets/png/profile/anish_shrestha.png
+- last: Acorda
+  first: Luigi
+  program: Computer Science (Software Technology)
+  role: Undergraduate Student
+  pic: ../assets/png/profile/luigi_acorda.png
+- last: Acuña
+  first: Allyza
+  program: Computer Science (Software Technology)
+  role: Undergraduate Student
+  pic: ../assets/png/profile/allyza_acuna.png
+- last: Agno
+  first: Alexander II
+  program: Computer Science (Software Technology)
+  role: Undergraduate Student
+  pic: ../assets/png/profile/alex_agno.png
+- last: Agustin
+  first: Gedrite
+  program: Computer Science (Network Engineering)
+  role: Undergraduate Student
+  pic: ../assets/png/profile/gedrite_agustin.png
+- last: Ang
+  first: Jerald
+  program: Computer Science
+  role: Probationary
+  pic: ../assets/png/profile/jerald_ang.png
+- last: Ansay
+  first: Lynux
+  program: Computer Science
+  role: Probationary
+  pic: ../assets/png/profile/lynux_ansay.png
+- last: Ante
+  first: Arvin Roi
+  program: Computer Science (Software Technology)
+  role: Research Assistant
+  pic: ../assets/png/profile/roi_ante.png
+- last: Aquino
+  first: Kurt
+  program: Computer Science
+  role: Masters Student
+  pic: ../assets/png/profile/kurt_aquino.png
+- last: Barraquias
+  first: Betlee-Kyle
+  program: Information Technology
+  role: Undergraduate Student
+  pic: ../assets/png/profile/mark_barraquias.png
+- last: Batosalem
+  first: Angelika
+  program: Computer Science (Software Technology)
+  role: Undergraduate Student
+  pic: ../assets/png/profile/angelika_batosalem.png
+- last: Bornales	
+  first: Amiel James	
+  program: Computer Science (Software Technology)	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/amiel_bornales.png
+- last: Catarata	
+  first: Joe Sam	
+  program: Computer Science (Network Engineering)	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/joe_catarata.png
+- last: Chan	
+  first: Myles	
+  program: Computer Science	
+  role: Probationary
+  pic: ../assets/png/profile/myles_chan.png
+- last: Chan	
+  first: Erika	
+  program: Computer Science	
+  role: Probationary
+  pic: ../assets/png/profile/erika_chan.png
+- last: Ching	
+  first: Shyrene Julianne	
+  program: Computer Science	
+  role: Probationary
+  pic: ../assets/png/profile/shyrene_ching.png
+- last: Chiu	
+  first: Krizia Lynn	
+  program: Computer Science (Software Technology)	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/krizia_chiu.png
+- last: Choy	
+  first: Matthew Seaver	
+  program: Computer Science	
+  role: Masters Student
+  pic: ../assets/png/profile/seaver_choy.png
+- last: Ciriaco	
+  first: Jose Florencio IV	
+  program: Computer Science (Software Technology)	
+  role: Research Assistant
+  pic: ../assets/png/profile/jose_ciriaco.png
+- last: Cortez	
+  first: Louise	
+  program: Computer Science (Software Technology)	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/louise_cortez.png
+- last: Cruz	
+  first: Diane	
+  program: Computer Science	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/diane_cruz.png
+- last: Cruz	
+  first: Jan Christian Blaise	
+  program: Computer Science (Software Technology)	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/blaise_cruz.png
+- last: Cruzada	
+  first: Joshua	
+  program: Information Technology	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/joshua_cruzada.png
+- last: Dela Torre	
+  first: Alexczar	
+  program: Computer Science (Software Technology)	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/alexczar_delatorre.png
+- last: Delos Reyes	
+  first: Paolo	
+  program: Computer Science	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/paolo_delosreyes.png
+- last: Dino	
+  first: Jose Luis	
+  program: Computer Science (Network Engineering)	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/luis_dino.png
+- last: Eroles	
+  first: Carlo Miguel	
+  program: Computer Science (Software Technology)	
+  role: Research Assistant
+  pic: ../assets/png/profile/carlo_eroles.png
+- last: Fernandez	
+  first: Austin	
+  program: Computer Science	
+  role: Masters Student
+  pic: ../assets/png/profile/austin_fernandez.png
+- last: Gaba	
+  first: Janelle Marie	
+  program: Computer Science (Software Technology)	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/janelle_gaba.png
+- last: Gara	
+  first: Glenn Paul	
+  program: Computer Science	
+  role: PhD Student
+  pic: ../assets/png/profile/glenn_gara.png
+- last: Guiao	
+  first: Joyce	
+  program: Statistics	
+  role: Masters Student
+  pic: ../assets/png/profile/joyce_guiao.png
+- last: Inoue	
+  first: Yuta	
+  program: Information Technology	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/yuta_inoue.png
+- last: Lee	
+  first: Yun Sup	
+  program: Computer Science	
+  role: Research Assistant
+  pic: ../assets/png/profile/lee_yunsup.png
+- last: Lee	
+  first: Hans	
+  program: Computer Science (Software Technology)	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/hans_lee.png
+- last: Lim	
+  first: Mark Louis	
+  program: Computer Science	
+  role: Probationary
+  pic: ../assets/png/profile/mark_lim.png
+- last: Lim	
+  first: Johanna	
+  program: Computer Science	
+  role: Probationary
+  pic: ../assets/png/profile/johanna_lim.png
+- last: Lim	
+  first: Ivana	
+  program: Information Technology	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/ivana_lim.png
+- last: Llamas	
+  first: Antonio Miguel	
+  program: Computer Science	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/miguel_llamas.png
+- last: Lopez	
+  first: Luis Enrico	
+  program: Computer Science	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/luis_lopez.png
+- last: Macazo	
+  first: Ira	
+  program: Information Systems	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/ira_macazo.png
+- last: Manalili	
+  first: Fritz Michael	
+  program: Computer Science (Network Engineering)	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/fritz_manalili.png
+- last: Manzano	
+  first: Joshua	
+  program: Computer Science	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/joshua_manzano.png
+- last: Marasigan	
+  first: Geremiah Zachary	
+  program: Computer Science	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/geremiah_marasigan.png
+- last: Martinez	
+  first: Jesin Jarod	
+  program: Computer Science (Software Technology)	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/jarod_martinez.png
+- last: McCarthy	
+  first: Tadhg	
+  program: Computer Science	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/tadhg_mccarthy.png
+- last: Mendoza	
+  first: Emir	
+  program: Computer Science	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/emir_mendoza.png
+- last: Mirafuentes	
+  first: Troy	
+  program: Computer Science (Software Technology)	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/troy_mirafuentes.png
+# - last: Molera	
+#   first: Kathrina Anne	
+#   program: Computer Science	
+#   role: Masters Student
+#   pic: ../assets/png/profile/kathrina_molera.png
+- last: Naui	
+  first: Rodel Patrick	
+  program: Computer Science-IST	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/patrick_naui.png
+- last: Ng	
+  first: Kaye Valerie	
+  program: Computer Science	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/kaye_ng.png
+- last: Ngo	
+  first: Carlos	
+  program: Computer Science	
+  role: Probationary
+  pic: ../assets/png/profile/carlos_ngo.png
+- last: Ngo	
+  first: Bertel	
+  program: Computer Science (Software Technology)	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/bertel_ngo.png
+- last: Nodalo	
+  first: Giselle	
+  program: Computer Science (Software Technology)	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/giselle_nodalo.png
+- last: Non	
+  first: Gary	
+  program: Computer Science (Software Technology)	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/gary_non.png
+- last: Ona	
+  first: Ian Benedict	
+  program: Computer Science	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/ian_ona.png
+- last: Peña	
+  first: Romeo Manuel	
+  program: Computer Science	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/romeo_pena.png
+- last: Pensica	
+  first: Jan Caleb Oliver	
+  program: Computer Science (Software Technology)	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/caleb_pensica.png
+- last: Pillejera	
+  first: Jasper	
+  program: Computer Science (Software Technology)	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/jasper_pillejera.png
+- last: Poblete	
+  first: Brian	
+  program: Computer Science	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/brian_poblete.png
+- last: Reyes	
+  first: Arvin Christopher	
+  program: Computer Science	
+  role: Research Assistant
+  pic: ../assets/png/profile/arvin_reyes.png
+- last: Ricardo	
+  first: Justin Gerard	
+  program: Computer Science	
+  role: Masters Student
+  pic: ../assets/png/profile/justin_ricardo.png
+- last: Rivera	
+  first: Sophia Therese	
+  program: Computer Science (Software Technology)	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/sophia_rivera.png
+- last: Rivera	
+  first: Jared	
+  program: Computer Science (Software Technology)	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/jared_rivera.png
+- last: Sanchez	
+  first: Mark Gavin	
+  program: Computer Science (Software Technology)	
+  role: Research Assistant
+  pic: ../assets/png/profile/mark_sanchez.png
+- last: Santiago	
+  first: Jose Maria III	
+  program: Computer Science (Software Technology)	
+  role: Research Assistant
+  pic: ../assets/png/profile/jm_santiago.png
+- last: Santiago	
+  first: Gabriel	
+  program: Computer Science (Software Technology)	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/gabriel_santiago.png
+- last: Santiago	
+  first: Kyle	
+  program: Computer Science	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/kyle_santiago.png
+- last: Sie	
+  first: Stanley	
+  program: Computer Science	
+  role: Probationary
+  pic: ../assets/png/profile/stanley_sie.png
+- last: Soliven	
+  first: Adrienne	
+  program: Computer Science	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/adrienne_solliven.png
+- last: Tan	
+  first: Julianne	
+  program: Computer Science (Software Technology)	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/julianne_tan.png
+- last: Teh	
+  first: Brandon	
+  program: Computer Science-CSE	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/brandon_teh.png
+- last: Ticug	
+  first: Jonal Ray	
+  program: Computer Science (Software Technology)	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/jonal_ticug.png
+- last: Valenzuela	
+  first: Jolene	
+  program: Computer Science (Software Technology)	
+  role: Undergraduate Student
+  pic: ../assets/png/profile/jolene_valenzuela.png
+- last: De Castro	
+  first: Julian	
+  program: Computer Science	
+  role: Research Assistant
+  pic: ../assets/png/profile/julian_decastro.png
+- last: Ato	
+  first: Paolo Miguel B.	
+  program: Computer Science	
+  role: Research Assitant
+  pic: ../assets/png/profile/paolo_ato.png
+- last: Santos	
+  first: Antonello	
+  program: Computer Science	
+  role: Research Assitant
+  pic: ../assets/png/profile/antonello_santos.png
+- last: Salcedo	
+  first: Antoine Michael M.	
+  program: Computer Science	
+  role: Research Assitant
+  pic: ../assets/png/profile/antoine_salcedo.png
+- last: Valencia	
+  first: Josh Cezar L.	
+  program: Computer Science	
+  role: Research Assitant
+  pic: ../assets/png/profile/josh_valencia.png
+- last: Calimag	
+  first: Fritz	
+  program: Computer Science	
+  role: Research Assitant
+  pic: ../assets/png/profile/fritz_calimag.png

@@ -1,0 +1,14 @@
+- name: About
+  link: /about/
+- name: Projects
+  link: /projects/
+- name: Publications
+  link: /publications/
+- name: People
+  link: /people/
+- name: Code
+  link: /code/
+- name: Blog
+  link: /blog/
+- name: Support
+  link: /support/

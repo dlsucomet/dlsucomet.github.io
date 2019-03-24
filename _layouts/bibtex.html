@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<script>
+  new ClipboardJS('.copy-btn');
+</script>
+
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">BibTeX for</h1>
+    <h2>{{ page.title | escape }}</h2>
+  </header>
+
+  <div class="citation-content">
+      <pre class="citation-text" id="citation-text">
+          {{ content }}
+      </pre>
+      <div class="citation-copy">
+          <a class="copy-btn" data-clipboard-target="#citation-text">
+              <i class="far fa-copy"></i>
+          </a>
+      </div>
+  </div>
+
+</article>

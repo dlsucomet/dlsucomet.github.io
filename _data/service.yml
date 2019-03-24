@@ -1,0 +1,52 @@
+- name: People Operations
+  lead:
+    - name: Julianne Tan
+      pic: ../assets/png/profile/julianne_tan.png
+    - name: Krizia Lynn Chiu
+      pic: ../assets/png/profile/krizia_chiu.png
+    - name: Joshua Cruzada
+      pic: ../assets/png/profile/joshua_cruzada.png
+- name: Project Management
+  lead:
+    - name: Jose Luis Diño
+      pic: ../assets/png/profile/luis_dino.png
+  members:
+    - name: Austin Fernandez
+      pic: ../assets/png/profile/austin_fernandez.png
+    - name: Troy Mirafuentes
+      pic: ../assets/png/profile/troy_mirafuentes.png
+- name: Strategic Communications
+  lead:
+    - name: Diane Cruz
+      pic: ../assets/png/profile/diane_cruz.png
+    - name: Adrienne Solliven
+      pic: ../assets/png/profile/adrienne_solliven.png
+  members:
+    - name: Luis Lopez
+      pic: ../assets/png/profile/luis_lopez.png
+    - name: Miguel Llamas
+      pic: ../assets/png/profile/miguel_llamas.png
+    - name: Ian Benedict Ona
+      pic: ../assets/png/profile/ian_ona.png
+    - name: Kaye Ng
+      pic: ../assets/png/profile/kaye_ng.png
+- name: Lab Operations
+  lead:
+    - name: Jesin Jarod Martinez
+      pic: ../assets/png/profile/jarod_martinez.png
+- name: Subject Matter Experts
+  members:
+    - name: Jan Christian Blaise Cruz
+      pic: ../assets/png/profile/blaise_cruz.png
+      subject: Machine Learning
+    - name: Mark (Betlee) Barraquias
+      pic: ../assets/png/profile/mark_barraquias.png
+      subject: Web Technologies
+    - name: Giselle Nodalo
+      pic: ../assets/png/profile/giselle_nodalo.png
+      subject: UX
+- name: Technical Specialists
+  members:
+    - name: Joshua Cruzada
+      pic: ../assets/png/profile/joshua_cruzada.png
+      subject: Python, Git

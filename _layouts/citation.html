@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<script>
+  new ClipboardJS('.copy-btn');
+</script>
+
+<article class="post">
+
+  {% assign researches = site.data.publications | where:"name", page.type | first %}
+  {% assign research = researches.papers | where:"id", page.id | first %}
+
+  <header class="post-header">
+    <h1 class="post-title">How to cite</h1>
+    <h2>{{ research.title | escape }}</h2>
+  </header>
+
+  <div class="citation-content">
+    <div class="citation-text" id="citation-text">
+        {{ research.citation }}
+    </div>
+    <div class="citation-copy">
+        <a class="copy-btn" data-clipboard-target="#citation-text">
+            <i class="far fa-copy"></i>
+        </a>
+    </div>
+  </div>
+
+</article>

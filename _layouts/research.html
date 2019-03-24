@@ -1,0 +1,66 @@
+---
+layout: default
+---
+<script>
+  new ClipboardJS('.copy-btn');
+</script>
+
+<article class="post">
+
+  {% assign researches = site.data.publications | where:"name", page.type | first %}
+  {% assign research = researches.papers | where:"id", page.id | first %}
+
+  <header class="research-header">
+    <h2 class="research-title">{{ research.title | escape }}</h2>
+    <p class="research-authors">{{ research.authors }}</p>
+    <p class="research-venue"><em>{{ research.venue }}</em>, {{ research.year }}
+      {% if research.accept-rate %}
+          <span class="research-accept-rate">Acceptance Rate: {{ research.accept-rate }}%</span>
+      {% endif %}
+    </p>
+    {% if research.award %}
+      <p class="research-award"><i class="fas fa-trophy"></i> {{ research.award }}</[p]>
+    {% endif %}
+  </header>
+
+  <div class="research-content">
+    <div class="research-overview">
+      {{ content }}
+    </div>
+
+    <h4 class="research-section-header">Abstract</h4>
+    <p>{{ research.abstract }}</p>
+
+    <h4 class="research-section-header">Materials</h4>
+    <p class="research-misc">
+        {% if research.file %}
+            <a class="research-link" href="{{ research.file }}"><i class="ai ai-open-access ai-lg"></i>PDF</a>
+        {% endif %}
+        {% if research.arxiv %}
+            <a class="research-link" href="{{ research.arxiv }}"><i class="ai ai-arxiv ai-lg"></i>&nbsp;arXiv Preprint</a>
+        {% endif %}
+        {% if research.link %}
+            <a class="research-link" href="{{ research.link }}"><i class="fas fa-external-link-square-alt"></i>&nbsp;Publisher's Copy</a>
+        {% endif %}
+        {% if research.doi %}
+            <a class="research-link" href="https://doi.org/{{ research.doi }}"><i class="fas fa-globe"></i>&nbsp;DOI</a>
+        {% endif %}
+        {% if research.bibtex %}
+            <a class="research-link" href="{{ research.bibtex }}"><i class="fas fa-book"></i>&nbsp;BibTeX</a>
+        {% endif %}
+    </p>
+
+    <h4 class="research-section-header">Citation</h4>
+    <div class="citation-content">
+      <div class="citation-text" id="citation-text">
+          {{ research.citation }}
+      </div>
+      <div class="citation-copy">
+          <a class="copy-btn" data-clipboard-target="#citation-text">
+              <i class="far fa-copy"></i>
+          </a>
+      </div>
+    </div>
+  </div>
+
+</article>
