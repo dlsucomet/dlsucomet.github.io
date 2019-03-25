@@ -118,17 +118,17 @@
       citation: "Buzon R.J.C., Dumlao L.T.D., Mangubat M.A.C., Villarosa J.R.D., Samson B.P.V. (2018). Towards an Automated, High-Throughput Identification of the Greenness and Biomass of Rice Crops. In: Billingsley J., Brett P. (eds) Mechatronics and Machine Vision in Practice 3. Springer, Cham. DOI: https://doi.org/10.1007/978-3-319-76947-9_9"
       abstract: "Plant phenotyping is a vital process that helps farmers and researchers assess the growth, health, and development of a plant. In the Philippines, phenotyping is done manually, with each plant specimen measured and assessed one by one. However, this process is laborious, time-consuming, and prone to human error. Automated phenotyping systems have attempted to address this problem through the use of cameras and image processing, but these systems are proprietary and designed for plants and crops which are not commonly found in the Philippines. In order to alleviate this problem, research was conducted to develop an automated, high-throughput phenotyping system that automates the identification of plant greenness and plant biomass of rice. The system was developed in order to provide an efficient way of phenotyping rice by automating the process. It implements various image processing techniques and was tested in a screen house setup containing numerous rice variants. The system's design was finalized in consultation with and tested by rice researchers. The respondents were pleased with the system's usability and remarked that it would be beneficial to their current process if used. To evaluate the system's accuracy, the generated greenness and biomass values were compared with the values obtained through the manual process. The greenness module registered a 21.9792% mean percent error in comparison to using the Leaf Color Chart. On the other hand, the biomass module yielded 206.0700% mean percent error using compressed girth measurements."
 
-- name: Short Papers/Posters
-  papers:
-    - id: taxidash
-      title: "Taxi Dash: Serendipitous Discovery of Taxi Carpool Riders"
-      authors: <span class="author-me">Briane Paul V. Samson</span> & Yasuyuki Sumi
-      year: 2018
-      venue: EAI International Conference on Mobile Computing, Applications and Services (MobiCASE)
-      file: /files/2018samson_taxidash_mobicase.pdf
-      cite: /cite/taxidash
-      bibtex: /bibtex/taxidash
-      figure: ../assets/png/taxidash.png
-      alt: Sample use case of Taxidash
-      citation: "Samson, B.P.V. & Sumi, Y. (2018). Taxi Dash: Serendipitous Discovery of Taxi Carpool Riders. In: Murao K., Ohmura R., Inoue S., Gotoh Y. (eds) Mobile Computing, Applications, and Services. MobiCASE 2018. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 240. Springer, Cham."
-      abstract: "During winter, scheduled bus services can experience delays in locations where extreme and persistent snowfall affect road conditions. Commuters rushing to school or work often choose more flexible modes like taxis. However, taxi fares are more expensive for a single passenger, most especially students. In this paper, we present the design and implementation of a carpool application for taxi services in Hakodate, Japan. Considering the high level of shyness among Japanese university students, the application intends to facilitate serendipitous discovery and group formation among Japanese students expressing intent to take taxi services."
+# - name: Short Papers/Posters
+#   papers:
+#     - id: taxidash
+#       title: "Taxi Dash: Serendipitous Discovery of Taxi Carpool Riders"
+#       authors: <span class="author-me">Briane Paul V. Samson</span> & Yasuyuki Sumi
+#       year: 2018
+#       venue: EAI International Conference on Mobile Computing, Applications and Services (MobiCASE)
+#       file: /files/2018samson_taxidash_mobicase.pdf
+#       cite: /cite/taxidash
+#       bibtex: /bibtex/taxidash
+#       figure: ../assets/png/taxidash.png
+#       alt: Sample use case of Taxidash
+#       citation: "Samson, B.P.V. & Sumi, Y. (2018). Taxi Dash: Serendipitous Discovery of Taxi Carpool Riders. In: Murao K., Ohmura R., Inoue S., Gotoh Y. (eds) Mobile Computing, Applications, and Services. MobiCASE 2018. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 240. Springer, Cham."
+#       abstract: "During winter, scheduled bus services can experience delays in locations where extreme and persistent snowfall affect road conditions. Commuters rushing to school or work often choose more flexible modes like taxis. However, taxi fares are more expensive for a single passenger, most especially students. In this paper, we present the design and implementation of a carpool application for taxi services in Hakodate, Japan. Considering the high level of shyness among Japanese university students, the application intends to facilitate serendipitous discovery and group formation among Japanese students expressing intent to take taxi services."
