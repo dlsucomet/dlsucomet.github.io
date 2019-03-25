@@ -1,3 +1,7 @@
+- name: Cohort Leader
+  members:
+    - name: Giselle Nodalo
+      pic: ../assets/png/profile/giselle_nodalo.png
 - name: People Operations
   lead:
     - name: Julianne Tan
