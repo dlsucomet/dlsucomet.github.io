@@ -12,20 +12,32 @@ $spacing-unit:     30px !default;
 
 $text-color:       #202020 !default;
 $background-color: #fdfdfd !default;
-$brand-color:      #53f !default;
+$brand-color:      #00A669 !default;
 
-$grey-color:       #828282 !default;
+$grey-color:       #696969 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
-$purple-color:       #53f !default;
-$purple-color-light: lighten($purple-color, 40%) !default;
-$purple-color-dark:  darken($purple-color, 25%) !default;
+$comet-green-color:       #00A669 !default;
+$comet-green-color-light: lighten($comet-green-color, 40%) !default;
+$comet-green-color-dark:  darken($comet-green-color, 25%) !default;
+
+$comet-cyan-color:       #21A3A6 !default;
+$comet-cyan-color-light: lighten($comet-cyan-color, 40%) !default;
+$comet-cyan-color-dark:  darken($comet-cyan-color, 25%) !default;
+
+$comet-blue-color:       #1891D4 !default;
+$comet-blue-color-light: lighten($comet-blue-color, 40%) !default;
+$comet-blue-color-dark:  darken($comet-blue-color, 25%) !default;
+
+$dlsu-green-color:       #087830 !default;
+$dlsu-green-color-light: lighten($dlsu-green-color, 40%) !default;
+$dlsu-green-color-dark:  darken($dlsu-green-color, 25%) !default;
 
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    1000px !default;
+$content-width:    1200px !default;
 
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
