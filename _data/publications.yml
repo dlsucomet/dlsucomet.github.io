@@ -1,10 +1,25 @@
 - name: Conference Papers
   papers:
+    - id: flow-chiuxid
+      title: Applying User-Centered Techniques in the Design of a Usable Mobile Musical Composition Tool
+      authors: Kevin Gray Chan, Jordan Aiko Deja, John Patrick Tobias, Allen Vincent Gonzales & Migo Andres Dancel
+      year: 2019
+      toappear: True
+      venue: International ACM In-Cooperation Human-Computer Interaction (HCI) and User Experience (UX) Conference (CHIuXiD)
+      file: /files/2019chan_flow_chiuxid19.pdf
+      cite: /cite/flow-chiuxid
+      bibtex: /bibtex/flow-chiuxid
+      figure: ../assets/png/flow-chiuxid.png
+      alt: Flow, a mobile musical composition tool
+      abstract: "In this study, we present the music composition tool Flow and how an interaction was designed that led towards introducing balance in the work of musicians across all stages in musical composition. Observation and user research led to having a deeper understanding of the various needs, gains and pain points musicians encounter when composing. Musicians and composers who participated in the study, came from varying levels of expertise from beginner (those with less than 7 years) and veteran (those with beyond 10 years experience). An iterative process of design and development was continuously employed which led to improving the interaction design within the prototype. The processes described in this study show how insights were uncovered from a comprehensive set of usability tests and inspections done. These insights led to the development of a more usable and acceptable musical composition tool as seen from the results in the user tests. It can be observed that varying levels of expertise in music composition leads to different expectations and needs with regards to a music composition prototype. Results of the user tests show that Flow achieved a level of satisfaction and usability at par with the industry-standard tools."
+      citation: "Chan, K.G., Deja, J.A., Tobias, J.P., Gonzales, A.V. & Dancel, M.A. (2019). In Proceedings of the 5th International ACM In-Cooperation Human-Computer Interaction (HCI) and User Experience (UX) Conference, CHIuXiD '19 (CHIuXiD '19), Yohannes Kurniawan, Eunice Sari, and Josh Adi Tedjasaputra (Eds.). ACM, New York, NY, USA."
+
     - id: factors-not-follow
       title: Exploring Factors that Influence Connected Drivers to (Not) Use or Follow Recommended Optimal Routes
-      authors: <span class="author-me">Briane Paul V. Samson</span> & Yasuyuki Sumi
+      authors: Briane Paul V. Samson & Yasuyuki Sumi
       year: 2019
-      venue: (To appear in) ACM CHI Conference on Human Factors in Computing Systems Proceedings (CHI)
+      toappear: True
+      venue: ACM CHI Conference on Human Factors in Computing Systems Proceedings (CHI)
       doi: 10.1145/3290605.3300601
       accept-rate: 23.8
       page: /research/factors-not-follow
@@ -19,7 +34,7 @@
 
     - id: gridlock
       title: Optimizing the Efficiency, Vulnerability and Robustness of Road-based Para-transit Networks using Genetic Algorithm
-      authors: <span class="author-me">Briane Paul V. Samson</span>, Gio Anton Velez, Joseph Ryan Nobleza, David Sanchez, & Jan Tristan Milan
+      authors: Briane Paul V. Samson, Gio Anton Velez, Joseph Ryan Nobleza, David Sanchez, & Jan Tristan Milan
       year: 2018
       venue: International Conference on Computational Science (ICCS)
       doi: 10.1007/978-3-319-93698-7_1
@@ -34,7 +49,7 @@
 
     - id: heuristic-web
       title: Automating Heuristic Evaluation of Websites Using Convolutional Neural Networks
-      authors: Austin Ryan Fernandez, Jordan Aiko Deja & <span class="author-me">Briane Paul V. Samson</span>
+      authors: Austin Ryan Fernandez, Jordan Aiko Deja & Briane Paul V. Samson
       year: 2018
       venue: Asian HCI Symposium, CHI
       link: https://dl.acm.org/authorize?N675125
@@ -48,7 +63,7 @@
 
     - id: swarm
       title: Crowd Dynamics and Control in High-Volume Metro Rail Stations
-      authors: <span class="author-me">Briane Paul V. Samson</span>, Crisanto Aldanese IV, Deanne Moree Chan, Jona Joyce San Pascual, & Ma. Victoria Sido
+      authors: Briane Paul V. Samson, Crisanto Aldanese IV, Deanne Moree Chan, Jona Joyce San Pascual, & Ma. Victoria Sido
       year: 2017
       venue: International Conference on Computational Science (ICCS)
       doi: 10.1016/j.procs.2017.05.097
@@ -63,7 +78,7 @@
 
     - id: congestion-mrt
       title: Analyzing Congestion Dynamics in Mass Rapid Transit using Agent-Based Modeling
-      authors: <span class="author-me">Briane Paul V. Samson</span>, Cymon Marcaida, Eloisa Gervasio, Ravi Militar, & Jerome Ibañez
+      authors: Briane Paul V. Samson, Cymon Marcaida, Eloisa Gervasio, Ravi Militar, & Jerome Ibañez
       year: 2017
       venue: Philippine Computing Science Congress (PCSC)
       file: /files/2017samson_mrtmodel_pcsc.pdf
@@ -77,7 +92,7 @@
 
     - id: cbmstool
       title: A Web-based CBMS Dataset Visualization and Simulation Tool
-      authors: Marcos, N., Largoza, G., <span class="author-me">Briane Paul V. Samson</span>, Jelvin Base, Lawrence Patrick Calulo, Bervyn Co & Charles Lo
+      authors: Marcos, N., Largoza, G., Briane Paul V. Samson, Jelvin Base, Lawrence Patrick Calulo, Bervyn Co & Charles Lo
       year: 2016
       venue: DLSU Research Congress
       file: /files/2016marcos_cbmstool_dlsurc.pdf
@@ -92,7 +107,7 @@
   papers:
     - id: seight-m2vip
       title: Towards an Automated Plant Height Measurement and Tiller Segmentation of Rice Crops using Image Processing
-      authors: Karol Paulette Constantino, Elisha Jeremy Gonzales, Lordd Michael Lazaro, Ellen Chelsea Serrano & <span class="author-me">Briane Paul V. Samson</span>
+      authors: Karol Paulette Constantino, Elisha Jeremy Gonzales, Lordd Michael Lazaro, Ellen Chelsea Serrano & Briane Paul V. Samson
       year: 2018
       venue: Mechatronics and Machine Vision in Practice 3
       link: https://doi.org/10.1007/978-3-319-76947-9_11
@@ -106,7 +121,7 @@
 
     - id: luntian-m2vip
       title: Towards an Automated, High-Throughput Identification of the Greenness and Biomass of Rice Crops
-      authors: Rhett Jason Buzon, Louis Timothy Dumlao, Micaela Angela Mangubat, Jan Robert Villarosa & <span class="author-me">Briane Paul V. Samson</span>
+      authors: Rhett Jason Buzon, Louis Timothy Dumlao, Micaela Angela Mangubat, Jan Robert Villarosa & Briane Paul V. Samson
       year: 2018
       venue: Mechatronics and Machine Vision in Practice 3
       link: https://doi.org/10.1007/978-3-319-76947-9_9
@@ -122,7 +137,7 @@
 #   papers:
 #     - id: taxidash
 #       title: "Taxi Dash: Serendipitous Discovery of Taxi Carpool Riders"
-#       authors: <span class="author-me">Briane Paul V. Samson</span> & Yasuyuki Sumi
+#       authors: Briane Paul V. Samson & Yasuyuki Sumi
 #       year: 2018
 #       venue: EAI International Conference on Mobile Computing, Applications and Services (MobiCASE)
 #       file: /files/2018samson_taxidash_mobicase.pdf
