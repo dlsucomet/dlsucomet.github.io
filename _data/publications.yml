@@ -1,19 +1,5 @@
 - name: Conference Papers
   papers:
-    - id: flow-chiuxid
-      title: Applying User-Centered Techniques in the Design of a Usable Mobile Musical Composition Tool
-      authors: Kevin Gray Chan, Jordan Aiko Deja, John Patrick Tobias, Allen Vincent Gonzales & Migo Andres Dancel
-      year: 2019
-      toappear: True
-      venue: International ACM In-Cooperation Human-Computer Interaction (HCI) and User Experience (UX) Conference (CHIuXiD)
-      file: /files/2019chan_flow_chiuxid19.pdf
-      cite: /cite/flow-chiuxid
-      bibtex: /bibtex/flow-chiuxid
-      figure: ../assets/png/flow-chiuxid.png
-      alt: Flow, a mobile musical composition tool
-      abstract: "In this study, we present the music composition tool Flow and how an interaction was designed that led towards introducing balance in the work of musicians across all stages in musical composition. Observation and user research led to having a deeper understanding of the various needs, gains and pain points musicians encounter when composing. Musicians and composers who participated in the study, came from varying levels of expertise from beginner (those with less than 7 years) and veteran (those with beyond 10 years experience). An iterative process of design and development was continuously employed which led to improving the interaction design within the prototype. The processes described in this study show how insights were uncovered from a comprehensive set of usability tests and inspections done. These insights led to the development of a more usable and acceptable musical composition tool as seen from the results in the user tests. It can be observed that varying levels of expertise in music composition leads to different expectations and needs with regards to a music composition prototype. Results of the user tests show that Flow achieved a level of satisfaction and usability at par with the industry-standard tools."
-      citation: "Chan, K.G., Deja, J.A., Tobias, J.P., Gonzales, A.V. & Dancel, M.A. (2019). In Proceedings of the 5th International ACM In-Cooperation Human-Computer Interaction (HCI) and User Experience (UX) Conference, CHIuXiD '19 (CHIuXiD '19), Yohannes Kurniawan, Eunice Sari, and Josh Adi Tedjasaputra (Eds.). ACM, New York, NY, USA."
-
     - id: factors-not-follow
       title: Exploring Factors that Influence Connected Drivers to (Not) Use or Follow Recommended Optimal Routes
       authors: Briane Paul V. Samson & Yasuyuki Sumi
@@ -31,6 +17,74 @@
       alt: Traced deviations of drivers
       abstract: "Navigation applications are becoming ubiquitous in our daily navigation experiences. With the intention to circumnavigate congested roads, their route guidance always follows the basic assumption that drivers always want the fastest route. However, it is unclear how their recommendations are followed and what factors affect their adoption. We present the results of a semi-structured qualitative study with 17 drivers, mostly from the Philippines and Japan. We recorded their daily commutes and occasional trips, and inquired into their navigation practices, route choices and on-the-fly decision-making. We found that while drivers choose a recommended route in urgent situations, many still preferred to follow familiar routes. Drivers deviated because of a recommendation's use of unfamiliar roads, lack of local context, perceived driving unsuitability, and inconsistencies with realized navigation experiences. Our findings and implications emphasize their personalization needs, and how the right amount of algorithmic sophistication can encourage behavioral adaptation."
       citation: "Samson, B.P.V. & Sumi, Y. (2019). Exploring Factors that Influence Connected Drivers to (Not) Use or Follow Recommended Optimal Routes. In CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019, Glasgow, Scotland UK. ACM, New York, NY, USA, 14 pages. DOI: https://doi.org/10.1145/3290605.3300601"
+
+    - id: flow-chiuxid
+      title: Applying User-Centered Techniques in the Design of a Usable Mobile Musical Composition Tool
+      authors: Kevin Gray Chan, Jordan Aiko Deja, John Patrick Tobias, Allen Vincent Gonzales & Migo Andres Dancel
+      year: 2019
+      toappear: True
+      venue: International ACM In-Cooperation Human-Computer Interaction (HCI) and User Experience (UX) Conference (CHIuXiD)
+      file: /files/2019chan_flow_chiuxid19.pdf
+      cite: /cite/flow-chiuxid
+      bibtex: /bibtex/flow-chiuxid
+      figure: ../assets/png/flow-chiuxid.png
+      alt: Flow, a mobile musical composition tool
+      abstract: "In this study, we present the music composition tool Flow and how an interaction was designed that led towards introducing balance in the work of musicians across all stages in musical composition. Observation and user research led to having a deeper understanding of the various needs, gains and pain points musicians encounter when composing. Musicians and composers who participated in the study, came from varying levels of expertise from beginner (those with less than 7 years) and veteran (those with beyond 10 years experience). An iterative process of design and development was continuously employed which led to improving the interaction design within the prototype. The processes described in this study show how insights were uncovered from a comprehensive set of usability tests and inspections done. These insights led to the development of a more usable and acceptable musical composition tool as seen from the results in the user tests. It can be observed that varying levels of expertise in music composition leads to different expectations and needs with regards to a music composition prototype. Results of the user tests show that Flow achieved a level of satisfaction and usability at par with the industry-standard tools."
+      citation: "Chan, K.G., Deja, J.A., Tobias, J.P., Gonzales, A.V. & Dancel, M.A. (2019). Applying User-Centered Techniques in the Design of a Usable Mobile Musical Composition Tool. In Proceedings of the 5th International ACM In-Cooperation Human-Computer Interaction (HCI) and User Experience (UX) Conference, CHIuXiD '19 (CHIuXiD '19), Yohannes Kurniawan, Eunice Sari, and Josh Adi Tedjasaputra (Eds.). ACM, New York, NY, USA."
+
+    - id: trex-chiuxid
+      title: On Building Design Guidelines For An Interactive Machine Learning Sandbox Application
+      authors: Giselle Nodalo, Jose Ma Santiago III, Jolene Valenzuela, Jordan Aiko Deja
+      year: 2019
+      toappear: True
+      venue: International ACM In-Cooperation Human-Computer Interaction (HCI) and User Experience (UX) Conference (CHIuXiD)
+      file: /files/2019nodalo_trex_chiuxid19.pdf
+      cite: /cite/trex-chiuxid
+      bibtex: /bibtex/trex-chiuxid
+      figure: ../assets/png/trex-chiuxid.png
+      alt: TREX, a virtual sandbox for building machine learning models
+      abstract: "There are several machine learning suites, applications and platforms that are readily-available right now. However, these applications require a basic foundation in machine learning making them appear difficult to configure. We introduce the use of the Sandbox approach with the goal of designing alternative programming interfaces and interactions for machine learning tasks. A set of guidelines have been drafted supported with initial user tests to validate the proposed design framework. Ten (10) undergraduate and graduate students with novice experience in machine learning participated in structured interviews to formulate programming patterns and styles that were used to draft the guidelines based on the literary review. These insights were analyzed using UX Research techniques to form a general problem statement. Initial analysis of the user insights suggested that a visual sandbox approach similar to Scratch helps reduce the steepness of the learning curve. The preliminary design guidelines we drafted focused on the three design factors namely System Intent, Interaction, and Algorithm Visualization. From these guidelines we produced an initial version of the prototype that will be subject to further testing and validation."
+      citation: "Nodalo, G., Santiago III, J.M., Valenzuela, J. & Deja, J.A. (2019). On Building Design Guidelines For An Interactive Machine Learning Sandbox Application. In Proceedings of the 5th International ACM In-Cooperation Human-Computer Interaction (HCI) and User Experience (UX) Conference, CHIuXiD '19 (CHIuXiD '19), Yohannes Kurniawan, Eunice Sari, and Josh Adi Tedjasaputra (Eds.). ACM, New York, NY, USA."
+
+    - id: 360-chiuxid
+      title: A Research through Design (Rtd) Approach in the Design of a 360-Video Platform Interface
+      authors: Brian Michael Poblete, Emir Christopher Mendoza, Julian Paolo De Castro, Jordan Aiko Deja, Giselle Nodalo
+      year: 2019
+      toappear: True
+      venue: International ACM In-Cooperation Human-Computer Interaction (HCI) and User Experience (UX) Conference (CHIuXiD)
+      file: /files/2019poblete_360vid_chiuxid19.pdf
+      cite: /cite/360-chiuxid
+      bibtex: /bibtex/360-chiuxid
+      figure: ../assets/png/360-chiuxid.png
+      alt: 360-view video stitched from crowd sourced videos
+      abstract: "Many video interfaces enable multiple sources of input video in displaying and streaming vital information. Most of these setups can be seen in deployed security systems and observer footage that are usually used for surveillance and crisis monitoring. In this study, we consider a crowd-sourced approach to multiple sources of video and aim to design an interface towards multiple possible use-cases. In designing this interface, we performed field studies and on site surveying along with initial user tests to validate our ideas. Research through design was added into the methodology to consider multiple point of views considering varying sources of perspective. Specifically, we catered the design of an initial interface in helping multiple users understand several views from multiples cameras, angles and position. The participants chosen for this study are students who have at least the basic technological ability of using a smartphone and taking a video with it. We intend to extend this study by validating the 360-view and designing an algorithm towards stitching one final view crowd-sourced from multiple cameras and streamers."
+      citation: "Poblete, B.M., Mendoza, E.C., De Castro, J.P., Deja, J.A. & Nodaloo, G. (2019). A Research through Design (Rtd) Approach in the Design of a 360-Video Platform Interface. In Proceedings of the 5th International ACM In-Cooperation Human-Computer Interaction (HCI) and User Experience (UX) Conference, CHIuXiD '19 (CHIuXiD '19), Yohannes Kurniawan, Eunice Sari, and Josh Adi Tedjasaputra (Eds.). ACM, New York, NY, USA."
+
+    - id: flow-hcii
+      title: "Flow: A Musical Composition Tool Using Gesture Interactions and Musical Metacreation"
+      authors: Jordan Aiko Deja, Kevin Gray Chan, Migo Andres Dancel, Allen Vincent Gonzales, John Patrick Tobias
+      year: 2018
+      venue: International Conference on Human-Computer Interaction (HCII)
+      file: /files/2018deja_flow_hcii18.pdf
+      cite: /cite/flow-hcii
+      bibtex: /bibtex/flow-hcii
+      figure: ../assets/png/flow-hcii.png
+      alt: Flow, a mobile musical composition tool
+      abstract: "Music composition is a delicate and disciplined art form that is tedious and repetitive. In this preliminary study, we explore the design of an interaction that aims to balance the work of composers with the help of a mobile application. The process of musical composition is not easy for composers. Certain tasks such as figuring out succeeding notes often requires trial-and-error, as well as knowledge of certain theories. Existing technology has employed musical metacreation to assist in this process. This endows machines with the artificial creative capacity to perform musical tasks. In review, the existing technology has not been generally-used in all stages of the musical composition process. By combining several interaction technologies, composers can benefit by being able to do their tasks with significantly less cognitive load and time."
+      citation: "Deja J.A., Chan K.G., Dancel M.A., Gonzales A.V., Tobias J.P. (2018) Flow: A Musical Composition Tool Using Gesture Interactions and Musical Metacreation. In: Stephanidis C. (eds) HCI International 2018 – Posters' Extended Abstracts. HCI 2018. Communications in Computer and Information Science, vol 852. Springer, Cham"
+
+    - id: myosl
+      title: "MyoSL: A Framework for Measuring Usability of Two-Arm Gestural Electromyography for Sign Language"
+      authors: Jordan Aiko Deja, Patrick Arceo, Darren Goldwin David, Patrick Lawrence Gan, Ryan Christopher Roque
+      year: 2018
+      venue: International Conference on Universal Access in Human-Computer Interaction (UAHCI)
+      file: /files/2018deja_myosl_uahci18.pdf
+      cite: /cite/myosl
+      bibtex: /bibtex/myosl
+      figure: ../assets/png/myosl.png
+      alt: Myo for Sign Language
+      abstract: "Several Sign Language (SL) systems have been developed using various technologies: Kinect, armbands, and gloves. Majority of these studies never considered user experience as part of their approach. With that, we propose a new framework that eases usability by employing two-arm gestural electromyography instead of typical vision-based systems see Fig. 5. Interactions can be considered seamless and natural with this way. In this preliminary study, we conducted focus group discussions and usability tests with signers. Based on the results of the usability tests, 90% of respondents found the armband comfortable. The respondents also stated that the armband was not intrusive when they tried to perform their sign gestures. At the same time, they found it aesthetically pleasing. Additionally, we produced an initial prototype from this experiment setup and tested them on several conversational scenarios. By using this approach, we enable an agile framework that caters the needs of the signer-user."
+      citation: "Deja J.A., Arceo P., David D.G., Gan P.L., Roque R.C. (2018) MyoSL: A Framework for Measuring Usability of Two-Arm Gestural Electromyography for Sign Language. In: Antona M., Stephanidis C. (eds) Universal Access in Human-Computer Interaction. Methods, Technologies, and Users. UAHCI 2018. Lecture Notes in Computer Science, vol 10907. Springer, Cham"
 
     - id: gridlock
       title: Optimizing the Efficiency, Vulnerability and Robustness of Road-based Para-transit Networks using Genetic Algorithm
