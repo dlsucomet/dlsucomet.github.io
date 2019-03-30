@@ -292,7 +292,7 @@
   text-transform: uppercase;
   font-weight: 700;
   line-height: 1;
-  color: $comet-green-color-dark;
+  color: $comet-green-color;
 
   @include media-query($on-laptop) {
     @include relative-font-size(1.75);
@@ -305,7 +305,7 @@
   text-transform: uppercase;
   font-weight: 700;
   line-height: 1;
-  color: $comet-green-color-dark;
+  color: $comet-green-color;
   display: inline;
 
   @include media-query($on-laptop) {

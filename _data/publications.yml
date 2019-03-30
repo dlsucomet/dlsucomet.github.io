@@ -1,4 +1,4 @@
-- name: Conference Papers
+- name: 2019
   papers:
     - id: factors-not-follow
       title: Exploring Factors that Influence Connected Drivers to (Not) Use or Follow Recommended Optimal Routes
@@ -34,7 +34,7 @@
 
     - id: trex-chiuxid
       title: On Building Design Guidelines For An Interactive Machine Learning Sandbox Application
-      authors: Giselle Nodalo, Jose Ma Santiago III, Jolene Valenzuela, Jordan Aiko Deja
+      authors: Giselle Nodalo, Jose Ma Santiago III, Jolene Valenzuela & Jordan Aiko Deja
       year: 2019
       toappear: True
       venue: International ACM In-Cooperation Human-Computer Interaction (HCI) and User Experience (UX) Conference (CHIuXiD)
@@ -48,7 +48,7 @@
 
     - id: 360-chiuxid
       title: A Research through Design (Rtd) Approach in the Design of a 360-Video Platform Interface
-      authors: Brian Michael Poblete, Emir Christopher Mendoza, Julian Paolo De Castro, Jordan Aiko Deja, Giselle Nodalo
+      authors: Brian Michael Poblete, Emir Christopher Mendoza, Julian Paolo De Castro, Jordan Aiko Deja & Giselle Nodalo
       year: 2019
       toappear: True
       venue: International ACM In-Cooperation Human-Computer Interaction (HCI) and User Experience (UX) Conference (CHIuXiD)
@@ -60,9 +60,11 @@
       abstract: "Many video interfaces enable multiple sources of input video in displaying and streaming vital information. Most of these setups can be seen in deployed security systems and observer footage that are usually used for surveillance and crisis monitoring. In this study, we consider a crowd-sourced approach to multiple sources of video and aim to design an interface towards multiple possible use-cases. In designing this interface, we performed field studies and on site surveying along with initial user tests to validate our ideas. Research through design was added into the methodology to consider multiple point of views considering varying sources of perspective. Specifically, we catered the design of an initial interface in helping multiple users understand several views from multiples cameras, angles and position. The participants chosen for this study are students who have at least the basic technological ability of using a smartphone and taking a video with it. We intend to extend this study by validating the 360-view and designing an algorithm towards stitching one final view crowd-sourced from multiple cameras and streamers."
       citation: "Poblete, B.M., Mendoza, E.C., De Castro, J.P., Deja, J.A. & Nodaloo, G. (2019). A Research through Design (Rtd) Approach in the Design of a 360-Video Platform Interface. In Proceedings of the 5th International ACM In-Cooperation Human-Computer Interaction (HCI) and User Experience (UX) Conference, CHIuXiD '19 (CHIuXiD '19), Yohannes Kurniawan, Eunice Sari, and Josh Adi Tedjasaputra (Eds.). ACM, New York, NY, USA."
 
+- name: 2018
+  papers:
     - id: flow-hcii
       title: "Flow: A Musical Composition Tool Using Gesture Interactions and Musical Metacreation"
-      authors: Jordan Aiko Deja, Kevin Gray Chan, Migo Andres Dancel, Allen Vincent Gonzales, John Patrick Tobias
+      authors: Jordan Aiko Deja, Kevin Gray Chan, Migo Andres Dancel, Allen Vincent Gonzales & John Patrick Tobias
       year: 2018
       venue: International Conference on Human-Computer Interaction (HCII)
       file: /files/2018deja_flow_hcii18.pdf
@@ -75,7 +77,7 @@
 
     - id: myosl
       title: "MyoSL: A Framework for Measuring Usability of Two-Arm Gestural Electromyography for Sign Language"
-      authors: Jordan Aiko Deja, Patrick Arceo, Darren Goldwin David, Patrick Lawrence Gan, Ryan Christopher Roque
+      authors: Jordan Aiko Deja, Patrick Arceo, Darren Goldwin David, Patrick Lawrence Gan & Ryan Christopher Roque
       year: 2018
       venue: International Conference on Universal Access in Human-Computer Interaction (UAHCI)
       file: /files/2018deja_myosl_uahci18.pdf
@@ -88,7 +90,7 @@
 
     - id: gridlock
       title: Optimizing the Efficiency, Vulnerability and Robustness of Road-based Para-transit Networks using Genetic Algorithm
-      authors: Briane Paul V. Samson, Gio Anton Velez, Joseph Ryan Nobleza, David Sanchez, & Jan Tristan Milan
+      authors: Briane Paul V. Samson, Gio Anton Velez, Joseph Ryan Nobleza, David Sanchez & Jan Tristan Milan
       year: 2018
       venue: International Conference on Computational Science (ICCS)
       doi: 10.1007/978-3-319-93698-7_1
@@ -115,50 +117,18 @@
       citation: "Ryan Austin Fernandez, Jordan Aiko Deja, and Briane Paul V. Samson. 2018. Automating Heuristic Evaluation of Websites Using Convolutional Neural Networks. In Proceedings of the Asian HCI Symposium'18 on Emerging Research Collection (Asian HCI Symposium'18), Eunice Sari (Ed.). ACM, New York, NY, USA, 9-12. DOI: https://doi.org/10.1145/3205851.3205854"
       abstract: "Heuristic evaluation is determining the usability of a user interface using predetermined heuristics. This task relies on heavy pattern recognition and experience which makes it suitable for deep learning techniques. A computational model is proposed which uses convolutional neural networks to automate heuristic evaluation."
 
-    - id: swarm
-      title: Crowd Dynamics and Control in High-Volume Metro Rail Stations
-      authors: Briane Paul V. Samson, Crisanto Aldanese IV, Deanne Moree Chan, Jona Joyce San Pascual, & Ma. Victoria Sido
-      year: 2017
-      venue: International Conference on Computational Science (ICCS)
-      doi: 10.1016/j.procs.2017.05.097
-      accept-rate: 27.7
-      file: /files/2017samson_swarm_iccs.pdf
-      cite: /cite/swarm
-      bibtex: /bibtex/swarm
-      figure: ../assets/png/swarm.png
-      alt: Annotated video screen capture of a station's concourse area
-      abstract: "Overcrowding in mass rapid transit stations is a chronic issue affecting daily commute in Metro Manila, Philippines. As a high-capacity public transportation, the Metro Rail Transit has been operating at a level above its intended capacity of 350,000 passengers daily. Despite numerous efforts in implementing an effective crowd control scheme, it still falls short in containing the formation of crowds and long lines, thus affecting the amount of time before they can proceed to the platforms. A crowd dynamics model of commuters in one of the high-volume terminal stations, the Taft Ave station, was developed to help discover emergent behavior in crowd formation and assess infrastructure preparedness. The agent-based model uses static floor fields derived from the MRT3 live feed, and implements a number of social force models to optimize the path-finding of the commuter agents. Internal face validation, historical validation and parameter variability-sensitivity analysis were employed to validate the crowd dynamics model and assess different operational scenarios. It was determined that during peak hours, when the expected crowd inflow may reach up to 7,500 commuters, at least 11 ticket booths and 6 turnstiles should be open to have low turnaround times of commuters. For non-peak hours, at least 10 ticket booths and 5 turnstiles are needed to handle a crowd inflow reaching up to 5,000 commuters. In the current set-up, the usual number of ticket booths open in the MRT Taft Station is 11, and there are usually 6 turnstiles open. It was observed that as the crowd inside the station increases to 200-250 commuters, there is a significant increase in the increase rate of the turnaround times of the commuters, which signifies the point at which the service provided starts to degrade and when officials should start to intervene."
-      citation: "Samson, B.P.V., Aldanese IV, C., Chan, D.M., San Pascual, J.J., & Sido, M.V.A. (2017). 17th International Conference on Computational Science - ICCS 2017. Procedia Computer Science, Volume 108, 2017, Pages 195-204. DOI: https://doi.org/10.1016/j.procs.2017.05.097"
+    - id: emote-music
+      title: On Building an Emotion-based Music Composition Companion
+      authors: Jordan Aiko Deja, Rafael Cabredo & Toni-Jan Keith Monserrat
+      year: 2018
+      venue: Asian HCI Symposium, CHI
+      link: https://dl.acm.org/citation.cfm?id=3205859
+      doi: 10.1145/3205851.3205859
+      cite: /cite/emote-music
+      bibtex: /bibtex/emote-music
+      citation: "Jordan Aiko Deja, Rafael Cabredo, and Toni-Jan Keith Monserrat. 2018. On Building an Emotion-based Music Composition Companion. In Proceedings of the Asian HCI Symposium'18 on Emerging Research Collection (Asian HCI Symposium'18), Eunice Sari (Ed.). ACM, New York, NY, USA, 25-28. DOI: https://doi.org/10.1145/3205851.3205859"
+      abstract: "In this paper, we present a draft framework and plan that describes the considerations in the creation of an augmented companion for musical composers that is emotion-based. The goal is to design an interaction that assists novice musical composers by helping them cope with creative blocks. The emotional consideration of a musical piece is heavily-considered in the framework. A description of a prototype tool in its early stages along with future work have been included."
 
-    - id: congestion-mrt
-      title: Analyzing Congestion Dynamics in Mass Rapid Transit using Agent-Based Modeling
-      authors: Briane Paul V. Samson, Cymon Marcaida, Eloisa Gervasio, Ravi Militar, & Jerome Ibañez
-      year: 2017
-      venue: Philippine Computing Science Congress (PCSC)
-      file: /files/2017samson_mrtmodel_pcsc.pdf
-      cite: /cite/congestion-mrt
-      bibtex: /bibtex/congestion-mrt
-      award: Best Paper Honorable Mention
-      figure: ../assets/png/congestion-mrt.png
-      alt: Snippet of the agent-based model for MRT3
-      abstract: "Despite being designed to accommodate only 300,000 passengers, Manila's Metro Rail Transit or MRT3 is currently serving more than 500,000 passengers daily. is over-utilization has resulted into worn down coaches and facilities, and most importantly, passenger delays. In this paper, we present an agent-based model for a Philippine mass rapid transit, particularly MRT3. The agent-based model uses passenger, train, and station agents, and allows the user to run different operational scenarios. Multiple scenarios were simulated, each having different parameters to differentiate their effects to the passenger congestion dynamics of MRT3. It was observed that passenger waiting time is at its minimum when the train speed and number of trains deployed is at their maximum values, 80kph and 20 trains, respectively. However, maintaining their default speed of 50kph and decreasing headway between trains to 1 minute will lead to a drastic increase in passenger waiting and journey times, negatively affecting passenger congestion at the platforms."
-      citation: "Samson, B.P.V., Marcaida, C.M., Gervasio, E.A., Militar, R., & Ibañez, J. (2017). Analyzing Congestion Dynamics in Mass Rapid Transit using Agent-Based Modeling. In Proceedings of the 17th Philippine Computing Science Congress."
-
-    - id: cbmstool
-      title: A Web-based CBMS Dataset Visualization and Simulation Tool
-      authors: Marcos, N., Largoza, G., Briane Paul V. Samson, Jelvin Base, Lawrence Patrick Calulo, Bervyn Co & Charles Lo
-      year: 2016
-      venue: DLSU Research Congress
-      file: /files/2016marcos_cbmstool_dlsurc.pdf
-      cite: /cite/cbmstool
-      bibtex: /bibtex/cbmstool
-      figure: ../assets/png/cbms.png
-      alt: Map visualization of household data
-      citation: "Marcos, N., Largoza, G., Samson, B.P.V., Base, J.J., Calulo, L.P., Co, B. & Lo C. (2016). A Web-based CBMS Dataset Visualization and Simulation Tool. In Proceedings of the DLSU Research Congress 2016, volume 4."
-      abstract: "A visualization and simulation tool for community-based datasets, from Angelo King Institute (AKI) of De La Salle University, called Community-Based Monitoring System (CBMS) is designed. Currently, there is no local visualization and simulation tool for CBMS data, which were gathered from individual households from various barangays in the country. The data in the CBMS dataset is mainly categorized into eight key indicators considered to be the basic needs of a local government unit and these are health, nutrition, housing, water and sanitation, education, income, employment, and peace and order. This research is useful not only for government officials, and local communities in creating or formulating policies, but also for economists. This tool is developed to give policymakers and program implementors necessary information to study the effect of macroeconomic reforms and different kinds of policy shocks. The application is designed to be web-based. It allows users to upload and extract data from the CBMS dataset through the data management module, to visualize the data with the use of maps (over Google Maps) and charts to provide a more accessible summary of the conditions inside a community, and simulate new indicators by providing simple formulas and view the results of effects adjusting the indicator reference values. Through the results based on economic computations performed on the data, this can help the government units in deciding what policies to implement in a certain community. Several prototypes were presented to CBMS AKI and various local government units in order to consider their needs and preferences. The final application user-interface and features were deemed very acceptable to the intended users."
-
-- name: Book Chapters
-  papers:
     - id: seight-m2vip
       title: Towards an Automated Plant Height Measurement and Tiller Segmentation of Rice Crops using Image Processing
       authors: Karol Paulette Constantino, Elisha Jeremy Gonzales, Lordd Michael Lazaro, Ellen Chelsea Serrano & Briane Paul V. Samson
@@ -186,6 +156,93 @@
       alt: Cleaned image of a rice plant
       citation: "Buzon R.J.C., Dumlao L.T.D., Mangubat M.A.C., Villarosa J.R.D., Samson B.P.V. (2018). Towards an Automated, High-Throughput Identification of the Greenness and Biomass of Rice Crops. In: Billingsley J., Brett P. (eds) Mechatronics and Machine Vision in Practice 3. Springer, Cham. DOI: https://doi.org/10.1007/978-3-319-76947-9_9"
       abstract: "Plant phenotyping is a vital process that helps farmers and researchers assess the growth, health, and development of a plant. In the Philippines, phenotyping is done manually, with each plant specimen measured and assessed one by one. However, this process is laborious, time-consuming, and prone to human error. Automated phenotyping systems have attempted to address this problem through the use of cameras and image processing, but these systems are proprietary and designed for plants and crops which are not commonly found in the Philippines. In order to alleviate this problem, research was conducted to develop an automated, high-throughput phenotyping system that automates the identification of plant greenness and plant biomass of rice. The system was developed in order to provide an efficient way of phenotyping rice by automating the process. It implements various image processing techniques and was tested in a screen house setup containing numerous rice variants. The system's design was finalized in consultation with and tested by rice researchers. The respondents were pleased with the system's usability and remarked that it would be beneficial to their current process if used. To evaluate the system's accuracy, the generated greenness and biomass values were compared with the values obtained through the manual process. The greenness module registered a 21.9792% mean percent error in comparison to using the Leaf Color Chart. On the other hand, the biomass module yielded 206.0700% mean percent error using compressed girth measurements."
+
+    - id: eeg-ux
+      title: "Using EEG Emotion Models in Viewer Experience Design: An Exploratory Study"
+      authors: Jordan Aiko Deja & Rafael Cabredo
+      year: 2018
+      venue: International Conference on Human-Computer Interaction and User Experience in Indonesia (CHIuXiD)
+      doi: 10.1145/3205946.3205958
+      link: https://dl.acm.org/citation.cfm?id=3205958
+      cite: /cite/eeg-ux
+      bibtex: /bibtex/eeg-ux
+      figure: ../assets/png/eeg-ux.png
+      alt: EEG signals while watching a draft commercial
+      abstract: "TV Commercials are often considered to be noise that viewers see in between their favorite shows. These have been used for mostly commercial and advertising purposes. Such practice has been an established one for decades. Most advertising researchers have always relied on traditional means and techniques in measuring viewer experiences and understanding conversion rates from these TV Commercials. In this work-in-progress, we present our preliminary findings from an exploratory study on understanding consumer behaviors and emotions especially when watching TV Commercials. Target consumers for a specific commercial product underwent one-on-one semi-structured interviews and from viewing sessions where their EEG data were collected using the 5-channel EMOTIV Insight headset. To triangulate the emotion modeling phase, external observers referred to as coders annotated their emotions with the aid of emotion recognition via facial recognition. Initial Analysis of the interviews along with the early version of the model revealed several interesting points on visual and audio elements that triggered viewer valence. The collection of EEG data was also able to uncover a few insights that aided in the design of a better viewing experience for the target consumers. We intend to expand the findings in the future work to build a model from a bigger data and user base along with a wider array of emotions to choose from. Also, we intend to employ more advanced experiment designs to determine if we can directly correlate viewer experiences into actual product and commercial conversion."
+      citation: "Jordan Aiko Deja and Rafael Cabredo. 2018. Using EEG Emotion Models in Viewer Experience Design: An Exploratory Study. In Proceedings of the 4th International Conference on Human-Computer Interaction and User Experience in Indonesia, CHIuXiD '18 (CHIuXiD '18), Yohannes Kurniawan, Eunice Sari, and Josh Adi Tedjasaputra (Eds.). ACM, New York, NY, USA, 82-88. DOI: https://doi.org/10.1145/3205946.3205958"
+
+    - id: airguitar
+      title: Building Guitar Strum Models for an Interactive Air Guitar Prototype
+      authors: John Edel Tamani, Jan Christian Blaise Cruz, Joshua Raphaelle Cruzada, Jolene Valenzuela, Kevin Gray Chan & Jordan Aiko Deja
+      year: 2018
+      venue: International Conference on Human-Computer Interaction and User Experience in Indonesia (CHIuXiD)
+      doi: 10.1145/3205946.3205972
+      link: https://dl.acm.org/citation.cfm?id=3205972
+      cite: /cite/airguitar
+      bibtex: /bibtex/airguitar
+      figure: ../assets/png/airguitar.png
+      alt: Guitar strumming movement while wearing Myo
+      abstract: "In this work-in-progress, we propose the design of an interaction that allows a guitar player to air guitar with the use of forearm Electromyogram (EMG). We integrate results from our previous study where we have used the same medium in training a classifier to recognize standard guitar chords. In this paper, we aim to train a classifier this time to recognize the different types of strums when playing the guitar. We collected data from ten (10) participants using the Myo armband doing strum repetitions for at least fifty (50) times. The strumming EMG data was then pre-processed and fed into a machine learning task to build a model. A k-Nearest Neighbor (k=11) classifier was trained and yielded an accuracy of at least 46% accuracy with a kappa statistic of 0.3712. Model results de- scribe that data size needs to be improved while considering equally the same set of features. Additionally, user insights and feedback on the armband usage as an alternative creative medium was gathered from our target respondents. Different views and insights are stated which opened opportunities for the improvement of the actual air guitar concept as a creativity tool."
+      citation: "John Edel Tamani, Jan Christian Blaise Cruz, Joshua Raphaelle Cruzada, Jolene Valenzuela, Kevin Gray Chan, and Jordan Aiko Deja. 2018. Building Guitar Strum Models for an Interactive Air Guitar Prototype. In Proceedings of the 4th International Conference on Human-Computer Interaction and User Experience in Indonesia, CHIuXiD '18 (CHIuXiD '18), Yohannes Kurniawan, Eunice Sari, and Josh Adi Tedjasaputra (Eds.). ACM, New York, NY, USA, 18-22. DOI: https://doi.org/10.1145/3205946.3205972"
+
+- name: 2017
+  papers:
+    - id: swarm
+      title: Crowd Dynamics and Control in High-Volume Metro Rail Stations
+      authors: Briane Paul V. Samson, Crisanto Aldanese IV, Deanne Moree Chan, Jona Joyce San Pascual & Ma. Victoria Sido
+      year: 2017
+      venue: International Conference on Computational Science (ICCS)
+      doi: 10.1016/j.procs.2017.05.097
+      accept-rate: 27.7
+      file: /files/2017samson_swarm_iccs.pdf
+      cite: /cite/swarm
+      bibtex: /bibtex/swarm
+      figure: ../assets/png/swarm.png
+      alt: Annotated video screen capture of a station's concourse area
+      abstract: "Overcrowding in mass rapid transit stations is a chronic issue affecting daily commute in Metro Manila, Philippines. As a high-capacity public transportation, the Metro Rail Transit has been operating at a level above its intended capacity of 350,000 passengers daily. Despite numerous efforts in implementing an effective crowd control scheme, it still falls short in containing the formation of crowds and long lines, thus affecting the amount of time before they can proceed to the platforms. A crowd dynamics model of commuters in one of the high-volume terminal stations, the Taft Ave station, was developed to help discover emergent behavior in crowd formation and assess infrastructure preparedness. The agent-based model uses static floor fields derived from the MRT3 live feed, and implements a number of social force models to optimize the path-finding of the commuter agents. Internal face validation, historical validation and parameter variability-sensitivity analysis were employed to validate the crowd dynamics model and assess different operational scenarios. It was determined that during peak hours, when the expected crowd inflow may reach up to 7,500 commuters, at least 11 ticket booths and 6 turnstiles should be open to have low turnaround times of commuters. For non-peak hours, at least 10 ticket booths and 5 turnstiles are needed to handle a crowd inflow reaching up to 5,000 commuters. In the current set-up, the usual number of ticket booths open in the MRT Taft Station is 11, and there are usually 6 turnstiles open. It was observed that as the crowd inside the station increases to 200-250 commuters, there is a significant increase in the increase rate of the turnaround times of the commuters, which signifies the point at which the service provided starts to degrade and when officials should start to intervene."
+      citation: "Samson, B.P.V., Aldanese IV, C., Chan, D.M., San Pascual, J.J., & Sido, M.V.A. (2017). 17th International Conference on Computational Science - ICCS 2017. Procedia Computer Science, Volume 108, 2017, Pages 195-204. DOI: https://doi.org/10.1016/j.procs.2017.05.097"
+
+    - id: congestion-mrt
+      title: Analyzing Congestion Dynamics in Mass Rapid Transit using Agent-Based Modeling
+      authors: Briane Paul V. Samson, Cymon Marcaida, Eloisa Gervasio, Ravi Militar & Jerome Ibañez
+      year: 2017
+      venue: Philippine Computing Science Congress (PCSC)
+      file: /files/2017samson_mrtmodel_pcsc.pdf
+      cite: /cite/congestion-mrt
+      bibtex: /bibtex/congestion-mrt
+      award: Best Paper Honorable Mention
+      figure: ../assets/png/congestion-mrt.png
+      alt: Snippet of the agent-based model for MRT3
+      abstract: "Despite being designed to accommodate only 300,000 passengers, Manila's Metro Rail Transit or MRT3 is currently serving more than 500,000 passengers daily. is over-utilization has resulted into worn down coaches and facilities, and most importantly, passenger delays. In this paper, we present an agent-based model for a Philippine mass rapid transit, particularly MRT3. The agent-based model uses passenger, train, and station agents, and allows the user to run different operational scenarios. Multiple scenarios were simulated, each having different parameters to differentiate their effects to the passenger congestion dynamics of MRT3. It was observed that passenger waiting time is at its minimum when the train speed and number of trains deployed is at their maximum values, 80kph and 20 trains, respectively. However, maintaining their default speed of 50kph and decreasing headway between trains to 1 minute will lead to a drastic increase in passenger waiting and journey times, negatively affecting passenger congestion at the platforms."
+      citation: "Samson, B.P.V., Marcaida, C.M., Gervasio, E.A., Militar, R., & Ibañez, J. (2017). Analyzing Congestion Dynamics in Mass Rapid Transit using Agent-Based Modeling. In Proceedings of the 17th Philippine Computing Science Congress."
+
+    - id: guitar-model
+      title: Towards Modeling Guitar Chord Fretboard Finger Positioning using Electromyography
+      authors: Jordan Aiko Deja, John Patrick Tobias, Ryan Christopher Roque, Darren Goldwin David & Kevin Gray Chan
+      year: 2017
+      venue: Philippine Computing Science Congress (PCSC)
+      file: /files/2017deja_guitar_pcsc17.pdf
+      cite: /cite/guitar-model
+      bibtex: /bibtex/guitar-model
+      figure: ../assets/png/guitar-model.png
+      alt: Snippet of the agent-based model for MRT3
+      abstract: "We explore the use of forearm electromyography (EMG) as a gestural input interface, or the captured biofeedback signals found in the muscles, towards modeling how beginner and seasoned guitar users plot chords in the fretboard. We intend to contribute to a paradigm of studies that propose a new set of interactions with an existing device, integrating machine learning techniques. Data was collected from ten(10) participants using the Myo™muscle armband. Data on the forearm EMG signals when fingers fret the chords A to F were recorded, preprocessed and transformed into a balanced and normalized dataset that was later on fed into a machine learning task in order to build a model. The model performs with an accuracy of at least 79% with 0.8 kappa statistic following a Bayesian classifier. Such model is expected to be used to train the computer and early learners of the guitar possibly with the goal of creating a synthesizer without any more requiring a MIDI interface or an actual guitar. This can be pushed further towards building an air guitar model."
+      citation: "Deja, J.A., Tobias, J.P., Roque, R.C., David, D.G. & Chan, K.G. (2017). Towards Modeling Guitar Chord Fretboard Finger Positioning using Electromyography. In Proceedings of the 17th Philippine Computing Science Congress."
+
+- name: 2016
+  papers:
+    - id: cbmstool
+      title: A Web-based CBMS Dataset Visualization and Simulation Tool
+      authors: Marcos, N., Largoza, G., Briane Paul V. Samson, Jelvin Base, Lawrence Patrick Calulo, Bervyn Co & Charles Lo
+      year: 2016
+      venue: DLSU Research Congress
+      file: /files/2016marcos_cbmstool_dlsurc.pdf
+      cite: /cite/cbmstool
+      bibtex: /bibtex/cbmstool
+      figure: ../assets/png/cbms.png
+      alt: Map visualization of household data
+      citation: "Marcos, N., Largoza, G., Samson, B.P.V., Base, J.J., Calulo, L.P., Co, B. & Lo C. (2016). A Web-based CBMS Dataset Visualization and Simulation Tool. In Proceedings of the DLSU Research Congress 2016, volume 4."
+      abstract: "A visualization and simulation tool for community-based datasets, from Angelo King Institute (AKI) of De La Salle University, called Community-Based Monitoring System (CBMS) is designed. Currently, there is no local visualization and simulation tool for CBMS data, which were gathered from individual households from various barangays in the country. The data in the CBMS dataset is mainly categorized into eight key indicators considered to be the basic needs of a local government unit and these are health, nutrition, housing, water and sanitation, education, income, employment, and peace and order. This research is useful not only for government officials, and local communities in creating or formulating policies, but also for economists. This tool is developed to give policymakers and program implementors necessary information to study the effect of macroeconomic reforms and different kinds of policy shocks. The application is designed to be web-based. It allows users to upload and extract data from the CBMS dataset through the data management module, to visualize the data with the use of maps (over Google Maps) and charts to provide a more accessible summary of the conditions inside a community, and simulate new indicators by providing simple formulas and view the results of effects adjusting the indicator reference values. Through the results based on economic computations performed on the data, this can help the government units in deciding what policies to implement in a certain community. Several prototypes were presented to CBMS AKI and various local government units in order to consider their needs and preferences. The final application user-interface and features were deemed very acceptable to the intended users."
 
 # - name: Short Papers/Posters
 #   papers:

@@ -82,7 +82,3 @@ title: Publications
         {% endif %}
     {% endfor %}
 </div>
-
-<br>
-#### Access
-If you cannot access any of my publications from the publisher's websites, you may request from me thru email or my [ResearchGate profile](https://www.researchgate.net/profile/Briane_Paul_Samson).
