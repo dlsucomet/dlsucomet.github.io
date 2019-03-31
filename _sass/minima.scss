@@ -1,9 +1,59 @@
 @charset "utf-8";
 
+// fonts
+
+@font-face {
+  font-family: "Hero";
+  src: url("../assets/fonts/Sans/Hero.otf");
+}
+
+@font-face{
+  font-family: "Avenir";
+  src: url("../assets/fonts/Sans/AvenirNext-Regular.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face{
+  font-family: "Avenir";
+  src: url("../assets/fonts/Sans/AvenirNext-Italic.ttf") format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face{
+  font-family: "Avenir";
+  src: url("../assets/fonts/Sans/AvenirNext-Medium.ttf") format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face{
+  font-family: "Avenir";
+  src: url("../assets/fonts/Sans/AvenirNext-DemiBold.ttf") format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face{
+  font-family: "Avenir";
+  src: url("../assets/fonts/Sans/AvenirNext-DemiBoldItalic.ttf") format('truetype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face{
+  font-family: "Avenir";
+  src: url("../assets/fonts/Sans/AvenirNext-Bold.ttf") format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
 // Define defaults for each variable.
 
-$base-font-family: "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$base-font-family: Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif !default;
 $dlsu-font-family: "EB Garamond", serif !default;
+$comet-font-family: Hero, sans-serif !default;
 $base-font-size:   14px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
@@ -31,6 +81,8 @@ $comet-blue-color:       #1891D4 !default;
 $comet-blue-color-light: lighten($comet-blue-color, 40%) !default;
 $comet-blue-color-dark:  darken($comet-blue-color, 25%) !default;
 
+$comet-highlight-color: #a6003d !default;
+
 $dlsu-green-color:       #087830 !default;
 $dlsu-green-color-light: lighten($dlsu-green-color, 40%) !default;
 $dlsu-green-color-dark:  darken($dlsu-green-color, 25%) !default;
@@ -38,7 +90,7 @@ $dlsu-green-color-dark:  darken($dlsu-green-color, 25%) !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    1200px !default;
+$content-width:    1100px !default;
 
 $on-palm:          600px !default;
 $on-laptop:        800px !default;

@@ -1,7 +1,7 @@
 ---
 layout: research
 id: factors-not-follow
-type: Conference Papers
+type: 2019
 ---
 
 <div class="research-banner">

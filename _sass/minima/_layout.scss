@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-  border-top: 10px solid $comet-green-color;
+  // border-top: 10px solid $comet-green-color;
   // border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
 
@@ -15,6 +15,10 @@
   float: left;
   width: 40%;
 
+  p {
+    margin-bottom: 4px;
+  }
+
   @include media-query($on-palm) {
     width: 75%;
   }
@@ -23,11 +27,13 @@
 .site-title {
   @include relative-font-size(1.7);
   color: darken($comet-green-color-dark, 35%);
-  font-weight: 700;
-  letter-spacing: 1px;
+  font-weight: 500;
+  letter-spacing: 5px;
+  line-height: $base-line-height * 0.8;
   // line-height: $base-line-height * $base-font-size * 2.25;
   // margin-bottom: 0;
   // float: left;
+  font-family: $comet-font-family;
   text-transform: uppercase;
 
   // &,
@@ -78,8 +84,8 @@
   }
 
   .current-page {
-    color: darken($brand-color, 35%);
-    font-weight: bold;
+    color: darken($brand-color, 15%);
+    font-weight: 600;
     // line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -290,7 +296,7 @@
   @include relative-font-size(2);
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 500;
   line-height: 1;
   color: $comet-green-color;
 
@@ -303,7 +309,7 @@
   @include relative-font-size(2);
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 500;
   line-height: 1;
   color: $comet-green-color;
   display: inline;
@@ -407,8 +413,10 @@
 .twocol-section {
   margin-bottom: 5px;
   text-transform: uppercase;
+  font-size: $base-font-size*1.1;
+  font-weight: 600;
   letter-spacing: 1px; 
-  color: $grey-color;
+  color: $text-color;
 
   p {
     margin: 0;
@@ -439,10 +447,13 @@
 
   p {
     margin: 0;
+    font-weight: normal;
+    font-style: normal;
   }
 
   .twocol-entry-main {
-    font-weight: bold;
+    font-weight: 500;
+    font-style: normal;
   }
 
   .twocol-entry-section {
@@ -536,7 +547,8 @@
 }
 
 p.pub-twocol-entry-main {
-  font-weight: bold;
+  font-weight: 600;
+  font-style: normal;
   @include relative-font-size(1.1);
   margin-bottom: 3px;
 }
@@ -556,9 +568,10 @@ p.pub-misc {
   }
 
   .pub-award {
-    border-left: solid 2px $text-color;
+    border-left: solid 2px $comet-highlight-color;
     padding-left: 8px;
-    font-weight: bold;
+    font-weight: 500;
+    color: $comet-highlight-color;
   }
 }
 

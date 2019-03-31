@@ -1,7 +1,7 @@
 ---
 layout: publications
-permalink: /publications/
-title: Publications
+permalink: /papers/
+title: Papers
 ---
 
 <!-- Override column widths because of changes in content. -->

@@ -2,12 +2,12 @@
   link: /about/
 - name: Projects
   link: /projects/
-- name: Publications
-  link: /publications/
+- name: Papers
+  link: /papers/
 - name: People
   link: /people/
 - name: Code
-  link: /code/
+  link: https://github.com/dlsucomet
 - name: Blog
   link: /blog/
 - name: Support
