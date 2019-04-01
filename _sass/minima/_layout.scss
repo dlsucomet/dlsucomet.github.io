@@ -1,9 +1,20 @@
 /**
  * Site header
  */
+.header-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  &:after {
+    display: none;
+  }
+}
+
 .site-header {
   // border-top: 10px solid $comet-green-color;
   // border-bottom: 1px solid $grey-color-light;
+  padding-top: 20px;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -11,24 +22,40 @@
 }
 
 .site-titles {
-  padding: 20px 0 0;
+  padding: 0;
   float: left;
   width: 40%;
-
-  p {
-    margin-bottom: 4px;
-  }
+  margin-bottom: 20px;
+  margin-top: 20px;
 
   @include media-query($on-palm) {
     width: 75%;
   }
 }
 
+.site-logo-name {
+  display: flex;
+  align-items: center;
+}
+
+.logo { 
+  display: inline;
+  width: 100px;
+  height: 75px;
+  background: no-repeat left/85% url("../../assets/logo-symbol.png");
+  border-width: 0;
+  // margin-left: -5px;
+  margin-right: 20px;
+  padding: 4px 12px 4px 0;
+  // object-fit: contain;
+  border-right: 1px solid $text-color;
+}
+
 .site-title {
-  @include relative-font-size(1.7);
+  @include relative-font-size(1.1);
   color: darken($comet-green-color-dark, 35%);
   font-weight: 500;
-  letter-spacing: 5px;
+  letter-spacing: 4px;
   line-height: $base-line-height * 0.8;
   // line-height: $base-line-height * $base-font-size * 2.25;
   // margin-bottom: 0;
@@ -43,23 +70,26 @@
 }
 
 .site-subtitle {
-  @include relative-font-size(1.3);
+  @include relative-font-size(1.2);
   font-weight: 500;
   font-family: $dlsu-font-family;
   // line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: 0px;
+  margin-bottom: 10px;
 }
 
 .site-nav {
-  float: right;
-  margin-top: $base-font-size*3.7; 
-  padding: $base-font-size 0 0;
+  // float: right;
+  // margin-top: $base-font-size*3.7; 
+  // padding: $base-font-size 0 0;
   // line-height: $base-line-height * $base-font-size * 2.25;
-  letter-spacing: 0.75px;
+  letter-spacing: 1.5px;
+  // @include relative-font-size(1.1);
+  text-transform: uppercase;
 
-  @include media-query($on-palm) {
-    margin-top: $base-font-size*1.8; 
-  }
+  // @include media-query($on-palm) {
+  //   margin-top: $base-font-size*1.8; 
+  // }
 
   .nav-trigger {
       display: none;
@@ -84,8 +114,10 @@
   }
 
   .current-page {
-    color: darken($brand-color, 15%);
+    color: $brand-color;
     font-weight: 600;
+    padding-bottom: 8px;
+    border-bottom: 2px solid $brand-color;
     // line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -289,7 +321,7 @@
  * Posts
  */
 .post-header {
-  margin-bottom: $spacing-unit;
+  margin-bottom: $spacing-unit*0.5;
 }
 
 .post-title {
