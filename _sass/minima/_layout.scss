@@ -44,10 +44,8 @@
   height: 75px;
   background: no-repeat left/85% url("../../assets/logo-symbol.png");
   border-width: 0;
-  // margin-left: -5px;
   margin-right: 20px;
   padding: 4px 12px 4px 0;
-  // object-fit: contain;
   border-right: 1px solid $text-color;
 }
 
@@ -57,23 +55,14 @@
   font-weight: 500;
   letter-spacing: 4px;
   line-height: $base-line-height * 0.8;
-  // line-height: $base-line-height * $base-font-size * 2.25;
-  // margin-bottom: 0;
-  // float: left;
   font-family: $comet-font-family;
   text-transform: uppercase;
-
-  // &,
-  // &:visited {
-  //   color: $grey-color-dark;
-  // }
 }
 
 .site-subtitle {
   @include relative-font-size(1.2);
   font-weight: 500;
   font-family: $dlsu-font-family;
-  // line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: 0px;
   margin-bottom: 10px;
 }
@@ -84,12 +73,7 @@
   // padding: $base-font-size 0 0;
   // line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: 1.5px;
-  // @include relative-font-size(1.1);
   text-transform: uppercase;
-
-  // @include media-query($on-palm) {
-  //   margin-top: $base-font-size*1.8; 
-  // }
 
   .nav-trigger {
       display: none;
@@ -101,7 +85,6 @@
 
   .page-link {
     color: $text-color;
-    // line-height: $base-line-height;
 
     &:hover {
       color: $brand-color;
@@ -218,7 +201,7 @@
 
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
-  color: $grey-color;
+  color: $text-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
@@ -227,39 +210,43 @@
   float: left;
   margin-bottom: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
-}
-
-.footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-  width:         calc(35% - (#{$spacing-unit} / 2));
 
   p {
-    margin: 10px 0;
+    margin: 5px 0;
 
     &:first-child {
       margin-top: 0px;
     }
+  }
+}
 
-    a {
-      color: $grey-color-dark;
-      display: block;
-      margin: 0;
+.footer-col-1 {
+  width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+  width:         calc(30% - (#{$spacing-unit} / 2));
 
-      &:hover {
-        color: $brand-color;
-      }
+  p {
+    margin: 0 0;
+
+    &:first-child {
+      margin-top: 0px;
     }
   }
 }
 
 .footer-col-2 {
+  width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+  width:         calc(50% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-3 {
   width: -webkit-calc(20% - (#{$spacing-unit} / 2));
   width:         calc(20% - (#{$spacing-unit} / 2));
 }
 
-.footer-col-3 {
-  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-  width:         calc(45% - (#{$spacing-unit} / 2));
+.dlsu-ccs-comet {
+  width: 185px;
+  height: 100px;
+  background: no-repeat left/90% url("../../assets/DLSU-CCS1-1024x518.png");
 }
 
 @include media-query($on-laptop) {

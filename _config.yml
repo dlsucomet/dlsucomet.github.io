@@ -17,7 +17,7 @@ title: Center for Complexity & Emerging Technologies
 author: Center for Complexity & Emerging Technologies
 email: comet AT dlsu.edu.ph
 description: >- # this means to ignore newlines until "baseurl:"
-  DLSU's pioneering laboratory on Complex Systems, Human-Computer Interaction, Machine Learning, and Civic Computing research.
+  Pioneering and leveraging computing research in Complex Systems, Human-Computer Interaction and Machine Learning to improve the way we move, work, create and participate in society.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://comet.dlsu.edu.ph" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty

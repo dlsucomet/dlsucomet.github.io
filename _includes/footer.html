@@ -5,21 +5,25 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
+        <p class="dlsu-ccs-comet"></p>
+        <p>Room 406, Gokongwei Hall</p>
+        <p>De La Salle University - Manila Campus</p>
+        <p>2401 Taft Avenue, Malate</p>
+        <p>Manila, Philippines</p>
+      </div>
+
+      <div class="footer-col footer-col-2">
         <p><a href="http://computerstudies.dlsu.edu.ph/research">Advanced Research Institute for Informatics, Computing and Networking</a></p>
         <p><a href="http://computerstudies.dlsu.edu.ph">College of Computer Studies</a></p>
         <p><a href="https://www.dlsu.edu.ph/">De La Salle University</a></p>
       </div>
 
-      <div class="footer-col footer-col-2">
-          {% include social.html %}
-      </div>
-
       <div class="footer-col footer-col-3">
-        <p class="copyright">© {{ "now" | date: "%Y" }} &nbsp; {{ site.author | escape }}</p>
-        
-        <!-- <p>This site is powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://pages.github.com/">GitHub Pages</a>. Design was derived from the <a href="https://github.com/jekyll/minima">minima</a> theme with some icons loaded using <a href="http://fontawesome.io/">Font Awesome</a> and <a href="http://jpswalsh.github.io/academicons/">Academicons</a>.  -->
+        {% include social.html %}
       </div>
     </div>
+
+    <h2 class="footer-copyright"><p class="copyright">© {{ "now" | date: "%Y" }} &nbsp; {{ site.author | escape }}</p></h2>
 
   </div>
 
