@@ -176,13 +176,18 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
 }
 
 .footer-heading {
   @include relative-font-size(1.25);
+  border-top: 1px solid $grey-color-light;
+  padding-top: 20px;
   margin-bottom: $spacing-unit;
+}
+
+.footer-copyright {
+  margin-top: 10px;
 }
 
 .copyright {
@@ -244,9 +249,9 @@
 }
 
 .dlsu-ccs-comet {
-  width: 185px;
+  width: 183px;
   height: 100px;
-  background: no-repeat left/90% url("../../assets/DLSU-CCS1-1024x518.png");
+  background: no-repeat left/90% url("../../assets/ccs-logo.jpeg");
 }
 
 @include media-query($on-laptop) {

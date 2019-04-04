@@ -1,27 +1,8 @@
 ---
-layout: publications
+layout: page
 permalink: /people/
 title: People
 ---
-
-<!-- Override column widths because of changes in content. -->
-<style>
-    .twocol-content {
-        margin-bottom: 40px;
-    }
-
-    .twocol-section {
-        margin-bottom: 10px;
-    }
-
-    .twocol-left-col {
-        width: 10%;
-    }
-
-    .twocol-entry {
-        width: 88%;
-    }
-</style>
 
 <div>
     {% for item in site.data.publications %}
@@ -83,6 +64,6 @@ title: People
     {% endfor %}
 </div>
 
-<br>
-#### Access
-If you cannot access any of my publications from the publisher's websites, you may request from me thru email or my [ResearchGate profile](https://www.researchgate.net/profile/Briane_Paul_Samson).
+<div>
+
+</div>
