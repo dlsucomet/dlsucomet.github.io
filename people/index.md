@@ -10,7 +10,7 @@ title: People
             {% if person.website %}
                 <a href="{{ person.website }}">
             {% endif %}
-                    <img class="person-pic" src="{{ person.pic }}">
+                    <img class="person-pic" src="{{ person.pic }}" alt="Photo of {{ person.nickname }}">
             {% if person.website %}
                 </a>
             {% endif %}
