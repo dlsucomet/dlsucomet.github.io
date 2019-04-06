@@ -1,536 +1,652 @@
 - last: Deja	
   first: Jordan Aiko
+  nickname: Jordan
   program: Computer Science	
   role: Assistant Professor
   interests: Human-Computer Interaction
   type: Faculty
-  pic: ../assets/png/profile/jordan_deja.png
+  pic: ../assets/png/profile/jordan_deja.jpg
+  website: https://jrdndj.design
 - last: Samson	
   first: Briane Paul V.
+  nickname: Briane
   program: Computer Science	
   role: Assistant Professor
   interests: Complex Systems, Human-Computer Interaction
   type: Faculty
-  pic: ../assets/png/profile/briane_samson.png
+  pic: ../assets/png/profile/briane_samson.jpg
+  website: https://brianesamson.com
 - last: Lao	
   first: Angelyn R.
+  nickname: Angie
   program: Mathematics	
   role: Associate Professor
   interests: Systems Biology, Chemical Reaction Networks
   type: Faculty
-  pic: ../assets/png/profile/angelyn_lao.png
+  pic: ../assets/png/profile/angelyn_lao.jpg
+- last: Chua	
+  first: Unisse
+  nickname: Unisse
+  program: Computer Science	
+  role: Assistant Professor
+  interests: Data Science, Data Visualization
+  type: Faculty
+  pic: ../assets/png/profile/unisse_chua.jpg
 - last: Aguilar	
   first: Emerico	
+  nickname: Miko
   program: Computer Science	
   role: Assistant Professor
   interests: Social Networks, Control Theory
   type: Faculty
-  pic: ../assets/png/profile/emerico_aguilar.png
+  pic: ../assets/png/profile/emerico_aguilar.jpg
 - last: Tan	
   first: Daniel Stanley	
+  nickname: Stanley
   program: Computer Science	
   role: Assistant Professor
   interests: Computer Vision, Deep Learning
   type: Faculty
-  pic: ../assets/png/profile/stanley_tan.png
+  pic: ../assets/png/profile/stanley_tan.jpg
 - last: Leong	
   first: Robert	
+  nickname: Robert
   program: Statistics	
   role: Assistant Professor
   interests: Complex Systems, Spatial Analysis
-  pic: ../assets/png/profile/robert_leong.png
+  pic: ../assets/png/profile/robert_leong.jpg
 - last: Villagracia	
   first: Al Rey	
+  nickname: Al Rey
   program: Physics	
   role: Full Professor
   interests: Complex Systems
   type: Faculty
-  pic: ../assets/png/profile/al_villagracia.png
+  pic: ../assets/png/profile/al_villagracia.jpg
 - last: Cabredo	
   first: Rafael	A.
+  nickname: Raffy
   program: Computer Science	
   role: Associate Professor
   interests: Music Information Retrieval
   type: Faculty
-  pic: ../assets/png/profile/rafael_cabredo.png
+  pic: ../assets/png/profile/rafael_cabredo.jpg
 - last: Lim	
   first: Dickson	
+  nickname: Dickson
   program: Economics	
   role: Assistant Professor
   type: Faculty
-  pic: ../assets/png/profile/dickson_lim.png
+  pic: ../assets/png/profile/dickson_lim.jpg
 - last: Shrestha	
   first: Anish MS	
+  nickname: Anish
   program: Computer Science	
   role: Associate Professor
   interests: Bioinformatics
   type: Faculty
-  pic: ../assets/png/profile/anish_shrestha.png
+  pic: ../assets/png/profile/anish_shrestha.jpg
+  website: http://www.a-transposable-element.com/
 - last: Acorda
   first: Luigi
+  nickname: Luigi
   program: Computer Science (Software Technology)
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/luigi_acorda.png
+  pic: ../assets/png/profile/luigi_acorda.jpg
 - last: Acuña
   first: Allyza
+  nickname: Allyza
   program: Computer Science (Software Technology)
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/allyza_acuna.png
+  pic: ../assets/png/profile/allyza_acuna.jpg
 - last: Agno
   first: Alexander II
+  nickname: Alex
   program: Computer Science (Software Technology)
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/alex_agno.png
-- last: Agustin
-  first: Gedrite
-  program: Computer Science (Network Engineering)
-  role: Undergraduate Student
-  type: Student
-  pic: ../assets/png/profile/gedrite_agustin.png
+  pic: ../assets/png/profile/alex_agno.jpg
 - last: Ang
   first: Jerald
+  nickname: Jerald
   program: Computer Science
   role: Probationary
   type: Student
-  pic: ../assets/png/profile/jerald_ang.png
+  pic: ../assets/png/profile/jerald_ang.jpg
 - last: Ansay
   first: Lynux
+  nickname: Lynux
   program: Computer Science
   role: Probationary
   type: Student
-  pic: ../assets/png/profile/lynux_ansay.png
+  pic: ../assets/png/profile/lynux_ansay.jpg
 - last: Ante
   first: Arvin Roi
+  nickname: Roi
   program: Computer Science (Software Technology)
-  role: Research Assistant
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/roi_ante.png
+  pic: ../assets/png/profile/roi_ante.jpg
 - last: Aquino
   first: Kurt
+  nickname: Kurt
   program: Computer Science
-  role: Masters Student
+  role: Masters Student Member
   type: Student
-  pic: ../assets/png/profile/kurt_aquino.png
+  pic: ../assets/png/profile/kurt_aquino.jpg
 - last: Barraquias
   first: Betlee-Kyle
+  nickname: Mark
   program: Information Technology
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/mark_barraquias.png
+  pic: ../assets/png/profile/mark_barraquias.jpg
 - last: Batosalem
   first: Angelika
+  nickname: Ange
   program: Computer Science (Software Technology)
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/angelika_batosalem.png
+  pic: ../assets/png/profile/angelika_batosalem.jpg
 - last: Bornales	
   first: Amiel James	
+  nickname: Amiel
   program: Computer Science (Software Technology)	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/amiel_bornales.png
+  pic: ../assets/png/profile/amiel_bornales.jpg
 - last: Catarata	
   first: Joe Sam	
+  nickname: Joe
   program: Computer Science (Network Engineering)	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/joe_catarata.png
+  pic: ../assets/png/profile/joe_catarata.jpg
 - last: Chan	
   first: Myles	
+  nickname: Myles
   program: Computer Science	
   role: Probationary
   type: Student
-  pic: ../assets/png/profile/myles_chan.png
+  pic: ../assets/png/profile/myles_chan.jpg
 - last: Chan	
-  first: Erika	
+  first: Erika
+  nickname: Erika	
   program: Computer Science	
   role: Probationary
   type: Student
-  pic: ../assets/png/profile/erika_chan.png
+  pic: ../assets/png/profile/erika_chan.jpg
 - last: Ching	
-  first: Shyrene Julianne	
+  first: Shyrene Julianne
+  nickname: Shyrene	
   program: Computer Science	
   role: Probationary
   type: Student
-  pic: ../assets/png/profile/shyrene_ching.png
+  pic: ../assets/png/profile/shyrene_ching.jpg
 - last: Chiu	
   first: Krizia Lynn	
+  nickname: Krizia
   program: Computer Science (Software Technology)	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/krizia_chiu.png
+  pic: ../assets/png/profile/krizia_chiu.jpg
 - last: Choy	
   first: Matthew Seaver	
+  nickname: Seaver
   program: Computer Science	
-  role: Masters Student
+  role: Masters Student Member
   type: Student
-  pic: ../assets/png/profile/seaver_choy.png
+  pic: ../assets/png/profile/seaver_choy.jpg
 - last: Ciriaco	
   first: Jose Florencio IV	
+  nickname: Jose
   program: Computer Science (Software Technology)	
-  role: Research Assistant
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/jose_ciriaco.png
+  pic: ../assets/png/profile/jose_ciriaco.jpg
 - last: Cortez	
   first: Louise	
+  nickname: Louise
   program: Computer Science (Software Technology)	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/louise_cortez.png
+  pic: ../assets/png/profile/louise_cortez.jpg
 - last: Cruz	
   first: Diane	
+  nickname: Diane
   program: Computer Science	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/diane_cruz.png
+  pic: ../assets/png/profile/diane_cruz.jpg
 - last: Cruz	
   first: Jan Christian Blaise	
+  nickname: Blaise
   program: Computer Science (Software Technology)	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/blaise_cruz.png
+  pic: ../assets/png/profile/blaise_cruz.jpg
 - last: Cruzada	
   first: Joshua	
+  nickname: Josh
   program: Information Technology	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/joshua_cruzada.png
-- last: Dela Torre	
-  first: Alexczar	
-  program: Computer Science (Software Technology)	
-  role: Undergraduate Student
-  type: Student
-  pic: ../assets/png/profile/alexczar_delatorre.png
+  pic: ../assets/png/profile/joshua_cruzada.jpg
+# - last: Dela Torre	
+#   first: Alexczar	
+#   nickname: Alex
+#   program: Computer Science (Software Technology)	
+#   role: Undergraduate Member
+#   type: Student
+#   pic: ../assets/png/profile/alexczar_delatorre.jpg
 - last: Delos Reyes	
   first: Paolo	
+  nickname: Pao
   program: Computer Science	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/paolo_delosreyes.png
+  pic: ../assets/png/profile/paolo_delosreyes.jpg
+- last: Deniega	
+  first: Ronald Jason	
+  nickname: Jason
+  program: Information Systems	
+  role: Undergraduate Member
+  type: Student
+  pic: ../assets/png/profile/jason_deniega.jpg
 - last: Dino	
-  first: Jose Luis	
+  first: Jose Luis
+  nickname: Luigi	
   program: Computer Science (Network Engineering)	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/luis_dino.png
+  pic: ../assets/png/profile/luis_dino.jpg
 - last: Eroles	
   first: Carlo Miguel	
+  nickname: Carlo
   program: Computer Science (Software Technology)	
-  role: Research Assistant
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/carlo_eroles.png
+  pic: ../assets/png/profile/carlo_eroles.jpg
 - last: Fernandez	
   first: Austin	
+  nickname: Austin
   program: Computer Science	
-  role: Masters Student
+  role: Masters Student Member
   type: Student
-  pic: ../assets/png/profile/austin_fernandez.png
+  pic: ../assets/png/profile/austin_fernandez.jpg
 - last: Gaba	
   first: Janelle Marie	
+  nickname: Jam
   program: Computer Science (Software Technology)	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/janelle_gaba.png
+  pic: ../assets/png/profile/janelle_gaba.jpg
 - last: Gara	
   first: Glenn Paul	
+  nickname: Glenn
   program: Computer Science	
-  role: PhD Student
+  role: PhD Student Member
   type: Student
-  pic: ../assets/png/profile/glenn_gara.png
-- last: Guiao	
-  first: Joyce	
-  program: Statistics	
-  role: Masters Student
-  type: Student
-  pic: ../assets/png/profile/joyce_guiao.png
+  pic: ../assets/png/profile/glenn_gara.jpg
+# - last: Guiao	
+#   first: Joyce	
+#   nickname: Joyce
+#   program: Statistics	
+#   role: Masters Student Member
+#   type: Student
+#   pic: ../assets/png/profile/joyce_guiao.jpg
 - last: Inoue	
   first: Yuta	
+  nickname: Yuta
   program: Information Technology	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/yuta_inoue.png
+  pic: ../assets/png/profile/yuta_inoue.jpg
+# - last: Lee	
+#   first: Yun Sup	
+#   program: Computer Science	
+#   role: Undergraduate Member
+#   type: Student
+#   pic: ../assets/png/profile/lee_yunsup.jpg
 - last: Lee	
-  first: Yun Sup	
-  program: Computer Science	
-  role: Research Assistant
-  type: Student
-  pic: ../assets/png/profile/lee_yunsup.png
-- last: Lee	
-  first: Hans	
+  first: Hans
+  nickname: Hans	
   program: Computer Science (Software Technology)	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/hans_lee.png
+  pic: ../assets/png/profile/hans_lee.jpg
 - last: Lim	
   first: Mark Louis	
+  nickname: Mark
   program: Computer Science	
   role: Probationary
   type: Student
-  pic: ../assets/png/profile/mark_lim.png
+  pic: ../assets/png/profile/mark_lim.jpg
 - last: Lim	
   first: Johanna	
+  nickname: Johanna
   program: Computer Science	
   role: Probationary
   type: Student
-  pic: ../assets/png/profile/johanna_lim.png
+  pic: ../assets/png/profile/johanna_lim.jpg
 - last: Lim	
   first: Ivana	
+  nickname: Ivy
   program: Information Technology	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/ivana_lim.png
+  pic: ../assets/png/profile/ivana_lim.jpg
 - last: Llamas	
   first: Antonio Miguel	
+  nickname: Miggy
   program: Computer Science	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/miguel_llamas.png
+  pic: ../assets/png/profile/miguel_llamas.jpg
 - last: Lopez	
   first: Luis Enrico	
+  nickname: Luis
   program: Computer Science	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/luis_lopez.png
+  pic: ../assets/png/profile/luis_lopez.jpg
 - last: Macazo	
   first: Ira	
+  nickname: Ira
   program: Information Systems	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/ira_macazo.png
-- last: Manalili	
-  first: Fritz Michael	
-  program: Computer Science (Network Engineering)	
-  role: Undergraduate Student
-  type: Student
-  pic: ../assets/png/profile/fritz_manalili.png
+  pic: ../assets/png/profile/ira_macazo.jpg
+# - last: Manalili	
+#   first: Fritz Michael	
+#   program: Computer Science (Network Engineering)	
+#   role: Undergraduate Member
+#   type: Student
+#   pic: ../assets/png/profile/fritz_manalili.jpg
 - last: Manzano	
   first: Joshua	
+  nickname: Josh
   program: Computer Science	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/joshua_manzano.png
+  pic: ../assets/png/profile/joshua_manzano.jpg
 - last: Marasigan	
   first: Geremiah Zachary	
+  nickname: Zach
   program: Computer Science	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/geremiah_marasigan.png
+  pic: ../assets/png/profile/geremiah_marasigan.jpg
 - last: Martinez	
   first: Jesin Jarod	
+  nickname: Jarod
   program: Computer Science (Software Technology)	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/jarod_martinez.png
-- last: McCarthy	
-  first: Tadhg	
-  program: Computer Science	
-  role: Undergraduate Student
-  type: Student
-  pic: ../assets/png/profile/tadhg_mccarthy.png
+  pic: ../assets/png/profile/jarod_martinez.jpg
+# - last: McCarthy	
+#   first: Tadhg	
+#   nickname: Tadhg
+#   program: Computer Science	
+#   role: Undergraduate Member
+#   type: Student
+#   pic: ../assets/png/profile/tadhg_mccarthy.jpg
 - last: Mendoza	
   first: Emir	
+  nickname: Emir
   program: Computer Science	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/emir_mendoza.png
+  pic: ../assets/png/profile/emir_mendoza.jpg
 - last: Mirafuentes	
   first: Troy	
+  nickname: Troy
   program: Computer Science (Software Technology)	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/troy_mirafuentes.png
+  pic: ../assets/png/profile/troy_mirafuentes.jpg
 # - last: Molera	
 #   first: Kathrina Anne	
 #   program: Computer Science	
-#   role: Masters Student
+#   role: Masters Student Member
 #   type: Student
-#   pic: ../assets/png/profile/kathrina_molera.png
+#   pic: ../assets/png/profile/kathrina_molera.jpg
 - last: Naui	
   first: Rodel Patrick	
+  nickname: Patrick
   program: Computer Science-IST	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/patrick_naui.png
+  pic: ../assets/png/profile/patrick_naui.jpg
+- last: Nuncio	
+  first: Graciel
+  nickname: Graciel	
+  program: Computer Science	
+  role: Undergraduate Member
+  type: Student
+  pic: ../assets/png/profile/graciel_nuncio.jpg
 - last: Ng	
   first: Kaye Valerie	
+  nickname: Kaye
   program: Computer Science	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/kaye_ng.png
+  pic: ../assets/png/profile/kaye_ng.jpg
 - last: Ngo	
   first: Carlos	
+  nickname: Carlos
   program: Computer Science	
   role: Probationary
   type: Student
-  pic: ../assets/png/profile/carlos_ngo.png
+  pic: ../assets/png/profile/carlos_ngo.jpg
 - last: Ngo	
   first: Bertel	
+  nickname: Bertel
   program: Computer Science (Software Technology)	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/bertel_ngo.png
+  pic: ../assets/png/profile/bertel_ngo.jpg
 - last: Nodalo	
-  first: Giselle	
+  first: Giselle
+  nickname: Giselle	
   program: Computer Science (Software Technology)	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/giselle_nodalo.png
+  pic: ../assets/png/profile/giselle_nodalo.jpg
 - last: Non	
   first: Gary	
+  nickname: Gary
   program: Computer Science (Software Technology)	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/gary_non.png
+  pic: ../assets/png/profile/gary_non.jpg
 - last: Ona	
   first: Ian Benedict	
+  nickname: Ian
   program: Computer Science	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/ian_ona.png
+  pic: ../assets/png/profile/ian_ona.jpg
 - last: Peña	
   first: Romeo Manuel	
+  nickname: Rolo
   program: Computer Science	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/romeo_pena.png
+  pic: ../assets/png/profile/romeo_pena.jpg
 - last: Pensica	
   first: Jan Caleb Oliver	
+  nickname: Jan
   program: Computer Science (Software Technology)	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/caleb_pensica.png
+  pic: ../assets/png/profile/caleb_pensica.jpg
 - last: Pillejera	
   first: Jasper	
+  nickname: Jasper
   program: Computer Science (Software Technology)	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/jasper_pillejera.png
+  pic: ../assets/png/profile/jasper_pillejera.jpg
 - last: Poblete	
   first: Brian	
+  nickname: Brian
   program: Computer Science	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/brian_poblete.png
-- last: Reyes	
-  first: Arvin Christopher	
-  program: Computer Science	
-  role: Research Assistant
-  type: Student
-  pic: ../assets/png/profile/arvin_reyes.png
+  pic: ../assets/png/profile/brian_poblete.jpg
+# - last: Reyes	
+#   first: Arvin Christopher	
+#   program: Computer Science	
+#   role: Masters Student Member
+#   type: Student
+#   pic: ../assets/png/profile/arvin_reyes.jpg
 - last: Ricardo	
   first: Justin Gerard	
+  nickname: Justin
   program: Computer Science	
-  role: Masters Student
+  role: Masters Student Member
   type: Student
-  pic: ../assets/png/profile/justin_ricardo.png
+  pic: ../assets/png/profile/justin_ricardo.jpg
 - last: Rivera	
   first: Sophia Therese	
+  nickname: Sophia
   program: Computer Science (Software Technology)	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/sophia_rivera.png
+  pic: ../assets/png/profile/sophia_rivera.jpg
 - last: Rivera	
   first: Jared	
+  nickname: Jared
   program: Computer Science (Software Technology)	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/jared_rivera.png
+  pic: ../assets/png/profile/jared_rivera.jpg
+- last: Roxas	Jr
+  first: Randito Faustino	
+  nickname: Randi
+  program: Computer Science (Computer Systems Eng'g)	
+  role: Undergraduate Member
+  type: Student
+  pic: ../assets/png/profile/randito_roxas.jpg
 - last: Sanchez	
   first: Mark Gavin	
+  nickname: Mark
   program: Computer Science (Software Technology)	
-  role: Research Assistant
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/mark_sanchez.png
+  pic: ../assets/png/profile/mark_sanchez.jpg
 - last: Santiago	
   first: Jose Maria III	
+  nickname: JM
   program: Computer Science (Software Technology)	
-  role: Research Assistant
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/jm_santiago.png
+  pic: ../assets/png/profile/jm_santiago.jpg
 - last: Santiago	
   first: Gabriel	
+  nickname: Gab
   program: Computer Science (Software Technology)	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/gabriel_santiago.png
+  pic: ../assets/png/profile/gabriel_santiago.jpg
 - last: Santiago	
   first: Kyle	
+  nickname: Kyle
   program: Computer Science	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/kyle_santiago.png
+  pic: ../assets/png/profile/kyle_santiago.jpg
 - last: Sie	
   first: Stanley	
+  nickname: Stanley
   program: Computer Science	
   role: Probationary
   type: Student
-  pic: ../assets/png/profile/stanley_sie.png
+  pic: ../assets/png/profile/stanley_sie.jpg
 - last: Soliven	
   first: Adrienne	
+  nickname: AD
   program: Computer Science	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/adrienne_solliven.png
+  pic: ../assets/png/profile/adrienne_soliven.jpg
 - last: Tan	
   first: Julianne	
+  nickname: Julianne
   program: Computer Science (Software Technology)	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/julianne_tan.png
+  pic: ../assets/png/profile/julianne_tan.jpg
 - last: Teh	
   first: Brandon	
-  program: Computer Science-CSE	
-  role: Undergraduate Student
+  nickname: Brandon
+  program: Computer Science (Computer Systems Eng'g)	
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/brandon_teh.png
+  pic: ../assets/png/profile/brandon_teh.jpg
 - last: Ticug	
   first: Jonal Ray	
+  nickname: Jonal
   program: Computer Science (Software Technology)	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/jonal_ticug.png
+  pic: ../assets/png/profile/jonal_ticug.jpg
+- last: Tinsay	
+  first: Shenn Margareth	
+  nickname: Shenn
+  program: Computer Science	
+  role: Undergraduate Member
+  type: Student
+  pic: ../assets/png/profile/shenn_tinsay.jpg
 - last: Valenzuela	
   first: Jolene	
+  nickname: Jolene
   program: Computer Science (Software Technology)	
-  role: Undergraduate Student
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/jolene_valenzuela.png
+  pic: ../assets/png/profile/jolene_valenzuela.jpg
 - last: De Castro	
   first: Julian	
+  nickname: Julian
   program: Computer Science	
-  role: Research Assistant
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/julian_decastro.png
+  pic: ../assets/png/profile/julian_decastro.jpg
 - last: Ato	
   first: Paolo Miguel B.	
+  nickname: Paolo
   program: Computer Science	
-  role: Research Assitant
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/paolo_ato.png
+  pic: ../assets/png/profile/paolo_ato.jpg
 - last: Santos	
   first: Antonello	
+  nickname: Antonello
   program: Computer Science	
-  role: Research Assitant
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/antonello_santos.png
+  pic: ../assets/png/profile/antonello_santos.jpg
 - last: Salcedo	
   first: Antoine Michael M.	
+  nickname: Antoine
   program: Computer Science	
-  role: Research Assitant
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/antoine_salcedo.png
+  pic: ../assets/png/profile/antoine_salcedo.jpg
 - last: Valencia	
   first: Josh Cezar L.	
+  nickname: Josh
   program: Computer Science	
-  role: Research Assitant
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/josh_valencia.png
+  pic: ../assets/png/profile/josh_valencia.jpg
 - last: Calimag	
   first: Fritz	
+  nickname: Fritz
   program: Computer Science	
-  role: Research Assitant
+  role: Undergraduate Member
   type: Student
-  pic: ../assets/png/profile/fritz_calimag.png
+  pic: ../assets/png/profile/fritz_calimag.jpg

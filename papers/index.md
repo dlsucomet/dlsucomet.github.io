@@ -7,7 +7,7 @@ title: Papers
 <!-- Override column widths because of changes in content. -->
 <style>
     .twocol-content {
-        margin-bottom: 40px;
+        margin-bottom: 20px;
     }
 
     .twocol-section {
