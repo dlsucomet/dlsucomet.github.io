@@ -343,7 +343,7 @@
   }
 }
 
-.main-content, .post-content, .research-content {
+.main-content, .post-content, .research-content, .about-content {
   margin-bottom: $spacing-unit;
 
   h2 {
@@ -789,7 +789,8 @@ p.research-misc {
 
 .details-fullname {
   font-weight: 600;
-  font-size: $base-font-size*1.1;
+  font-size: $base-font-size;
+  padding-bottom: 3px;
 }
 
 .details {
@@ -799,16 +800,18 @@ p.research-misc {
 .details.is-visible {
   display: block;
   padding-bottom: 3px;
+  line-height: $base-line-height*.8;
+  transition-property: display;
+  transition-duration: 4s;
+  transition-delay: 2s;
 }
 
 .Faculty.is-visible {
-  background: linear-gradient(0deg, $comet-blue-color 34%, transparent);
-  opacity: 0.9;
+  background: linear-gradient(0deg, $comet-blue-color 10%, transparent 66%);
 }
 
 .Student.is-visible {
-  background: linear-gradient(0deg, $comet-green-color 34%, transparent);
-  opacity: 0.9;
+  background: linear-gradient(0deg, $comet-green-color 10%, transparent 66%);
 }
 
 .nickname {
@@ -822,22 +825,39 @@ p.research-misc {
   text-shadow: 1px 1px 2px $comet-green-color-dark;
 }
 
- .alumni-wrapper {
-   display: flex;
-   flex-flow: column wrap;
-   align-items: baseline;
-   align-content: flex-start;
-   justify-content: flex-start;
-   height: 400px;
-   width: inherit;
+.alumni-wrapper {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: baseline;
+  align-content: flex-start;
+  justify-content: flex-start;
+  height: 400px;
+  width: inherit;
 
-    @include media-query($on-palm) {
-      height: 100%;
-    }
+  @include media-query($on-palm) {
+    height: 100%;
+  }
 
-    p {
-      margin-bottom: 0px;
-      margin-right: 50px;
-    }
- }
+  p {
+    margin-bottom: 0px;
+    margin-right: 50px;
+  }
+}
+
+
+//  About page
+.about-content {
+  font-size: $base-font-size*1.1;
+}
+
+.about-highlight {
+  font-weight: 500;
+  color: $comet-highlight-color;
+}
+
+// Main page
+.abstract-overview {
+  font-size: $base-font-size*1.2;
+  margin-bottom: 30px;
+}
 
