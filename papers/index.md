@@ -49,7 +49,7 @@ title: Papers
                             {% endif %}
                         </p>
                         <p>{{ paper.authors }}</p>
-                        <p><em>{{ paper.venue }}</em>, {{ paper.year }}</p>
+                        <p><em>{% if paper.toappear %}(To appear in)&nbsp;{% endif %}{{ paper.venue }}</em>, {{ paper.year }}</p>
                         <p class="pub-misc">
                             {% if paper.file %}
                                 <a class="pub-link" href="{{ paper.file }}"><i class="ai ai-open-access ai-lg"></i>PDF</a>

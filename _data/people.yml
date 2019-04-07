@@ -54,6 +54,7 @@
   program: Statistics	
   role: Assistant Professor
   interests: Complex Systems, Spatial Analysis
+  type: Faculty
   pic: ../assets/png/profile/robert_leong.jpg
 - last: Villagracia	
   first: Al Rey	
@@ -90,563 +91,563 @@
 - last: Acorda
   first: Luigi
   nickname: Luigi
-  program: Computer Science (Software Technology)
+  program: BS CS - Software Technology
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/luigi_acorda.jpg
 - last: Acuña
   first: Allyza
   nickname: Allyza
-  program: Computer Science (Software Technology)
+  program: BS CS - Software Technology
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/allyza_acuna.jpg
-- last: Agno
-  first: Alexander II
+- last: Agno II
+  first: Alexander
   nickname: Alex
-  program: Computer Science (Software Technology)
+  program: BS CS - Software Technology
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/alex_agno.jpg
 - last: Ang
   first: Jerald
   nickname: Jerald
-  program: Computer Science
+  program: BS Computer Science
   role: Probationary
   type: Student
   pic: ../assets/png/profile/jerald_ang.jpg
 - last: Ansay
   first: Lynux
   nickname: Lynux
-  program: Computer Science
+  program: BS Computer Science
   role: Probationary
   type: Student
   pic: ../assets/png/profile/lynux_ansay.jpg
 - last: Ante
   first: Arvin Roi
   nickname: Roi
-  program: Computer Science (Software Technology)
+  program: BS CS - Software Technology
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/roi_ante.jpg
 - last: Aquino
   first: Kurt
   nickname: Kurt
-  program: Computer Science
+  program: MSc Computer Science
   role: Masters Student Member
   type: Student
   pic: ../assets/png/profile/kurt_aquino.jpg
 - last: Barraquias
   first: Betlee-Kyle
   nickname: Mark
-  program: Information Technology
+  program: BS Information Technology
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/mark_barraquias.jpg
 - last: Batosalem
   first: Angelika
   nickname: Ange
-  program: Computer Science (Software Technology)
+  program: BS CS - Software Technology
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/angelika_batosalem.jpg
 - last: Bornales	
   first: Amiel James	
   nickname: Amiel
-  program: Computer Science (Software Technology)	
+  program: BS CS - Software Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/amiel_bornales.jpg
 - last: Catarata	
   first: Joe Sam	
   nickname: Joe
-  program: Computer Science (Network Engineering)	
+  program: BS CS - Network Eng'g	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/joe_catarata.jpg
 - last: Chan	
   first: Myles	
   nickname: Myles
-  program: Computer Science	
+  program: BS Computer Science	
   role: Probationary
   type: Student
   pic: ../assets/png/profile/myles_chan.jpg
 - last: Chan	
   first: Erika
   nickname: Erika	
-  program: Computer Science	
+  program: BS Computer Science	
   role: Probationary
   type: Student
   pic: ../assets/png/profile/erika_chan.jpg
 - last: Ching	
   first: Shyrene Julianne
   nickname: Shyrene	
-  program: Computer Science	
+  program: BS Computer Science	
   role: Probationary
   type: Student
   pic: ../assets/png/profile/shyrene_ching.jpg
 - last: Chiu	
   first: Krizia Lynn	
   nickname: Krizia
-  program: Computer Science (Software Technology)	
+  program: BS CS - Software Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/krizia_chiu.jpg
 - last: Choy	
   first: Matthew Seaver	
   nickname: Seaver
-  program: Computer Science	
+  program: MSc Computer Science	
   role: Masters Student Member
   type: Student
   pic: ../assets/png/profile/seaver_choy.jpg
 - last: Ciriaco	
   first: Jose Florencio IV	
   nickname: Jose
-  program: Computer Science (Software Technology)	
+  program: BS CS - Software Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/jose_ciriaco.jpg
 - last: Cortez	
   first: Louise	
   nickname: Louise
-  program: Computer Science (Software Technology)	
+  program: BS CS - Software Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/louise_cortez.jpg
 - last: Cruz	
   first: Diane	
   nickname: Diane
-  program: Computer Science	
+  program: BS Computer Science	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/diane_cruz.jpg
 - last: Cruz	
   first: Jan Christian Blaise	
   nickname: Blaise
-  program: Computer Science (Software Technology)	
+  program: BS CS - Software Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/blaise_cruz.jpg
 - last: Cruzada	
   first: Joshua	
   nickname: Josh
-  program: Information Technology	
+  program: BS Information Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/joshua_cruzada.jpg
 # - last: Dela Torre	
 #   first: Alexczar	
 #   nickname: Alex
-#   program: Computer Science (Software Technology)	
+#   program: BS CS - Software Technology	
 #   role: Undergraduate Member
 #   type: Student
 #   pic: ../assets/png/profile/alexczar_delatorre.jpg
 - last: Delos Reyes	
   first: Paolo	
   nickname: Pao
-  program: Computer Science	
+  program: BS Computer Science	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/paolo_delosreyes.jpg
 - last: Deniega	
   first: Ronald Jason	
   nickname: Jason
-  program: Information Systems	
+  program: BS Information Systems	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/jason_deniega.jpg
 - last: Dino	
   first: Jose Luis
   nickname: Luigi	
-  program: Computer Science (Network Engineering)	
+  program: BS CS - Network Eng'g	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/luis_dino.jpg
 - last: Eroles	
   first: Carlo Miguel	
   nickname: Carlo
-  program: Computer Science (Software Technology)	
+  program: BS CS - Software Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/carlo_eroles.jpg
 - last: Fernandez	
   first: Austin	
   nickname: Austin
-  program: Computer Science	
+  program: MSc Computer Science	
   role: Masters Student Member
   type: Student
   pic: ../assets/png/profile/austin_fernandez.jpg
 - last: Gaba	
   first: Janelle Marie	
   nickname: Jam
-  program: Computer Science (Software Technology)	
+  program: BS CS - Software Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/janelle_gaba.jpg
 - last: Gara	
   first: Glenn Paul	
   nickname: Glenn
-  program: Computer Science	
+  program: PhD Computer Science	
   role: PhD Student Member
   type: Student
   pic: ../assets/png/profile/glenn_gara.jpg
 # - last: Guiao	
 #   first: Joyce	
 #   nickname: Joyce
-#   program: Statistics	
+#   program: MSc Statistics	
 #   role: Masters Student Member
 #   type: Student
 #   pic: ../assets/png/profile/joyce_guiao.jpg
 - last: Inoue	
   first: Yuta	
   nickname: Yuta
-  program: Information Technology	
+  program: BS Information Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/yuta_inoue.jpg
 # - last: Lee	
 #   first: Yun Sup	
-#   program: Computer Science	
+#   program: MSc Computer Science	
 #   role: Undergraduate Member
 #   type: Student
 #   pic: ../assets/png/profile/lee_yunsup.jpg
 - last: Lee	
   first: Hans
   nickname: Hans	
-  program: Computer Science (Software Technology)	
+  program: BS CS - Software Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/hans_lee.jpg
 - last: Lim	
   first: Mark Louis	
   nickname: Mark
-  program: Computer Science	
+  program: BS Computer Science	
   role: Probationary
   type: Student
   pic: ../assets/png/profile/mark_lim.jpg
 - last: Lim	
   first: Johanna	
   nickname: Johanna
-  program: Computer Science	
+  program: BS Computer Science	
   role: Probationary
   type: Student
   pic: ../assets/png/profile/johanna_lim.jpg
 - last: Lim	
   first: Ivana	
   nickname: Ivy
-  program: Information Technology	
+  program: BS Information Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/ivana_lim.jpg
 - last: Llamas	
   first: Antonio Miguel	
   nickname: Miggy
-  program: Computer Science	
+  program: BS Computer Science	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/miguel_llamas.jpg
 - last: Lopez	
   first: Luis Enrico	
   nickname: Luis
-  program: Computer Science	
+  program: BS Computer Science	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/luis_lopez.jpg
 - last: Macazo	
   first: Ira	
   nickname: Ira
-  program: Information Systems	
+  program: BS Information Systems	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/ira_macazo.jpg
 # - last: Manalili	
 #   first: Fritz Michael	
-#   program: Computer Science (Network Engineering)	
+#   program: BS CS - Network Eng'g	
 #   role: Undergraduate Member
 #   type: Student
 #   pic: ../assets/png/profile/fritz_manalili.jpg
 - last: Manzano	
   first: Joshua	
   nickname: Josh
-  program: Computer Science	
+  program: BS Computer Science	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/joshua_manzano.jpg
 - last: Marasigan	
   first: Geremiah Zachary	
   nickname: Zach
-  program: Computer Science	
+  program: BS Computer Science	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/geremiah_marasigan.jpg
 - last: Martinez	
   first: Jesin Jarod	
   nickname: Jarod
-  program: Computer Science (Software Technology)	
+  program: BS CS - Software Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/jarod_martinez.jpg
 # - last: McCarthy	
 #   first: Tadhg	
 #   nickname: Tadhg
-#   program: Computer Science	
+#   program: BS Computer Science	
 #   role: Undergraduate Member
 #   type: Student
 #   pic: ../assets/png/profile/tadhg_mccarthy.jpg
 - last: Mendoza	
   first: Emir	
   nickname: Emir
-  program: Computer Science	
+  program: BS Computer Science	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/emir_mendoza.jpg
 - last: Mirafuentes	
   first: Troy	
   nickname: Troy
-  program: Computer Science (Software Technology)	
+  program: BS CS - Software Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/troy_mirafuentes.jpg
 # - last: Molera	
 #   first: Kathrina Anne	
-#   program: Computer Science	
+#   program: MSc Computer Science	
 #   role: Masters Student Member
 #   type: Student
 #   pic: ../assets/png/profile/kathrina_molera.jpg
 - last: Naui	
   first: Rodel Patrick	
   nickname: Patrick
-  program: Computer Science-IST	
+  program: BS CS - Instructional Systems Tech.	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/patrick_naui.jpg
 - last: Nuncio	
   first: Graciel
   nickname: Graciel	
-  program: Computer Science	
+  program: BS Computer Science	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/graciel_nuncio.jpg
 - last: Ng	
   first: Kaye Valerie	
   nickname: Kaye
-  program: Computer Science	
+  program: BS Computer Science	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/kaye_ng.jpg
 - last: Ngo	
   first: Carlos	
   nickname: Carlos
-  program: Computer Science	
+  program: BS Computer Science	
   role: Probationary
   type: Student
   pic: ../assets/png/profile/carlos_ngo.jpg
 - last: Ngo	
   first: Bertel	
   nickname: Bertel
-  program: Computer Science (Software Technology)	
+  program: BS CS - Software Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/bertel_ngo.jpg
 - last: Nodalo	
   first: Giselle
   nickname: Giselle	
-  program: Computer Science (Software Technology)	
+  program: BS CS - Software Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/giselle_nodalo.jpg
 - last: Non	
   first: Gary	
   nickname: Gary
-  program: Computer Science (Software Technology)	
+  program: BS CS - Software Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/gary_non.jpg
 - last: Ona	
   first: Ian Benedict	
   nickname: Ian
-  program: Computer Science	
+  program: BS Computer Science	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/ian_ona.jpg
 - last: Peña	
   first: Romeo Manuel	
   nickname: Rolo
-  program: Computer Science	
+  program: BS Computer Science	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/romeo_pena.jpg
 - last: Pensica	
   first: Jan Caleb Oliver	
   nickname: Jan
-  program: Computer Science (Software Technology)	
+  program: BS CS - Software Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/caleb_pensica.jpg
 - last: Pillejera	
   first: Jasper	
   nickname: Jasper
-  program: Computer Science (Software Technology)	
+  program: BS CS - Software Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/jasper_pillejera.jpg
 - last: Poblete	
   first: Brian	
   nickname: Brian
-  program: Computer Science	
+  program: BS Computer Science	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/brian_poblete.jpg
 # - last: Reyes	
 #   first: Arvin Christopher	
-#   program: Computer Science	
+#   program: MSc Computer Science	
 #   role: Masters Student Member
 #   type: Student
 #   pic: ../assets/png/profile/arvin_reyes.jpg
 - last: Ricardo	
   first: Justin Gerard	
   nickname: Justin
-  program: Computer Science	
+  program: MSc Computer Science	
   role: Masters Student Member
   type: Student
   pic: ../assets/png/profile/justin_ricardo.jpg
 - last: Rivera	
   first: Sophia Therese	
   nickname: Sophia
-  program: Computer Science (Software Technology)	
+  program: BS CS - Software Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/sophia_rivera.jpg
 - last: Rivera	
   first: Jared	
   nickname: Jared
-  program: Computer Science (Software Technology)	
+  program: BS CS - Software Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/jared_rivera.jpg
 - last: Roxas	Jr
   first: Randito Faustino	
   nickname: Randi
-  program: Computer Science (Computer Systems Eng'g)	
+  program: BS CS - Computer Systems Eng'g	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/randito_roxas.jpg
 - last: Sanchez	
   first: Mark Gavin	
   nickname: Mark
-  program: Computer Science (Software Technology)	
+  program: BS CS - Software Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/mark_sanchez.jpg
 - last: Santiago	
   first: Jose Maria III	
   nickname: JM
-  program: Computer Science (Software Technology)	
+  program: BS CS - Software Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/jm_santiago.jpg
 - last: Santiago	
   first: Gabriel	
   nickname: Gab
-  program: Computer Science (Software Technology)	
+  program: BS CS - Software Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/gabriel_santiago.jpg
 - last: Santiago	
   first: Kyle	
   nickname: Kyle
-  program: Computer Science	
+  program: BS Computer Science	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/kyle_santiago.jpg
 - last: Sie	
   first: Stanley	
   nickname: Stanley
-  program: Computer Science	
+  program: BS Computer Science	
   role: Probationary
   type: Student
   pic: ../assets/png/profile/stanley_sie.jpg
 - last: Soliven	
   first: Adrienne	
   nickname: AD
-  program: Computer Science	
+  program: BS Computer Science	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/adrienne_soliven.jpg
 - last: Tan	
   first: Julianne	
   nickname: Julianne
-  program: Computer Science (Software Technology)	
+  program: BS CS - Software Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/julianne_tan.jpg
 - last: Teh	
   first: Brandon	
   nickname: Brandon
-  program: Computer Science (Computer Systems Eng'g)	
+  program: BS CS - Computer Systems Eng'g	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/brandon_teh.jpg
 - last: Ticug	
   first: Jonal Ray	
   nickname: Jonal
-  program: Computer Science (Software Technology)	
+  program: BS CS - Software Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/jonal_ticug.jpg
 - last: Tinsay	
   first: Shenn Margareth	
   nickname: Shenn
-  program: Computer Science	
+  program: BS Computer Science	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/shenn_tinsay.jpg
 - last: Valenzuela	
   first: Jolene	
   nickname: Jolene
-  program: Computer Science (Software Technology)	
+  program: BS CS - Software Technology	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/jolene_valenzuela.jpg
 - last: De Castro	
   first: Julian	
   nickname: Julian
-  program: Computer Science	
+  program: BS Computer Science	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/julian_decastro.jpg
 - last: Ato	
   first: Paolo Miguel B.	
   nickname: Paolo
-  program: Computer Science	
+  program: BS Computer Science	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/paolo_ato.jpg
 - last: Santos	
   first: Antonello	
   nickname: Antonello
-  program: Computer Science	
+  program: BS Computer Science	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/antonello_santos.jpg
 - last: Salcedo	
   first: Antoine Michael M.	
   nickname: Antoine
-  program: Computer Science	
+  program: BS Computer Science	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/antoine_salcedo.jpg
 - last: Valencia	
   first: Josh Cezar L.	
   nickname: Josh
-  program: Computer Science	
+  program: BS Computer Science	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/josh_valencia.jpg
 - last: Calimag	
   first: Fritz	
   nickname: Fritz
-  program: Computer Science	
+  program: BS Computer Science	
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/fritz_calimag.jpg

@@ -752,21 +752,75 @@ p.research-misc {
 
 .person {
     margin: 0px 5px 10px;
+    position: relative;
+    color: white;
+
+    a {
+      color: white;
+    }
 
     p {
       margin: 0px;
     }
 }
 
- .person-pic {
-    border-radius: 5px;
-    box-shadow: 0 0 2px $grey-color;
-    opacity: 0.7;
+.person-pic {
+  z-index: 1;
+  border-radius: 2px;
+  box-shadow: 0 0 2px $grey-color;
+}
 
-    &:hover {
-      opacity: 0.9;
-    }
- }
+.person-details {
+  position: absolute;
+  z-index: 2;
+  top: 0px;
+  left: 0px;
+  width: 140px;
+  height: 200px;
+  border-radius: 2px;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: flex-end;
+
+  p {
+    margin-left: 5px;
+  }
+}
+
+.details-fullname {
+  font-weight: 600;
+  font-size: $base-font-size*1.1;
+}
+
+.details {
+  display: none;
+}
+
+.details.is-visible {
+  display: block;
+  padding-bottom: 3px;
+}
+
+.Faculty.is-visible {
+  background: linear-gradient(0deg, $comet-blue-color 34%, transparent);
+  opacity: 0.9;
+}
+
+.Student.is-visible {
+  background: linear-gradient(0deg, $comet-green-color 34%, transparent);
+  opacity: 0.9;
+}
+
+.nickname {
+  display: none;
+}
+
+.nickname.is-visible {
+  display: block;
+  font-weight: 600;
+  font-size: $base-font-size*1.2;
+  text-shadow: 1px 1px 2px $comet-green-color-dark;
+}
 
  .alumni-wrapper {
    display: flex;
