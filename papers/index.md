@@ -29,7 +29,6 @@ title: Papers
             <p class="twocol-left-col"></p>
             <p class="twocol-entry">{{ item.name }}</p>
         </div>
-
         {% if item.papers %}
             {% for paper in item.papers %}
                 <div class="twocol-content">

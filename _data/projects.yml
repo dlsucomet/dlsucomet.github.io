@@ -1,0 +1,5 @@
+- name: CRNT Polyglot
+  link: /CRNT-Polyglot/
+  img: ../assets/png/polyglot-eq.png
+  alt: An online tool for chemical reaction network analysis.
+  desc: An online tool to convert differential equations to chemical reactions in CoNtRol, ERNEST, and CRNToolbox formats.
