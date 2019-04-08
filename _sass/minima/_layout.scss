@@ -67,11 +67,11 @@
   margin-bottom: 10px;
 }
 
+.site-subtitle > a:hover {
+  color: $dlsu-green-color;
+}
+
 .site-nav {
-  // float: right;
-  // margin-top: $base-font-size*3.7; 
-  // padding: $base-font-size 0 0;
-  // line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: 1.5px;
   text-transform: uppercase;
 
@@ -101,7 +101,6 @@
     font-weight: 600;
     padding-bottom: 8px;
     border-bottom: 2px solid $brand-color;
-    // line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -844,7 +843,6 @@ p.research-misc {
   }
 }
 
-
 //  About page
 .about-content {
   font-size: $base-font-size*1.1;
@@ -861,3 +859,10 @@ p.research-misc {
   margin-bottom: 30px;
 }
 
+.sidebar-items > li > p {
+  margin-bottom: 2px;
+}
+
+.news-date {
+  font-weight: 600;
+}
