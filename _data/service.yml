@@ -1,56 +1,97 @@
 - name: Cohort Leader
   members:
     - name: Giselle Nodalo
-      pic: ../assets/png/profile/giselle_nodalo.png
+      nickname: Giselle
+      type: Student
+      pic: ../assets/png/profile/giselle_nodalo.jpg
 - name: People Operations
-  lead:
+  members:
     - name: Julianne Tan
-      pic: ../assets/png/profile/julianne_tan.png
+      nickname: Julianne
+      role: Lead
+      type: Student
+      pic: ../assets/png/profile/julianne_tan.jpg
     - name: Krizia Lynn Chiu
-      pic: ../assets/png/profile/krizia_chiu.png
+      nickname: Krizia
+      role: Lead
+      type: Student
+      pic: ../assets/png/profile/krizia_chiu.jpg
     - name: Joshua Cruzada
-      pic: ../assets/png/profile/joshua_cruzada.png
+      nickname: Josh
+      role: Lead
+      type: Student
+      pic: ../assets/png/profile/joshua_cruzada.jpg
 - name: Project Management
-  lead:
+  members:
     - name: Jose Luis Diño
-      pic: ../assets/png/profile/luis_dino.png
-  members:
+      nickname: Luigi
+      role: Lead
+      type: Student
+      pic: ../assets/png/profile/luis_dino.jpg
     - name: Austin Fernandez
-      pic: ../assets/png/profile/austin_fernandez.png
+      nickname: Austin
+      type: Student
+      pic: ../assets/png/profile/austin_fernandez.jpg
     - name: Troy Mirafuentes
-      pic: ../assets/png/profile/troy_mirafuentes.png
+      nickname: Troy
+      type: Student
+      pic: ../assets/png/profile/troy_mirafuentes.jpg
 - name: Strategic Communications
-  lead:
-    - name: Diane Cruz
-      pic: ../assets/png/profile/diane_cruz.png
-    - name: Adrienne Solliven
-      pic: ../assets/png/profile/adrienne_solliven.png
   members:
+    - name: Diane Cruz
+      nickname: Diane
+      role: Lead
+      type: Student
+      pic: ../assets/png/profile/diane_cruz.jpg
+    - name: Adrienne Solliven
+      nickname: AD
+      role: Lead
+      type: Student
+      pic: ../assets/png/profile/adrienne_soliven.jpg
     - name: Luis Lopez
-      pic: ../assets/png/profile/luis_lopez.png
+      nickname: Luis
+      type: Student
+      pic: ../assets/png/profile/luis_lopez.jpg
     - name: Miguel Llamas
-      pic: ../assets/png/profile/miguel_llamas.png
+      nickname: Miggy
+      type: Student
+      pic: ../assets/png/profile/miguel_llamas.jpg
     - name: Ian Benedict Ona
-      pic: ../assets/png/profile/ian_ona.png
+      nickname: Ian
+      type: Student
+      pic: ../assets/png/profile/ian_ona.jpg
     - name: Kaye Ng
-      pic: ../assets/png/profile/kaye_ng.png
+      nickname: Kaye
+      type: Student
+      pic: ../assets/png/profile/kaye_ng.jpg
 - name: Lab Operations
-  lead:
+  members:
     - name: Jesin Jarod Martinez
-      pic: ../assets/png/profile/jarod_martinez.png
+      nickname: Jarod
+      role: Lead
+      type: Student
+      pic: ../assets/png/profile/jarod_martinez.jpg
 - name: Subject Matter Experts
   members:
     - name: Jan Christian Blaise Cruz
-      pic: ../assets/png/profile/blaise_cruz.png
+      nickname: Blaise
+      type: Student
+      pic: ../assets/png/profile/blaise_cruz.jpg
       subject: Machine Learning
-    - name: Mark (Betlee) Barraquias
-      pic: ../assets/png/profile/mark_barraquias.png
+    - name: Betlee-Kyle Barraquias
+      nickname: Mark
+      type: Student
+      pic: ../assets/png/profile/mark_barraquias.jpg
       subject: Web Technologies
     - name: Giselle Nodalo
-      pic: ../assets/png/profile/giselle_nodalo.png
+      nickname: Giselle
+      type: Student
+      pic: ../assets/png/profile/giselle_nodalo.jpg
       subject: UX
 - name: Technical Specialists
   members:
     - name: Joshua Cruzada
-      pic: ../assets/png/profile/joshua_cruzada.png
+      nickname: Josh
+      type: Student
+      pic: ../assets/png/profile/joshua_cruzada.jpg
       subject: Python, Git
