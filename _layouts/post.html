@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post blog" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
+    <p class="post-meta"><a href="/blog/">Blog</a> <span><i class="fas fa-chevron-right"></i></span> {{ page.category }}</p>
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
@@ -11,8 +12,10 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
       {% if page.author %}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+      <span>/</span> <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
       {% endif %}</p>
+      <img class="post-banner" src="{{ page.banner }}" alt="{{ page.banner-alt }}">
+      <p class="post-fig-caption">{{ page.banner-cap }}</p>
   </header>
 
   <div class="post-content" itemprop="articleBody">

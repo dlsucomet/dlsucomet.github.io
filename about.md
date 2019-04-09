@@ -6,9 +6,9 @@ permalink: /about/
 
 The Center for Complexity and Emerging Technologies (COMET) is an interdisciplinary research laboratory under the Advanced Research Institute for Informatics, Computing, and Networking (AdRIC) at De La Salle University. Our mission is to enhance our understanding of <span class="about-highlight">emergent phenomena in real-life systems (i.e. cities, mobility), sociotechnical systems (i.e. social networking sites, Wikipedia), and human-computer interactions</span> through the development of <span class="about-highlight">computational models</span> which are then used in the design of <span class="about-highlight">interactive tools, information systems, and interaction techniques</span>. We study the underlying dynamics and factors affecting behavior as humans interact with physical and digital information, services, and systems. 
 
-Our research lies at the intersection of Complex Systems, Human-Computer Interaction (HCI), Computer-Supported Cooperative Work (CSCW), Machine Learning, and Computing and Information Science. 
+## Research and Impact Areas
 
-## Research Questions and Impact Areas
+Our research lies at the intersection of Complex Systems, Human-Computer Interaction (HCI), Computer-Supported Cooperative Work (CSCW), Machine Learning, and Computing and Information Science. Despite the diversity in disciplines, we all strive to collaboratively work on research projects for the following themes.
 
 ### Cities, Crowds & Mobility
 - How might we increase our understanding of the complex human-system interactions within cities and their externalities?
@@ -35,10 +35,10 @@ Our research lies at the intersection of Complex Systems, Human-Computer Interac
 
 ## Background
 
-We started out as the Netcentric Laboratory, founded in 2008 and led by Prof. [Ralph Vincent Regalado](https://www.linkedin.com/in/rvregalado/). As a professional laboratory, the lab was focused on developing web and mobile applications, and growing the hackathon culture in DLSU.
+We started out as the Netcentric Laboratory, founded in 2008 and led by [Ralph Vincent Regalado](https://www.linkedin.com/in/rvregalado/). As a professional laboratory, the lab was focused on developing web and mobile applications, and growing the hackathon culture in DLSU.
 
-In 2015, Prof. Briane Paul V. Samson assumed leadership of the laboratory and crafted a new research strategy with Professors Courtney Ngo, Jordan Deja, Rafael Cabredo, Angelyn Lao, Stanley Tan, Robert Leong and Al Rey Villagracia. It was renamed to the Center for Complexity and Emerging Technologies to better reflect our shift to doing research on the fields of complex systems, human-computer interaction and civic computing. 
+In 2015, Briane Paul V. Samson assumed leadership of the laboratory and crafted a new research strategy with Courtney Ngo, Jordan Deja, Rafael Cabredo, Angelyn Lao, Stanley Tan, Robert Leong and Al Rey Villagracia. It was renamed to the Center for Complexity and Emerging Technologies to better reflect our shift to doing research on the fields of complex systems, human-computer interaction and civic computing. Within the lab, members specialize under 3 research groups: Complex Systems, Seamless Interactions, and Civic Services. 
 
-In 2017, Prof. Jordan Deja started leading the laboratory and reinvigorated our HCI research efforts, while 4 of our faculty researchers pursued PhD degrees in Japan, Taiwan and Australia. With his guidance, the DLSU chapter of the User Experience Society was founded by our student members Giselle Nodalo and Richard Parayno.
+In 2017, Jordan Deja started leading the laboratory and reinvigorated our HCI research efforts, while 4 of our faculty researchers pursued PhD degrees in Japan, Taiwan and Australia. With his guidance, the DLSU chapter of the User Experience Society was founded by our student members Giselle Nodalo and Richard Parayno.
 
-Since 2018, Professors Dickson Lim, Anish MS Shrestha and Unisse Chua have joined COMET to work on projects in economics, bioinformatics and data visualization.
+Since 2018, Dickson Lim, Anish MS Shrestha and Unisse Chua have joined COMET to work on projects in economics, bioinformatics and data visualization. The Machine Learning group was also started by Blaise Cruz, under the mentorship of Stanley Tan. 

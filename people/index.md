@@ -28,24 +28,26 @@ title: People
 </div>
 
 <h3 class="section-header">Service Teams</h3>
-<div class="team-wrapper">
+<div class="team-wrapper service-teams">
     {% for team in site.data.service %}
-    <h4 class="section-header">{{ team.name }}</h4>
-    <div class="people-wrapper">
-        {% for member in team.members %}
-            <span style="display:none">{% increment people_count %}</span>
-            <div class="person">
-                <img class="person-pic" src="{{ member.pic }}" alt="Photo of {{ member.name }}">
-                <div class="person-details {{ member.type }}" id="{{ people_count }}" onmouseover="show({{ people_count }});" onmouseout="hide({{ people_count }});">
-                    <p class="nickname is-visible">{{ member.nickname }}</p>
-                    <div class="details">
-                        <p class="details-fullname">{{ member.name }}</p>
-                        {% if member.role %}<p>{{ member.role }}</p>{% endif %}
-                        {% if member.subject %}<p>{{ member.subject }}</p>{% endif %}
+    <div>
+        <h4 class="section-header">{{ team.name }}</h4>
+        <div class="people-wrapper">
+            {% for member in team.members %}
+                <span style="display:none">{% increment people_count %}</span>
+                <div class="person">
+                    <img class="person-pic" src="{{ member.pic }}" alt="Photo of {{ member.name }}">
+                    <div class="person-details {{ member.type }}" id="{{ people_count }}" onmouseover="show({{ people_count }});" onmouseout="hide({{ people_count }});">
+                        <p class="nickname is-visible">{{ member.nickname }}</p>
+                        <div class="details">
+                            <p class="details-fullname">{{ member.name }}</p>
+                            {% if member.role %}<p>{{ member.role }}</p>{% endif %}
+                            {% if member.subject %}<p>{{ member.subject }}</p>{% endif %}
+                        </div>
                     </div>
                 </div>
-            </div>
-        {% endfor %}
+            {% endfor %}
+        </div>
     </div>
     {% endfor %}
 </div>

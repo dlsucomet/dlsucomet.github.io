@@ -298,6 +298,7 @@
   display: flex;
   flex-flow: row wrap;
   justify-content: space-between;
+  align-items: center;
 
   &:not(:last-child) {
     border-bottom: solid 1px $grey-color-light;
@@ -316,11 +317,12 @@
   margin-top: 15px;
 }
 
-.post-item-meta {
+.post-item-meta, .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
   text-transform: uppercase;
   letter-spacing: 1px;
+  margin-bottom: 10px;
 
   span {
     font-weight: bold;
@@ -350,10 +352,21 @@
   margin-bottom: $spacing-unit*0.5;
 }
 
+article.post.blog {
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+
+  @include media-query($on-palm) {
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+}
+
 .post-title {
-  @include relative-font-size(2);
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
+  @include relative-font-size(3);
+  letter-spacing: 1;
   font-weight: 500;
   line-height: 1;
   color: $comet-green-color;
@@ -363,14 +376,27 @@
   }
 }
 
-.bio-title, .pub-title {
-  @include relative-font-size(2);
-  letter-spacing: 0.1em;
+.post-banner {
+  width: 100%;
+  object-fit: cover;
+
+  @include media-query($on-palm) {
+    object-fit: contain;
+  }
+}
+
+.post-fig-caption {
+  font-style: italic;
+  color: $grey-color;
+}
+
+.main-title {
+  @include relative-font-size(2.5);
+  letter-spacing: 0.05em;
   text-transform: uppercase;
   font-weight: 500;
   line-height: 1;
   color: $comet-green-color;
-  display: inline;
 
   @include media-query($on-laptop) {
     @include relative-font-size(1.75);
@@ -847,7 +873,7 @@ h4.section-header {
 }
 
 .person {
-  margin: 0px 5px 10px;
+  margin: 0px 10px 10px 0px;
   position: relative;
   color: white;
 
@@ -922,6 +948,15 @@ h4.section-header {
 .team-wrapper {
   display: flex;
   flex-flow: column wrap;
+}
+
+.team-wrapper.service-teams {
+  display: flex;
+  flex-flow: row wrap;
+
+  > div {
+    margin-right: 20px;
+  }
 }
 
 .alumni-wrapper {

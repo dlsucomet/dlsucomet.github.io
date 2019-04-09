@@ -7,6 +7,8 @@ layout: default
 
 <article class="post">
 
+  <p class="post-meta"><a href="/papers/">Papers</a> <span><i class="fas fa-chevron-right"></i></span></p>
+
   {% assign researches = site.data.publications | where:"name", page.type | first %}
   {% assign research = researches.papers | where:"id", page.id | first %}
 

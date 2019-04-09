@@ -40,6 +40,10 @@ plugins:
 kramdown:
   input: GFM
 
+# Disqus
+disqus:
+  shortname: comet-dlsu-edu-ph
+
 # Google Analytics
 google_analytics: UA-134064054-1
 
