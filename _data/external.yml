@@ -1,0 +1,8 @@
+- name: Code on Github
+  shortname: Code
+  link: https://github.com/dlsucomet
+  icon: <i class="fab fa-github fa-2x"></i>
+- name: Stories on Medium
+  shortname: Stories
+  link: https://medium.com/dlsu-comet
+  icon: <i class="fab fa-medium fa-2x"></i>
