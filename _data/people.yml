@@ -24,6 +24,7 @@
   interests: Systems Biology, Chemical Reaction Networks
   type: Faculty
   pic: ../assets/png/profile/angelyn_lao.jpg
+  website: https://scholar.google.co.jp/citations?hl=en&user=pwzgQTwAAAAJ
 - last: Chua	
   first: Unisse
   nickname: Unisse
@@ -48,6 +49,7 @@
   interests: Computer Vision, Deep Learning
   type: Faculty
   pic: ../assets/png/profile/stanley_tan.jpg
+  website: https://scholar.google.co.jp/citations?hl=en&user=YD0btrgAAAAJ
 - last: Leong	
   first: Robert	
   nickname: Robert
@@ -56,6 +58,7 @@
   interests: Complex Systems, Spatial Analysis
   type: Faculty
   pic: ../assets/png/profile/robert_leong.jpg
+  website: https://scholar.google.co.jp/citations?hl=en&user=sszWRLUAAAAJ
 - last: Villagracia	
   first: Al Rey	
   nickname: Al Rey
@@ -64,6 +67,7 @@
   interests: Complex Systems
   type: Faculty
   pic: ../assets/png/profile/al_villagracia.jpg
+  website: https://scholar.google.co.jp/citations?hl=en&user=cImC570AAAAJ
 - last: Cabredo	
   first: Rafael	A.
   nickname: Raffy
@@ -72,6 +76,7 @@
   interests: Music Information Retrieval
   type: Faculty
   pic: ../assets/png/profile/rafael_cabredo.jpg
+  website: https://scholar.google.co.jp/citations?hl=en&user=3Fqol3cAAAAJ
 - last: Lim	
   first: Dickson	
   nickname: Dickson
