@@ -100,13 +100,13 @@
       type: Student
       pic: ../assets/png/profile/joshua_cruzada.jpg
       subject: Python, Git
-    - name: Brian Poblete
-      nickname: Brian
-      type: Student
-      pic: ../assets/png/profile/brian_poblete.jpg
-      subject: Web Development
-    - name: Emir Mendoza
-      nickname: Emir
-      type: Student
-      pic: ../assets/png/profile/emir_mendoza.jpg
-      subject: Web Development
+    # - name: Brian Poblete
+    #   nickname: Brian
+    #   type: Student
+    #   pic: ../assets/png/profile/brian_poblete.jpg
+    #   subject: Web Development
+    # - name: Emir Mendoza
+    #   nickname: Emir
+    #   type: Student
+    #   pic: ../assets/png/profile/emir_mendoza.jpg
+    #   subject: Web Development
