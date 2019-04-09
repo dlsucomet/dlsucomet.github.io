@@ -2,7 +2,13 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2018-11-23 20:00:32 +0900
-categories: jekyll update
+category: research
+author: Giselle Nodalo
+banner: /assets/png/trex-chiuxid.png
+banner-alt: TREX
+thumbnail: /assets/png/trex-chiuxid.png
+thumbnail-alt: TREX
+abstract: This is a first blog post that is for testing purposes only.
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

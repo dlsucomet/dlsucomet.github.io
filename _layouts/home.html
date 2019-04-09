@@ -4,23 +4,27 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-  
-  {{ content }}
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
 
-  <ul class="post-list">
+  <div class="post-list">
     {% for post in site.posts %}
-      <li>
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
+      <div class="post-list-item">
+        <div class=post-item-details>
+          {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+          <div class="post-item-meta">
+            {{ post.date | date: date_format }} <span>/</span> {{ post.category }}
+          </div>
+          <a class="post-item-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          <p>{{ post.abstract }}</p>
+          <p class="post-item-author">By {{ post.author }}</p>
+        </div>
+        <img class="post-item-thumb" src="{{ post.thumbnail }}" alt="{{ post.thumbnail-alt }}">
+      </div>
     {% endfor %}
-  </ul>
+    </div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
 
 </div>
