@@ -1,5 +1,5 @@
 ---
 layout: citation
-type: 2017
+year: 2017
 id: guitar-model
 ---

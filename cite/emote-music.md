@@ -1,5 +1,5 @@
 ---
 layout: citation
-type: Conference Papers
+year: 2018
 id: emote-music
 ---

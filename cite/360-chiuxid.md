@@ -1,5 +1,5 @@
 ---
 layout: citation
-type: Conference Papers
+year: 2019
 id: 360-chiuxid
 ---

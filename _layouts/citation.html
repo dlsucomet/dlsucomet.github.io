@@ -7,7 +7,7 @@ layout: default
 
 <article class="post">
 
-  {% assign researches = site.data.publications | where:"name", page.type | first %}
+  {% assign researches = site.data.publications | where:"name", page.year | first %}
   {% assign research = researches.papers | where:"id", page.id | first %}
 
   <header class="post-header">

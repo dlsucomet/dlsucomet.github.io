@@ -1,5 +1,5 @@
 ---
 layout: citation
-type: Conference Papers
+type: 2018
 id: flow-hcii
 ---

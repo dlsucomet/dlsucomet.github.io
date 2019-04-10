@@ -185,6 +185,20 @@
       abstract: "In this work-in-progress, we propose the design of an interaction that allows a guitar player to air guitar with the use of forearm Electromyogram (EMG). We integrate results from our previous study where we have used the same medium in training a classifier to recognize standard guitar chords. In this paper, we aim to train a classifier this time to recognize the different types of strums when playing the guitar. We collected data from ten (10) participants using the Myo armband doing strum repetitions for at least fifty (50) times. The strumming EMG data was then pre-processed and fed into a machine learning task to build a model. A k-Nearest Neighbor (k=11) classifier was trained and yielded an accuracy of at least 46% accuracy with a kappa statistic of 0.3712. Model results de- scribe that data size needs to be improved while considering equally the same set of features. Additionally, user insights and feedback on the armband usage as an alternative creative medium was gathered from our target respondents. Different views and insights are stated which opened opportunities for the improvement of the actual air guitar concept as a creativity tool."
       citation: "John Edel Tamani, Jan Christian Blaise Cruz, Joshua Raphaelle Cruzada, Jolene Valenzuela, Kevin Gray Chan, and Jordan Aiko Deja. 2018. Building Guitar Strum Models for an Interactive Air Guitar Prototype. In Proceedings of the 4th International Conference on Human-Computer Interaction and User Experience in Indonesia, CHIuXiD '18 (CHIuXiD '18), Yohannes Kurniawan, Eunice Sari, and Josh Adi Tedjasaputra (Eds.). ACM, New York, NY, USA, 18-22. DOI: https://doi.org/10.1145/3205946.3205972"
 
+    - id: autodidac
+      title: "AuToDiDAC: Automated Tool for Disease Detection and Assessment for Cacao Black Pod Rot"
+      authors: Daniel Stanley Tan, Robert Neil Leong, Ann Franchesca Laguna, Courtney Anne Ngo, Angelyn Lao, Divina M. Amalin & Dionisio G. Alvindia
+      year: 2018
+      venue: Crop Protection
+      link: https://doi.org/10.1016/j.cropro.2017.09.017
+      doi: 10.1016/j.cropro.2017.09.017
+      cite: /cite/autodidac-crop
+      bibtex: /bibtex/autodidac-crop
+      figure: ../assets/png/autodidac.png
+      alt: Cleaned image of a rice plant
+      citation: "Tan, D.S., Leong, R.N., Laguna, A.F., Ngo, C.A., Lao A., Amalin, D., Alvindia, D. (2018). AuToDiDAC: Automated Tool for Disease Detection and Assessment for Cacao Black Pod Rot. In: Crop Protection. DOI: https://doi.org/10.1016/j.cropro.2017.09.017"
+      abstract: "Pest control strategies for crop diseases highly depend on visual inspection to assess the severity of the infection, which usually lead to inconsistencies: either over or under assessment. These inconsistencies could be attributed to the limitations of humans to perceive small differences. A more precise disease assessment is needed for better pest management decision, which will result to a more efficient utilization and allocation of resources for farm inputs. This translates to a better income for cacao farmers. This paper introduces a mobile application named AuToDiDAC or Automated Tool for Disease Detection and Assessment for Cacao Black Pod Rot (BPR). AuToDiDAC automatically detects, separates, and assesses the infection level of BPR in cacao through image processing and machine learning techniques. It gives the farmers the capacity to objectively monitor and report the infection level of the BPR compared to the common visual rating for plant disease level of infection. Pixel-level accuracy test of the tool showed an average of 84% accuracy on an independent test set of ten cacao pod images."
+
 - name: 2017
   papers:
     - id: swarm
