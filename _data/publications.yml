@@ -4,12 +4,11 @@
       title: Exploring Factors that Influence Connected Drivers to (Not) Use or Follow Recommended Optimal Routes
       authors: Briane Paul V. Samson & Yasuyuki Sumi
       year: 2019
-      toappear: True
       venue: ACM CHI Conference on Human Factors in Computing Systems Proceedings (CHI)
       doi: 10.1145/3290605.3300601
       accept-rate: 23.8
       page: /papers/factors-not-follow
-      file: /files/2019samson_exploringfactors_chi19.pdf
+      acm: https://dl.acm.org/authorize?N672083
       arxiv: https://arxiv.org/abs/1901.06681
       cite: /cite/factors-not-follow
       bibtex: /bibtex/factors-not-follow
@@ -108,7 +107,7 @@
       authors: Austin Ryan Fernandez, Jordan Aiko Deja & Briane Paul V. Samson
       year: 2018
       venue: Asian HCI Symposium, CHI
-      link: https://dl.acm.org/authorize?N675125
+      acm: https://dl.acm.org/authorize?N675125
       doi: 10.1145/3205851.3205854
       cite: /cite/heuristic-web
       bibtex: /bibtex/heuristic-web

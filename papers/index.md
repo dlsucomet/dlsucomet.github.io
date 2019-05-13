@@ -50,14 +50,17 @@ title: Papers
                         <p>{{ paper.authors }}</p>
                         <p><em>{% if paper.toappear %}(To appear in)&nbsp;{% endif %}{{ paper.venue }}</em>, {{ paper.year }}</p>
                         <p class="pub-misc">
+                            {% if paper.link %}
+                                <a class="pub-link" href="{{ paper.link }}"><i class="fas fa-external-link-square-alt"></i>&nbsp;Publisher's Copy</a>
+                            {% endif %}
+                            {% if paper.acm %}
+                                <a class="pub-link" href="{{ paper.acm }}"><i class="ai ai-acm ai-lg"></i>&nbsp;Open Access ACM</a>
+                            {% endif %}
                             {% if paper.file %}
                                 <a class="pub-link" href="{{ paper.file }}"><i class="ai ai-open-access ai-lg"></i>PDF</a>
                             {% endif %}
                             {% if paper.arxiv %}
                                 <a class="pub-link" href="{{ paper.arxiv }}"><i class="ai ai-arxiv ai-lg"></i>&nbsp;arXiv Preprint</a>
-                            {% endif %}
-                            {% if paper.link %}
-                                <a class="pub-link" href="{{ paper.link }}"><i class="fas fa-external-link-square-alt"></i>&nbsp;Publisher's Copy</a>
                             {% endif %}
                             {% if paper.doi %}
                                 <a class="pub-link" href="https://doi.org/{{ paper.doi }}"><i class="fas fa-globe"></i>&nbsp;DOI</a>
