@@ -28,10 +28,6 @@
       role: Lead
       type: Student
       pic: ../assets/png/profile/luis_dino.jpg
-    - name: Austin Fernandez
-      nickname: Austin
-      type: Student
-      pic: ../assets/png/profile/austin_fernandez.jpg
     - name: Troy Mirafuentes
       nickname: Troy
       type: Student

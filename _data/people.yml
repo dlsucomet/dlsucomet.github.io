@@ -93,6 +93,14 @@
   type: Faculty
   pic: ../assets/png/profile/anish_shrestha.jpg
   website: http://www.a-transposable-element.com/
+- last: Fernandez	
+  first: Austin	
+  nickname: Austin
+  program: Computer Science	
+  role: Lecturer
+  interests: Machine Learning, HCI
+  type: Faculty
+  pic: ../assets/png/profile/austin_fernandez.jpg
 - last: Acorda
   first: Luigi
   nickname: Luigi
@@ -275,13 +283,6 @@
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/carlo_eroles.jpg
-- last: Fernandez	
-  first: Austin	
-  nickname: Austin
-  program: MSc Computer Science	
-  role: Masters Student Member
-  type: Student
-  pic: ../assets/png/profile/austin_fernandez.jpg
 - last: Gaba	
   first: Janelle Marie	
   nickname: Jam
