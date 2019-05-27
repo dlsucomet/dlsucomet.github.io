@@ -21,6 +21,18 @@
       role: Lead
       type: Student
       pic: ../assets/png/profile/joshua_cruzada.jpg
+    - name: Shenn Tinsay
+      nickname: Shenn
+      type: Student
+      pic: ../assets/png/profile/shenn_tinsay.jpg
+    - name: Joshua Manzano
+      nickname: Josh
+      type: Student
+      pic: ../assets/png/profile/joshua_manzano.jpg
+    - name: Kyle Santiago
+      nickname: Kyle
+      type: Student
+      pic: ../assets/png/profile/kyle_santiago.jpg
 - name: Project Management
   members:
     - name: Jose Luis Diño
@@ -32,6 +44,10 @@
       nickname: Troy
       type: Student
       pic: ../assets/png/profile/troy_mirafuentes.jpg
+    - name: Geremiah Zachary Marasigan
+      nickname: Zach
+      type: Student
+      pic: ../assets/png/profile/geremiah_marasigan.jpg
 - name: Strategic Communications
   members:
     - name: Diane Cruz
@@ -56,10 +72,10 @@
       nickname: Ian
       type: Student
       pic: ../assets/png/profile/ian_ona.jpg
-    - name: Kaye Ng
-      nickname: Kaye
+    - name: Emir Mendoza
+      nickname: Emir
       type: Student
-      pic: ../assets/png/profile/kaye_ng.jpg
+      pic: ../assets/png/profile/emir_mendoza.jpg
 - name: Lab Operations
   members:
     - name: Jesin Jarod Martinez
@@ -67,6 +83,10 @@
       role: Lead
       type: Student
       pic: ../assets/png/profile/jarod_martinez.jpg
+    - name: Johanna Lim
+      nickname: Johanna
+      type: Student
+      pic: ../assets/png/profile/johanna_lim.jpg
 - name: Subject Matter Experts
   members:
     - name: Jan Christian Blaise Cruz

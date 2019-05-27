@@ -178,27 +178,6 @@
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/joe_catarata.jpg
-- last: Chan	
-  first: Myles	
-  nickname: Myles
-  program: BS Computer Science	
-  role: Probationary
-  type: Student
-  pic: ../assets/png/profile/myles_chan.jpg
-- last: Chan	
-  first: Erika
-  nickname: Erika	
-  program: BS Computer Science	
-  role: Probationary
-  type: Student
-  pic: ../assets/png/profile/erika_chan.jpg
-- last: Ching	
-  first: Shyrene Julianne
-  nickname: Shyrene	
-  program: BS Computer Science	
-  role: Probationary
-  type: Student
-  pic: ../assets/png/profile/shyrene_ching.jpg
 - last: Chiu	
   first: Krizia Lynn	
   nickname: Krizia
@@ -414,12 +393,6 @@
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/troy_mirafuentes.jpg
-# - last: Molera	
-#   first: Kathrina Anne	
-#   program: MSc Computer Science	
-#   role: Masters Student Member
-#   type: Student
-#   pic: ../assets/png/profile/kathrina_molera.jpg
 - last: Naui	
   first: Rodel Patrick	
   nickname: Patrick
@@ -434,13 +407,6 @@
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/graciel_nuncio.jpg
-- last: Ng	
-  first: Kaye Valerie	
-  nickname: Kaye
-  program: BS Computer Science	
-  role: Undergraduate Member
-  type: Student
-  pic: ../assets/png/profile/kaye_ng.jpg
 - last: Ngo	
   first: Carlos	
   nickname: Carlos
@@ -504,12 +470,6 @@
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/brian_poblete.jpg
-# - last: Reyes	
-#   first: Arvin Christopher	
-#   program: MSc Computer Science	
-#   role: Masters Student Member
-#   type: Student
-#   pic: ../assets/png/profile/arvin_reyes.jpg
 - last: Ricardo	
   first: Justin Gerard	
   nickname: Justin
@@ -657,3 +617,43 @@
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/fritz_calimag.jpg
+# - last: Chan	
+#   first: Myles	
+#   nickname: Myles
+#   program: BS Computer Science	
+#   role: Probationary
+#   type: Student
+#   pic: ../assets/png/profile/myles_chan.jpg
+# - last: Chan	
+#   first: Erika
+#   nickname: Erika	
+#   program: BS Computer Science	
+#   role: Probationary
+#   type: Student
+#   pic: ../assets/png/profile/erika_chan.jpg
+# - last: Ching	
+#   first: Shyrene Julianne
+#   nickname: Shyrene	
+#   program: BS Computer Science	
+#   role: Probationary
+#   type: Student
+#   pic: ../assets/png/profile/shyrene_ching.jpg
+# - last: Reyes	
+#   first: Arvin Christopher	
+#   program: MSc Computer Science	
+#   role: Masters Student Member
+#   type: Student
+#   pic: ../assets/png/profile/arvin_reyes.jpg
+# - last: Molera	
+#   first: Kathrina Anne	
+#   program: MSc Computer Science	
+#   role: Masters Student Member
+#   type: Student
+#   pic: ../assets/png/profile/kathrina_molera.jpg
+# - last: Ng	
+#   first: Kaye Valerie	
+#   nickname: Kaye
+#   program: BS Computer Science	
+#   role: Undergraduate Member
+#   type: Student
+#   pic: ../assets/png/profile/kaye_ng.jpg

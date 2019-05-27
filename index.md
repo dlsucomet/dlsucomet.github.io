@@ -31,14 +31,17 @@ layout: main
                     </p>
                     <p>{{ research.authors }}</p>
                     <p class="pub-misc">
+                        {% if research.link %}
+                            <a class="pub-link" href="{{ research.link }}"><i class="fas fa-external-link-square-alt"></i>&nbsp;Publisher's Copy</a>
+                        {% endif %}
+                        {% if research.acm %}
+                            <a class="pub-link" href="{{ research.acm }}"><i class="ai ai-acm ai-lg"></i>&nbsp;Open Access ACM</a>
+                        {% endif %}
                         {% if research.file %}
                             <a class="pub-link" href="{{ research.file }}"><i class="ai ai-open-access ai-lg"></i>PDF</a>
                         {% endif %}
                         {% if research.arxiv %}
                             <a class="pub-link" href="{{ research.arxiv }}"><i class="ai ai-arxiv ai-lg"></i>&nbsp;arXiv Preprint</a>
-                        {% endif %}
-                        {% if research.link %}
-                            <a class="pub-link" href="{{ research.link }}"><i class="fas fa-external-link-square-alt"></i>&nbsp;Publisher's Copy</a>
                         {% endif %}
                         {% if research.doi %}
                             <a class="pub-link" href="https://doi.org/{{ research.doi }}"><i class="fas fa-globe"></i>&nbsp;DOI</a>
