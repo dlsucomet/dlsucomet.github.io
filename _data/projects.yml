@@ -3,3 +3,8 @@
   img: ../assets/png/polyglot-eq.png
   alt: An online tool for chemical reaction network analysis.
   desc: An online tool to convert differential equations to chemical reactions in CoNtRol, ERNEST, and CRNToolbox formats.
+- name: Riesgo-Vis
+  link: https://comet.dlsu.edu.ph/riesgo-vis/
+  img: ../assets/gif/riesgo.gif
+  alt: An visualization about evacuation centers.
+  desc: An interactive visualization that explores the suitability of evacuation centers in Marikina City, Philippines.
