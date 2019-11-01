@@ -206,13 +206,13 @@
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/geremiah_marasigan.jpg
-# - last: McCarthy	
-#   first: Tadhg	
-#   nickname: Tadhg
-#   program: BS Computer Science	
-#   role: Undergraduate Member
-#   type: Student
-#   pic: ../assets/png/profile/tadhg_mccarthy.jpg
+- last: McCarthy	
+  first: Tadhg	
+  nickname: Tadhg
+  program: BS Computer Science	
+  role: Undergraduate Member
+  type: Student
+  pic: ../assets/png/profile/tadhg_mccarthy.jpg
 - last: Mendoza	
   first: Emir	
   nickname: Emir
@@ -339,3 +339,17 @@
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/fritz_calimag.jpg
+- last: Gamutan	
+  first: Mart Henrick	
+  nickname: Mart
+  program: BS Computer Science	
+  role: Undergraduate Member
+  type: Student
+  pic: ../assets/png/profile/mart_gamutan.png
+- last: Ong	
+  first: Mitchell Bryan	
+  nickname: Mitchell
+  program: BS Computer Science	
+  role: Undergraduate Member
+  type: Student
+  pic: ../assets/png/profile/mitchell_ong.png

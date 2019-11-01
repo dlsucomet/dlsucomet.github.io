@@ -8,20 +8,24 @@
   members:
     - name: Shenn Tinsay
       nickname: Shenn
+      role: Lead
       type: Student
       pic: ../assets/png/profile/shenn_tinsay.jpg
     - name: Joshua Manzano
       nickname: Josh
+      role: Lead
       type: Student
       pic: ../assets/png/profile/joshua_manzano.jpg
     - name: Kyle Santiago
       nickname: Kyle
+      role: Lead
       type: Student
       pic: ../assets/png/profile/kyle_santiago.jpg
 - name: Project Management
   members:
     - name: Geremiah Zachary Marasigan
       nickname: Zach
+      role: Lead
       type: Student
       pic: ../assets/png/profile/geremiah_marasigan.jpg
     - name: Lynux Ansay
@@ -30,25 +34,46 @@
       pic: ../assets/png/profile/lynux_ansay.jpg
 - name: Strategic Communications
   members:
+    - name: Emir Mendoza
+      nickname: Emir
+      role: Lead
+      type: Student
+      pic: ../assets/png/profile/emir_mendoza.jpg
     - name: Miguel Llamas
       nickname: Miggy
       type: Student
       pic: ../assets/png/profile/miguel_llamas.jpg
-    - name: Ian Benedict Ona
-      nickname: Ian
+    - name: Fritz Calimag
+      nickname: Fritz
       type: Student
-      pic: ../assets/png/profile/ian_ona.jpg
-    - name: Emir Mendoza
-      nickname: Emir
+      pic: ../assets/png/profile/fritz_calimag.jpg
+    - name: Antonello Santos
+      nickname: Nelo
       type: Student
-      pic: ../assets/png/profile/emir_mendoza.jpg
-# - name: Lab Operations
-#   members:
-#     - name: Tadhg McCarthy
-#       nickname: Tadhg
-#       role: Lead
-#       type: Student
-#       pic: ../assets/png/profile/tadhg_mccarthy.jpg
+      pic: ../assets/png/profile/antonello_santos.jpg
+    - name: Julian De Castro
+      nickname: Julian
+      type: Student
+      pic: ../assets/png/profile/julian_decastro.jpg
+    - name: Paolo Delos Reyes
+      nickname: Pao
+      type: Student
+      pic: ../assets/png/profile/paolo_delosreyes.jpg
+    - name: Mark Lim
+      nickname: Mark
+      type: Student
+      pic: ../assets/png/profile/mark_lim.jpg
+    - name: Jerald Ang
+      nickname: Jerald
+      type: Student
+      pic: ../assets/png/profile/jerald_ang.jpg
+- name: Lab Operations
+  members:
+    - name: Tadhg McCarthy
+      nickname: Tadhg
+      role: Lead
+      type: Student
+      pic: ../assets/png/profile/tadhg_mccarthy.jpg
 - name: Subject Matter Experts
   members:
     # - name: Jan Christian Blaise Cruz
