@@ -153,7 +153,7 @@
 - last: Dela Torre	
   first: Alexczar	
   nickname: Alex
-  program: MS CS	
+  program: MSc Computer Science	
   role: Master Student Member
   type: Student
   pic: ../assets/png/profile/alexczar_delatorre.png
@@ -206,13 +206,13 @@
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/geremiah_marasigan.jpg
-- last: McCarthy	
-  first: Tadhg	
-  nickname: Tadhg
-  program: BS Computer Science	
-  role: Undergraduate Member
-  type: Student
-  pic: ../assets/png/profile/tadhg_mccarthy.jpg
+# - last: McCarthy	
+#   first: Tadhg	
+#   nickname: Tadhg
+#   program: BS Computer Science	
+#   role: Undergraduate Member
+#   type: Student
+#   pic: ../assets/png/profile/tadhg_mccarthy.jpg
 - last: Mendoza	
   first: Emir	
   nickname: Emir
@@ -223,7 +223,7 @@
 - last: Mirafuentes	
   first: Troy	
   nickname: Troy
-  program: MS CS	
+  program: MSc Computer Science	
   role: Masters Student Member
   type: Student
   pic: ../assets/png/profile/troy_mirafuentes.jpg

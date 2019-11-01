@@ -1,26 +1,11 @@
 - name: Cohort Leader
   members:
-    - name: Giselle Nodalo
-      nickname: Giselle
+    - name: Adrienne Soliven
+      nickname: Adrienne
       type: Student
-      pic: ../assets/png/profile/giselle_nodalo.jpg
+      pic: ../assets/png/profile/adrienne_soliven.jpg
 - name: People Operations
   members:
-    - name: Julianne Tan
-      nickname: Julianne
-      role: Lead
-      type: Student
-      pic: ../assets/png/profile/julianne_tan.jpg
-    - name: Krizia Lynn Chiu
-      nickname: Krizia
-      role: Lead
-      type: Student
-      pic: ../assets/png/profile/krizia_chiu.jpg
-    - name: Joshua Cruzada
-      nickname: Josh
-      role: Lead
-      type: Student
-      pic: ../assets/png/profile/joshua_cruzada.jpg
     - name: Shenn Tinsay
       nickname: Shenn
       type: Student
@@ -35,35 +20,16 @@
       pic: ../assets/png/profile/kyle_santiago.jpg
 - name: Project Management
   members:
-    - name: Jose Luis Diño
-      nickname: Luigi
-      role: Lead
-      type: Student
-      pic: ../assets/png/profile/luis_dino.jpg
-    - name: Troy Mirafuentes
-      nickname: Troy
-      type: Student
-      pic: ../assets/png/profile/troy_mirafuentes.jpg
     - name: Geremiah Zachary Marasigan
       nickname: Zach
       type: Student
       pic: ../assets/png/profile/geremiah_marasigan.jpg
+    - name: Lynux Ansay
+      nickname: Lynux
+      type: Student
+      pic: ../assets/png/profile/lynux_ansay.jpg
 - name: Strategic Communications
   members:
-    - name: Diane Cruz
-      nickname: Diane
-      role: Lead
-      type: Student
-      pic: ../assets/png/profile/diane_cruz.jpg
-    - name: Adrienne Solliven
-      nickname: AD
-      role: Lead
-      type: Student
-      pic: ../assets/png/profile/adrienne_soliven.jpg
-    - name: Luis Lopez
-      nickname: Luis
-      type: Student
-      pic: ../assets/png/profile/luis_lopez.jpg
     - name: Miguel Llamas
       nickname: Miggy
       type: Student
@@ -76,56 +42,37 @@
       nickname: Emir
       type: Student
       pic: ../assets/png/profile/emir_mendoza.jpg
-- name: Lab Operations
-  members:
-    - name: Jesin Jarod Martinez
-      nickname: Jarod
-      role: Lead
-      type: Student
-      pic: ../assets/png/profile/jarod_martinez.jpg
-    - name: Johanna Lim
-      nickname: Johanna
-      type: Student
-      pic: ../assets/png/profile/johanna_lim.jpg
+# - name: Lab Operations
+#   members:
+#     - name: Tadhg McCarthy
+#       nickname: Tadhg
+#       role: Lead
+#       type: Student
+#       pic: ../assets/png/profile/tadhg_mccarthy.jpg
 - name: Subject Matter Experts
   members:
-    - name: Jan Christian Blaise Cruz
-      nickname: Blaise
-      type: Student
-      pic: ../assets/png/profile/blaise_cruz.jpg
-      subject: Machine Learning
-    - name: Betlee-Kyle Barraquias
-      nickname: Mark
-      type: Student
-      pic: ../assets/png/profile/mark_barraquias.jpg
-      subject: Web Technologies
-    - name: Giselle Nodalo
-      nickname: Giselle
-      type: Student
-      pic: ../assets/png/profile/giselle_nodalo.jpg
-      subject: UX
+    # - name: Jan Christian Blaise Cruz
+    #   nickname: Blaise
+    #   type: Student
+    #   pic: ../assets/png/profile/blaise_cruz.jpg
+    #   subject: Machine Learning
     - name: Justin Ricardo
       nickname: Justin
       type: Student
       pic: ../assets/png/profile/justin_ricardo.jpg
       subject: Network Science, Machine Learning
-    - name: Jolene Valenzuela
-      nickname: Jolene
+    - name: Adrienne Soliven
+      nickname: AD
       type: Student
-      pic: ../assets/png/profile/jolene_valenzuela.jpg
-      subject: UX
+      pic: ../assets/png/profile/adrienne_soliven.jpg
+      subject: Human-Computer Interaction
+    - name: Ian Ona
+      nickname: Ian
+      type: Student
+      pic: ../assets/png/profile/ian_ona.jpg
+      subject: Complex Systems
 - name: Technical Specialists
   members:
-    - name: Joshua Cruzada
-      nickname: Josh
-      type: Student
-      pic: ../assets/png/profile/joshua_cruzada.jpg
-      subject: Python, Git
-    - name: Brian Poblete
-      nickname: Brian
-      type: Student
-      pic: ../assets/png/profile/brian_poblete.jpg
-      subject: Web Development, Git
     - name: Emir Mendoza
       nickname: Emir
       type: Student
