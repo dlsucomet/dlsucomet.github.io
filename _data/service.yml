@@ -74,13 +74,12 @@
       role: Lead
       type: Student
       pic: ../assets/png/profile/tadhg_mccarthy.jpg
+    - name: Romeo Peña
+      nickname: Rolo
+      type: Student
+      pic: ../assets/png/profile/romeo_pena.jpg
 - name: Subject Matter Experts
   members:
-    # - name: Jan Christian Blaise Cruz
-    #   nickname: Blaise
-    #   type: Student
-    #   pic: ../assets/png/profile/blaise_cruz.jpg
-    #   subject: Machine Learning
     - name: Justin Ricardo
       nickname: Justin
       type: Student
