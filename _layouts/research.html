@@ -15,7 +15,7 @@ layout: default
   <header class="research-header">
     <h2 class="research-title">{{ research.title | escape }}</h2>
     <p class="research-authors">{{ research.authors }}</p>
-    <p class="research-venue"><em>{{ research.venue }}</em>, {{ research.year }}
+    <p class="research-venue"><em>{% if research.toappear %}(In press)&nbsp;{% endif %}{{ research.venue }}</em>, {{ research.year }}
       {% if research.accept-rate %}
           <span class="research-accept-rate">Acceptance Rate: {{ research.accept-rate }}%</span>
       {% endif %}
@@ -50,18 +50,32 @@ layout: default
         {% if research.doi %}
             <a class="research-link" href="https://doi.org/{{ research.doi }}"><i class="fas fa-globe"></i>&nbsp;DOI</a>
         {% endif %}
-        {% if research.bibtex %}
+        <!-- {% if research.bibtex %}
             <a class="research-link" href="{{ research.bibtex }}"><i class="fas fa-book"></i>&nbsp;BibTeX</a>
-        {% endif %}
+        {% endif %} -->
     </p>
+
+    {% if research.bibtex-cite %}
+    <h4 class="research-section-header">Bibtex</h4>
+    <div class="citation-content">
+      <div class="citation-text" id="bibtex">
+          {{ research.bibtex-cite }}
+      </div>
+      <div class="citation-copy">
+          <a class="copy-btn" data-clipboard-target="#bibtex">
+              <i class="far fa-copy"></i>
+          </a>
+      </div>
+    </div>
+    {% endif %}
 
     <h4 class="research-section-header">Citation</h4>
     <div class="citation-content">
-      <div class="citation-text" id="citation-text">
+      <div class="citation-text" id="cite">
           {{ research.citation }}
       </div>
       <div class="citation-copy">
-          <a class="copy-btn" data-clipboard-target="#citation-text">
+          <a class="copy-btn" data-clipboard-target="#cite">
               <i class="far fa-copy"></i>
           </a>
       </div>
