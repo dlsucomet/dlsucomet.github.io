@@ -1,3 +1,78 @@
+- name: 2020
+  papers:
+    - id: two-heads-pilot
+      title: Are Two Heads Better than One? Exploring Two-Party Conversations for Car Navigation Voice Guidance
+      authors: Briane Paul V. Samson & Yasuyuki Sumi
+      year: 2020
+      toappear: true
+      venue: Late-Breaking Works, ACM CHI Conference on Human Factors in Computing Systems Proceedings (CHI)
+      doi: 10.1145/3334480.3382818
+      accept-rate: 41.8
+      page: /papers/two-heads-pilot
+      file: /files/2020samson_twoheadspilot_chilbw.pdf
+      # acm: https://dl.acm.org/authorize?N672083
+      # arxiv: https://arxiv.org/abs/1901.06681
+      cite: /papers/two-heads-pilot#cite
+      # bibtex: /papers/two-heads-pilot#bibtex
+      figure: ../assets/png/two-heads-pilot.png
+      alt: A sample two-party conversation and the three routes used in the pilot study
+      abstract: "Voice guidance for car navigation typically considers drivers as docile actors. Recent works highlight limitations to this assumption which make drivers rely less on given directions. To explore how drivers can make better navigation decisions, we conducted a pilot Wizard-of-Oz study that gives turn suggestions in conversations between two voice agents. We asked 30 participants to drive in a simulation environment using voice guidance that gives three types of suggestions: familiar, optimal, and new routes. We examined their route choices, perceived workload and utterances while driving. We found that while most drivers followed directions appropriate for the given scenarios, they were more likely to make inappropriate choices after hearing alternatives in conversations. On the other hand, two-party conversations allowed drivers to better reflect on their choices after trips. We conclude by discussing preliminary design implications for car navigation voice guidance specifically and recommender systems in general."
+      citation: "Samson, B.P.V. & Sumi, Y. (2020). Are Two Heads Better than One? Exploring Two-Party Conversations for Car Navigation Voice Guidance. In CHI Conference Extended Abstracts on Human Factors in Computing Systems Proceedings (CHI 2020), April 25–30, 2020, Honolulu, Hawai'i, USA. ACM, New York, NY, USA, 10 pages. DOI: https://doi.org/10.1145/3334480.3382818"
+      # bibtex-cite: "@inproceedings{Samson:2020:EFI:3334480.3382818,</br>
+      #   author = {Samson, Briane Paul V. and Sumi, Yasuyuki},</br>
+      #   title = {Are Two Heads Better than One? Exploring Two-Party Conversations for Car Navigation Voice Guidance},</br>
+      #   booktitle = {Proceedings of the 2020 CHI Conference Extended Abstracts on Human Factors in Computing Systems},</br>
+      #   series = {CHI '20},</br>
+      #   year = {2020},</br>
+      #   isbn = {978-1-4503-6819-3},</br>
+      #   location = {Honolulu, Hawai'i, USA},</br>
+      #   pages = {371:1--371:10},</br>
+      #   articleno = {371},</br>
+      #   numpages = {10},</br>
+      #   url = {http://doi.acm.org/10.1145/3334480.3382818},</br>
+      #   doi = {10.1145/3334480.3382818},</br>
+      #   acmid = {3382818},</br>
+      #   publisher = {ACM},</br>
+      #   address = {New York, NY, USA},</br>
+      #   keywords = {voice guidance; voice agents; two-party conversation; navigation applications; recommender systems; driving},</br>
+      #   }"
+    
+    - id: vitune
+      title: "ViTune: A Visualizer Tool to Allow the Deaf and Hard of Hearing to See Music with Their Eyes"
+      authors: Jordan Aiko Deja, Alexczar Dela Torre, Hans Joshua Lee, Jose Florencio Ciriaco IV & Carlo Miguel Eroles
+      year: 2020
+      toappear: true
+      venue: Late-Breaking Works, ACM CHI Conference on Human Factors in Computing Systems Proceedings (CHI)
+      doi: 10.1145/3334480.3383046
+      accept-rate: 41.8
+      # page: /papers/vitune
+      file: /files/2020deja_vitune_chilbw.pdf
+      # acm: https://dl.acm.org/authorize?N672083
+      # cite: /papers/vitune#cite
+      # bibtex: /papers/vitune#bibtex
+      # figure: ../assets/png/vitune.png
+      alt: A sample two-party conversation and the three routes used in the pilot study
+      abstract: "Visualizers are usually added into music players to augment the listening experiences of hearing users. However, for the case of most members of the Deaf and Hard of Hearing (DHH) community, they have partial deafness which may give them a “limited” listening experience as compared to their counterparts. In this paper, we present ViTune, a visualizer tool that enhances the musical experiences of the DHH through the use of an on-screen visualizer generating effects alongside music. We observed how members of the DHH community typically experienced music through an initial user study. We then iterated on developing a visualizer prototype where we did multiple usability tests involving at least 15 participants from the DHH community. We observed how they experienced music with the help of our prototype and noticed that certain music features and elements augmented these experiences. Visualization attributes, their matching qualitative descriptions and equivalent subjective attributes were identified with the help of music experts. Also, affects hypothesized to be induced and dissuaded were identified in improving these listening experiences."
+      citation: "Deja, J.A., Dela Torre, A., Lee, H.J., Ciriaco, J.F. IV & Eroles, C.M. (2020). ViTune: A Visualizer Tool to Allow the Deaf and Hard of Hearing to See Music with Their Eyes. In CHI Conference Extended Abstracts on Human Factors in Computing Systems Proceedings (CHI 2020), April 25–30, 2020, Honolulu, Hawai'i, USA. ACM, New York, NY, USA, 8 pages. DOI: https://doi.org/10.1145/3334480.3383046"
+      # bibtex-cite: "@inproceedings{Deja:2020:3334480.3383046,</br>
+      #   author = {Deja, Jordan Aiko and Dela Torre, Alexczar and Lee, Hans Joshua and Ciriaco, Jose Florencio IV and Eroles, Carlo Miguel},</br>
+      #   title = {ViTune: A Visualizer Tool to Allow the Deaf and Hard of Hearing to See Music with Their Eyes},</br>
+      #   booktitle = {Proceedings of the 2020 CHI Conference Extended Abstracts on Human Factors in Computing Systems},</br>
+      #   series = {CHI '20},</br>
+      #   year = {2020},</br>
+      #   isbn = {978-1-4503-6819-3},</br>
+      #   location = {Honolulu, Hawai'i, USA},</br>
+      #   pages = {371:1--371:10},</br>
+      #   articleno = {371},</br>
+      #   numpages = {8},</br>
+      #   url = {http://doi.acm.org/10.1145/3334480.3383046},</br>
+      #   doi = {10.1145/3334480.3383046},</br>
+      #   acmid = {3383046},</br>
+      #   publisher = {ACM},</br>
+      #   address = {New York, NY, USA},</br>
+      #   keywords = {voice guidance; voice agents; two-party conversation; navigation applications; recommender systems; driving},</br>
+      #   }"
+
 - name: 2019
   papers:
     - id: drowning-rumor
@@ -8,12 +83,24 @@
       link: http://philjournalsci.dost.gov.ph/images/pdf/pjs_pdf/vol148no4/drowning_out_rumor_.pdf
       file: /files/2019feria_drowningoutrumor_pjs.pdf
       page: /papers/drowning-rumor
-      cite: /cite/drowning-rumor
-      bibtex: /bibtex/drowning-rumor
+      cite: /papers/drowning-rumor#cite
+      bibtex: /papers/drowning-rumor#bibtex
       figure: ../assets/png/drowning-rumor.png
       alt: Toy network model of ignorant, exposed to, and spreader nodes.
       abstract: "Social networking sites have become instrumental in spreading information online, which unfortunately includes rumors and misinformation. Past studies have investigated the spread of rumors without considering that truth may spread simultaneously. This study considers both the spread of truth and rumor and investigates the result of their coexistence in a population. We formulated the spreader-spreader interaction model and the exposed-spreader interaction model based on the epidemiological SEIR model. In the spreader-spreader interaction model, the spreaders try to influence the opposing spreaders whereas, in the exposed-spreader interaction model, the spreaders try to influence the exposed individuals from the opposing side. In our study, we calculated the reproduction numbers for truth and rumor, determined the stability of the model at the equilibrium points, and determined an approach for spreading truth while halting rumors. In the spreader-spreader model, we have shown that increasing the removal rate of Spreaders of Rumor decreases the prevalence of rumor in the population. Whereas in the exposed-spreader model, we showed that increasing the conversion rate of Exposed to Rumor to Exposed to Truth significantly increases the amount of Exposed to Truth in the population, thereby making it an effective mechanism for promoting the spread of truth. In conclusion, it is harder to control the information epidemic in the exposed-spreader model but, compared to the spreader-spreader model, information spreads faster according to the exposed-spreader model. For certain information to be endemic to a population, our study proposes that spreaders take advantage during the first few days of the information diffusion process."
       citation: "Feria, J.M.A.M., Oliva, M.L.S., Samson, B.P.V. & Lao, A.R. (2019). Drowning Out Rumor: Dynamical Models of the Interaction between Spreaders of and Exposed to Truth and Rumor Spreading. Philippine Journal of Science, 148(4), 659–687. Retrieved from http://philjournalsci.dost.gov.ph/images/pdf/pjs_pdf/vol148no4/drowning_out_rumor_.pdf"
+      bibtex-cite: "@article{TAN201898,</br>
+        title = {Drowning Out Rumor: Dynamical Models of the Interaction between Spreaders of and Exposed to Truth and Rumor Spreading},</br>
+        journal = {Philippine Journal of Science},</br>
+        volume = {148},</br>
+        issue = {4},</br>
+        pages = {659 - 687},</br>
+        year = {2019},</br>
+        issn = {0031-7683},</br>
+        url = {http://philjournalsci.dost.gov.ph/images/pdf/pjs_pdf/vol148no4/drowning_out_rumor_.pdf},</br>
+        author = {Juan Miguel Augusto M. Feria and Michael Lawrence S. Oliva and Briane Paul V. Samson and Angelyn R. Lao},</br>
+        keywords = {dynamical systems, information epidemic, ordinary differential equations, rumor spread}</br>
+        }"
 
     - id: factors-not-follow
       title: Exploring Factors that Influence Connected Drivers to (Not) Use or Follow Recommended Optimal Routes
@@ -25,12 +112,30 @@
       page: /papers/factors-not-follow
       acm: https://dl.acm.org/authorize?N672083
       arxiv: https://arxiv.org/abs/1901.06681
-      cite: /cite/factors-not-follow
-      bibtex: /bibtex/factors-not-follow
+      cite: /papers/factors-not-follow#cite
+      bibtex: /papers/factors-not-follow#bibtex
       figure: ../assets/png/factors-not-follow.png
       alt: Traced deviations of drivers
       abstract: "Navigation applications are becoming ubiquitous in our daily navigation experiences. With the intention to circumnavigate congested roads, their route guidance always follows the basic assumption that drivers always want the fastest route. However, it is unclear how their recommendations are followed and what factors affect their adoption. We present the results of a semi-structured qualitative study with 17 drivers, mostly from the Philippines and Japan. We recorded their daily commutes and occasional trips, and inquired into their navigation practices, route choices and on-the-fly decision-making. We found that while drivers choose a recommended route in urgent situations, many still preferred to follow familiar routes. Drivers deviated because of a recommendation's use of unfamiliar roads, lack of local context, perceived driving unsuitability, and inconsistencies with realized navigation experiences. Our findings and implications emphasize their personalization needs, and how the right amount of algorithmic sophistication can encourage behavioral adaptation."
       citation: "Samson, B.P.V. & Sumi, Y. (2019). Exploring Factors that Influence Connected Drivers to (Not) Use or Follow Recommended Optimal Routes. In CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019, Glasgow, Scotland UK. ACM, New York, NY, USA, 14 pages. DOI: https://doi.org/10.1145/3290605.3300601"
+      bibtex-cite: "@inproceedings{Samson:2019:EFI:3290605.3300601,</br>
+        author = {Samson, Briane Paul V. and Sumi, Yasuyuki},</br>
+        title = {Exploring Factors That Influence Connected Drivers to (Not) Use or Follow Recommended Optimal Routes},</br>
+        booktitle = {Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems},</br>
+        series = {CHI '19},</br>
+        year = {2019},</br>
+        isbn = {978-1-4503-5970-2},</br>
+        location = {Glasgow, Scotland Uk},</br>
+        pages = {371:1--371:14},</br>
+        articleno = {371},</br>
+        numpages = {14},</br>
+        url = {http://doi.acm.org/10.1145/3290605.3300601},</br>
+        doi = {10.1145/3290605.3300601},</br>
+        acmid = {3300601},</br>
+        publisher = {ACM},</br>
+        address = {New York, NY, USA},</br>
+        keywords = {advanced driver-assistance system, driving, navigation applications, navigation behavior, recommender systems},</br>
+        }"
 
     - id: flow-chiuxid
       title: Applying User-Centered Techniques in the Design of a Usable Mobile Musical Composition Tool
