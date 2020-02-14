@@ -7,15 +7,6 @@
   type: Faculty
   pic: ../assets/png/profile/unisse_chua.jpg
   website: https://unissechua.github.io/
-- last: Samson
-  first: Briane Paul V.
-  nickname: Briane
-  program: Computer Science
-  role: Assistant Professor
-  interests: Complex Systems, Human-Computer Interaction
-  type: Faculty
-  pic: ../assets/png/profile/briane_samson.jpg
-  website: https://brianesamson.com
 - last: Lao
   first: Angelyn R.
   nickname: Angie
@@ -30,9 +21,27 @@
   nickname: Austin
   program: Computer Science
   role: Lecturer
-  interests: Machine Learning, HCI
+  interests: Computing Education, Machine Learning, Human-Computer Interaction
   type: Faculty
   pic: ../assets/png/profile/austin_fernandez.jpg
+- last: Samson
+  first: Briane Paul V.
+  nickname: Briane
+  program: Computer Science
+  role: Assistant Professor
+  interests: Complex Systems, Human-Computer Interaction, Social Computing
+  type: Faculty
+  pic: ../assets/png/profile/briane_samson.jpg
+  website: https://brianesamson.com
+- last: Deja
+  first: Jordan Aiko
+  nickname: Jordan
+  program: Computer Science
+  role: Assistant Professor
+  interests: Human-Computer Interaction
+  type: Faculty
+  pic: ../assets/png/profile/jordan_deja.jpg
+  website: https://jrdndj.design
 - last: Villagracia
   first: Al Rey
   nickname: Al Rey
@@ -67,15 +76,6 @@
   type: Faculty
   pic: ../assets/png/profile/anish_shrestha.jpg
   website: http://www.a-transposable-element.com/
-- last: Deja
-  first: Jordan Aiko
-  nickname: Jordan
-  program: Computer Science
-  role: Assistant Professor
-  interests: Human-Computer Interaction
-  type: Faculty
-  pic: ../assets/png/profile/jordan_deja.jpg
-  website: https://jrdndj.design
 - last: Tan
   first: Daniel Stanley
   nickname: Stanley
@@ -144,6 +144,13 @@
   role: Master Student Member
   type: Student
   pic: ../assets/png/profile/tonnie_ya-on.jpg
+# - last: Lucido
+#   first: Abel
+#   nickname: Abel
+#   program: MSc Mathematics
+#   role: Research Assistant
+#   type: Student
+#   pic: ../assets/png/profile/abel_lucido.png
 - last: Choy
   first: Matthew Seaver
   nickname: Seaver
