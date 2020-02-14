@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-> “I think the next century will be the century of complexity.” 
-> _- Stephen Hawking_
-
-> "We must design for the way people behave, not for how we would wish them to behave."
-> _- Donald Norman_
-
-> “If interactive systems are knowingly designed to change human attitudes and behaviors, we would also need a philosophy of technology that provides us the means for revealing, analyzing, and discussing the human, social, cultural, ethical, and political implications of these changes—that helps us understand ‘the new good’.” 
-> _- Daniel Fallman_
-
 The Center for Complexity and Emerging Technologies (COMET) is an interdisciplinary research laboratory under the Advanced Research Institute for Informatics, Computing, and Networking (AdRIC) at De La Salle University. Our mission is to enhance our understanding of <span class="about-highlight">emergent phenomena in real-life systems (i.e. cities, mobility), sociotechnical systems (i.e. social networking sites, Wikipedia), and human-computer interactions</span> through the development of <span class="about-highlight">computational models</span> which are then used in the design of <span class="about-highlight">interactive tools, information systems, and interaction techniques</span>. We study the underlying dynamics and factors affecting behavior as humans interact with physical and digital information, services, and systems. 
 
 ## Research and Impact Areas
@@ -20,6 +11,10 @@ The Center for Complexity and Emerging Technologies (COMET) is an interdisciplin
 Our research lies at the intersection of Complex Systems, Human-Computer Interaction (HCI), Computer-Supported Cooperative Work (CSCW), Machine Learning, and Computing and Information Science. Despite the diversity in disciplines, we all strive to collaboratively work on research projects for the following themes.
 
 ### Cities, Crowds & Mobility
+
+> “I think the next century will be the century of complexity.” 
+> _- Stephen Hawking_
+
 - How might we increase our understanding of the complex human-system interactions within cities and their externalities?
 - How might we enable government and civilian stakeholders to effectively plan urban environments and shape mobility patterns?
 - How do sociotechnical systems affect and shape the fabrics of our societies?
@@ -33,11 +28,19 @@ Our research lies at the intersection of Complex Systems, Human-Computer Interac
 - How might we grow collaboration networks in developing countries with limited access to funding and resources?
 - How can we support the formation of new collaborations?
 
-### Civic Services
+### Civic Computing and Community Informatics
+
+> “If interactive systems are knowingly designed to change human attitudes and behaviors, we would also need a philosophy of technology that provides us the means for revealing, analyzing, and discussing the human, social, cultural, ethical, and political implications of these changes—that helps us understand ‘the new good’.” 
+> _- Daniel Fallman_
+
 - How might we leverage mobile and web technologies to promote stronger civic participation?
 - How can support the flow of information and services from the providers to their target beneficiaries?
 
 ### Intelligent & Reflective Spaces
+
+> "We must design for the way people behave, not for how we would wish them to behave."
+> _- Donald Norman_
+
 - How might we assist, improve and sustain human creative experiences?
 - How might we develop new sensing technologies to improve our personal and digital wellbeing?
 - How can we support reflection in collaborative spaces to improve productivity?
@@ -50,6 +53,6 @@ In 2015, Briane Paul V. Samson assumed leadership of the laboratory and crafted 
 
 In 2017, Jordan Deja started leading the laboratory and reinvigorated our HCI research efforts, while 4 of our faculty researchers pursued PhD degrees in Japan, Taiwan and Australia. With his guidance, the DLSU chapter of the User Experience Society was founded by our student members Giselle Nodalo and Richard Parayno.
 
-Since 2018, Dickson Lim, Anish MS Shrestha and Unisse Chua have joined COMET to work on projects in economics, bioinformatics and data visualization. The Machine Learning group was also started by Blaise Cruz, under the mentorship of Stanley Tan. 
+Since 2018, Dickson Lim, Anish MS Shrestha and Unisse Chua have joined COMET to work on projects in economics, bioinformatics and data visualization. In late 2019, we welcomed Unisse Chua as the new Center Head and Austin Fernandez as our newest faculty researcher on computing education, machine learning and HCI. Jordan Deja pursued his HCI PhD in Austria.
 
 <!-- ## Life @ COMET -->
