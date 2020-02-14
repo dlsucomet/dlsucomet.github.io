@@ -1,12 +1,12 @@
-- last: Deja
-  first: Jordan Aiko
-  nickname: Jordan
+- last: Chua
+  first: Unisse
+  nickname: Unisse
   program: Computer Science
   role: Assistant Professor
-  interests: Human-Computer Interaction
+  interests: Data Science, Data Visualization
   type: Faculty
-  pic: ../assets/png/profile/jordan_deja.jpg
-  website: https://jrdndj.design
+  pic: ../assets/png/profile/unisse_chua.jpg
+  website: https://unissechua.github.io/
 - last: Samson
   first: Briane Paul V.
   nickname: Briane
@@ -25,41 +25,14 @@
   type: Faculty
   pic: ../assets/png/profile/angelyn_lao.jpg
   website: https://scholar.google.co.jp/citations?hl=en&user=pwzgQTwAAAAJ
-- last: Chua
-  first: Unisse
-  nickname: Unisse
+- last: Fernandez
+  first: Austin
+  nickname: Austin
   program: Computer Science
-  role: Assistant Professor
-  interests: Data Science, Data Visualization
+  role: Lecturer
+  interests: Machine Learning, HCI
   type: Faculty
-  pic: ../assets/png/profile/unisse_chua.jpg
-  website: https://unissechua.github.io/
-- last: Aguilar
-  first: Emerico
-  nickname: Miko
-  program: Computer Science
-  role: Assistant Professor
-  interests: Social Networks, Control Theory
-  type: Faculty
-  pic: ../assets/png/profile/emerico_aguilar.jpg
-- last: Tan
-  first: Daniel Stanley
-  nickname: Stanley
-  program: Computer Science
-  role: Assistant Professor
-  interests: Computer Vision, Deep Learning
-  type: Faculty
-  pic: ../assets/png/profile/stanley_tan.jpg
-  website: https://scholar.google.co.jp/citations?hl=en&user=YD0btrgAAAAJ
-- last: Leong
-  first: Robert
-  nickname: Robert
-  program: Statistics
-  role: Assistant Professor
-  interests: Complex Systems, Spatial Analysis
-  type: Faculty
-  pic: ../assets/png/profile/robert_leong.jpg
-  website: https://scholar.google.co.jp/citations?hl=en&user=sszWRLUAAAAJ
+  pic: ../assets/png/profile/austin_fernandez.jpg
 - last: Villagracia
   first: Al Rey
   nickname: Al Rey
@@ -94,14 +67,90 @@
   type: Faculty
   pic: ../assets/png/profile/anish_shrestha.jpg
   website: http://www.a-transposable-element.com/
-- last: Fernandez
-  first: Austin
-  nickname: Austin
+- last: Deja
+  first: Jordan Aiko
+  nickname: Jordan
   program: Computer Science
-  role: Lecturer
-  interests: Machine Learning, HCI
+  role: Assistant Professor
+  interests: Human-Computer Interaction
   type: Faculty
-  pic: ../assets/png/profile/austin_fernandez.jpg
+  pic: ../assets/png/profile/jordan_deja.jpg
+  website: https://jrdndj.design
+- last: Tan
+  first: Daniel Stanley
+  nickname: Stanley
+  program: Computer Science
+  role: Assistant Professor
+  interests: Computer Vision, Deep Learning
+  type: Faculty
+  pic: ../assets/png/profile/stanley_tan.jpg
+  website: https://scholar.google.co.jp/citations?hl=en&user=YD0btrgAAAAJ
+- last: Leong
+  first: Robert
+  nickname: Robert
+  program: Statistics
+  role: Assistant Professor
+  interests: Complex Systems, Spatial Analysis
+  type: Faculty
+  pic: ../assets/png/profile/robert_leong.jpg
+  website: https://scholar.google.co.jp/citations?hl=en&user=sszWRLUAAAAJ
+- last: Aguilar
+  first: Emerico
+  nickname: Miko
+  program: Computer Science
+  role: Assistant Professor
+  interests: Social Networks, Control Theory
+  type: Faculty
+  pic: ../assets/png/profile/emerico_aguilar.jpg
+- last: Gara
+  first: Glenn Paul
+  nickname: Glenn
+  program: PhD Computer Science
+  role: PhD Student Member
+  type: Student
+  pic: ../assets/png/profile/glenn_gara.jpg
+- last: Ricardo
+  first: Justin Gerard
+  nickname: Justin
+  program: MSc Computer Science
+  role: Masters Student Member
+  type: Student
+  pic: ../assets/png/profile/justin_ricardo.jpg
+- last: Mirafuentes
+  first: Troy
+  nickname: Troy
+  program: MSc Computer Science
+  role: Masters Student Member
+  type: Student
+  pic: ../assets/png/profile/troy_mirafuentes.jpg
+- last: Dela Torre
+  first: Alexczar
+  nickname: Alex
+  program: MSc Computer Science
+  role: Master Student Member
+  type: Student
+  pic: ../assets/png/profile/alexczar_delatorre.png
+- last: Lachica
+  first: Daniel
+  nickname: Daniel
+  program: MSc Computer Science
+  role: Master Student Member
+  type: Student
+  pic: ../assets/png/profile/daniel_lachica.jpg
+- last: Ya-on
+  first: Czeritonnie
+  nickname: Tonnie
+  program: MSc Computer Science
+  role: Master Student Member
+  type: Student
+  pic: ../assets/png/profile/tonnie_ya-on.jpg
+- last: Choy
+  first: Matthew Seaver
+  nickname: Seaver
+  program: MSc Computer Science
+  role: Masters Student Member
+  type: Student
+  pic: ../assets/png/profile/seaver_choy.jpg
 - last: Agno II
   first: Alexander
   nickname: Alex
@@ -123,13 +172,6 @@
   role: Probationary
   type: Student
   pic: ../assets/png/profile/lynux_ansay.jpg
-- last: Aquino
-  first: Kurt
-  nickname: Kurt
-  program: MSc Computer Science
-  role: Masters Student Member
-  type: Student
-  pic: ../assets/png/profile/kurt_aquino.jpg
 - last: Bornales
   first: Amiel James
   nickname: Amiel
@@ -137,27 +179,6 @@
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/amiel_bornales.jpg
-- last: Choy
-  first: Matthew Seaver
-  nickname: Seaver
-  program: MSc Computer Science
-  role: Masters Student Member
-  type: Student
-  pic: ../assets/png/profile/seaver_choy.jpg
-# - last: Cruz
-#   first: Jan Christian Blaise
-#   nickname: Blaise
-#   program: BS CS - Software Technology
-#   role: Undergraduate Member
-#   type: Student
-#   pic: ../assets/png/profile/blaise_cruz.jpg
-- last: Dela Torre
-  first: Alexczar
-  nickname: Alex
-  program: MSc Computer Science
-  role: Master Student Member
-  type: Student
-  pic: ../assets/png/profile/alexczar_delatorre.png
 - last: Delos Reyes
   first: Paolo
   nickname: Pao
@@ -165,13 +186,6 @@
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/paolo_delosreyes.jpg
-- last: Gara
-  first: Glenn Paul
-  nickname: Glenn
-  program: PhD Computer Science
-  role: PhD Student Member
-  type: Student
-  pic: ../assets/png/profile/glenn_gara.jpg
 - last: Lim
   first: Mark Louis
   nickname: Mark
@@ -221,13 +235,6 @@
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/emir_mendoza.jpg
-- last: Mirafuentes
-  first: Troy
-  nickname: Troy
-  program: MSc Computer Science
-  role: Masters Student Member
-  type: Student
-  pic: ../assets/png/profile/troy_mirafuentes.jpg
 - last: Naui
   first: Rodel Patrick
   nickname: Patrick
@@ -263,13 +270,6 @@
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/romeo_pena.jpg
-- last: Ricardo
-  first: Justin Gerard
-  nickname: Justin
-  program: MSc Computer Science
-  role: Masters Student Member
-  type: Student
-  pic: ../assets/png/profile/justin_ricardo.jpg
 - last: Santiago
   first: Kyle
   nickname: Kyle
