@@ -1,3 +1,8 @@
+- conf: CHI 2020 - Hawai'i, USA
+  year: 2020
+  papers:
+    - id: two-heads-pilot
+    - id: vitune
 - conf: Philippine Journal of Science
   year: 2019
   papers:
