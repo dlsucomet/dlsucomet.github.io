@@ -45,12 +45,12 @@
       venue: Late-Breaking Works, ACM CHI Conference on Human Factors in Computing Systems Proceedings (CHI)
       doi: 10.1145/3334480.3383046
       accept-rate: 41.8
-      # page: /papers/vitune
+      page: /papers/vitune
       file: /files/2020deja_vitune_chilbw.pdf
       # acm: https://dl.acm.org/authorize?N672083
-      # cite: /papers/vitune#cite
+      cite: /papers/vitune#cite
       # bibtex: /papers/vitune#bibtex
-      # figure: ../assets/png/vitune.png
+      figure: ../assets/png/vitune.png
       alt: A sample two-party conversation and the three routes used in the pilot study
       abstract: "Visualizers are usually added into music players to augment the listening experiences of hearing users. However, for the case of most members of the Deaf and Hard of Hearing (DHH) community, they have partial deafness which may give them a “limited” listening experience as compared to their counterparts. In this paper, we present ViTune, a visualizer tool that enhances the musical experiences of the DHH through the use of an on-screen visualizer generating effects alongside music. We observed how members of the DHH community typically experienced music through an initial user study. We then iterated on developing a visualizer prototype where we did multiple usability tests involving at least 15 participants from the DHH community. We observed how they experienced music with the help of our prototype and noticed that certain music features and elements augmented these experiences. Visualization attributes, their matching qualitative descriptions and equivalent subjective attributes were identified with the help of music experts. Also, affects hypothesized to be induced and dissuaded were identified in improving these listening experiences."
       citation: "Deja, J.A., Dela Torre, A., Lee, H.J., Ciriaco, J.F. IV & Eroles, C.M. (2020). ViTune: A Visualizer Tool to Allow the Deaf and Hard of Hearing to See Music with Their Eyes. In CHI Conference Extended Abstracts on Human Factors in Computing Systems Proceedings (CHI 2020), April 25–30, 2020, Honolulu, Hawai'i, USA. ACM, New York, NY, USA, 8 pages. DOI: https://doi.org/10.1145/3334480.3383046"
