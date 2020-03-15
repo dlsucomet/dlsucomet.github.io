@@ -72,6 +72,20 @@
       #   address = {New York, NY, USA},</br>
       #   keywords = {voice guidance; voice agents; two-party conversation; navigation applications; recommender systems; driving},</br>
       #   }"
+    
+    - id: assystx
+      title: "ASSYSTYX: Supporting Collaboration in Course Loading Systems"
+      authors: Troy Michael Mirafuentes, Arvin Roi Ante, Mark Gavin Sanchez, Jordan Aiko Deja & Rafael Cabredo
+      year: 2020
+      toappear: true
+      venue: Philippine Computing Science Congress (PCSC)
+      file: /files/2020mirafuentes_assystx_pcsc.pdf
+      cite: /cite/assystx
+      # bibtex: /bibtex/assystx
+      figure: ../assets/png/assystx.png
+      alt: The prototype screen showing the list of courses
+      abstract: "In a university setting, academic timetabling has been an open opportunity for developers and system designers. It is usually focused on generating schedules, managing conflicts, accommodating constraints and even allocating respective logistical needs. There are several off-the-shelf and customized systems that have been developed to accommodate the varying needs of different universities and organizations. The usage and the underlying human factors when using these systems is another consideration that we can tackle with these enrollment systems. In this paper, we attempt to discover, design, implement an academic course scheduling system that considers user collaboration with other humans and with the computer itself. We iterated on developing a prototype for course scheduling, assigning of faculty and other pre-enrollment tasks. We observed stakeholders such as Department Chair, Academic Officers and other key personnel and inquired into their pains and struggles in academic course loading systems. To help them in this process, we present ASSYSTX: An online platform that supports collaboration between key personnel involved in enrollment systems. We also identified key collaboration points towards providing affordances that cater to the needs of these personnel."
+      citation: "Mirafuentes, T.M., Ante, A.R., Sanchez, M.G., Deja, J.A., & Cabredo, R. (2020). ASSYSTYX: Supporting Collaboration in Course Loading Systems. In Proceedings of the 20th Philippine Computing Science Congress."
 
 - name: 2019
   papers:
