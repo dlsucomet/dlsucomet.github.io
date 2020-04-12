@@ -20,7 +20,7 @@
   first: Austin
   nickname: Austin
   program: Computer Science
-  role: Lecturer
+  role: Assistant Professor
   interests: Computing Education, Machine Learning, Human-Computer Interaction
   type: Faculty
   pic: ../assets/png/profile/austin_fernandez.jpg
@@ -41,7 +41,7 @@
   interests: Human-Computer Interaction
   type: Faculty
   pic: ../assets/png/profile/jordan_deja.jpg
-  website: https://jrdndj.design
+  website: https://jrdndj.github.io
 - last: Villagracia
   first: Al Rey
   nickname: Al Rey
@@ -158,13 +158,13 @@
   role: Masters Student Member
   type: Student
   pic: ../assets/png/profile/seaver_choy.jpg
-- last: Agno II
-  first: Alexander
-  nickname: Alex
-  program: BS CS - Software Technology
-  role: Undergraduate Member
-  type: Student
-  pic: ../assets/png/profile/alex_agno.jpg
+#- last: Agno II
+#  first: Alexander
+#  nickname: Alex
+#  program: BS CS - Software Technology
+ # role: Undergraduate Member
+#  type: Student
+#  pic: ../assets/png/profile/alex_agno.jpg
 - last: Ang
   first: Jerald
   nickname: Jerald
@@ -242,13 +242,13 @@
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/emir_mendoza.jpg
-- last: Naui
-  first: Rodel Patrick
-  nickname: Patrick
-  program: BS CS - Instructional Systems Tech.
-  role: Undergraduate Member
-  type: Student
-  pic: ../assets/png/profile/patrick_naui.jpg
+#- last: Naui
+#  first: Rodel Patrick
+#  nickname: Patrick
+#  program: BS CS - Instructional Systems Tech.
+#  role: Undergraduate Member
+ # type: Student
+#  pic: ../assets/png/profile/patrick_naui.jpg
 - last: Nuncio
   first: Graciel
   nickname: Graciel
