@@ -4,74 +4,73 @@
       title: Are Two Heads Better than One? Exploring Two-Party Conversations for Car Navigation Voice Guidance
       authors: Briane Paul V. Samson & Yasuyuki Sumi
       year: 2020
-      toappear: true
+      # toappear: true
       venue: Late-Breaking Works, ACM CHI Conference on Human Factors in Computing Systems Proceedings (CHI)
       doi: 10.1145/3334480.3382818
       accept-rate: 41.8
       page: /papers/two-heads-pilot
       file: /files/2020samson_twoheadspilot_chilbw.pdf
-      # acm: https://dl.acm.org/authorize?N672083
-      # arxiv: https://arxiv.org/abs/1901.06681
+      acm: https://dl.acm.org/doi/abs/10.1145/3334480.3382818
       cite: /papers/two-heads-pilot#cite
-      # bibtex: /papers/two-heads-pilot#bibtex
+      bibtex: /papers/two-heads-pilot#bibtex
       figure: ../assets/png/two-heads-pilot.png
       alt: A sample two-party conversation and the three routes used in the pilot study
       abstract: "Voice guidance for car navigation typically considers drivers as docile actors. Recent works highlight limitations to this assumption which make drivers rely less on given directions. To explore how drivers can make better navigation decisions, we conducted a pilot Wizard-of-Oz study that gives turn suggestions in conversations between two voice agents. We asked 30 participants to drive in a simulation environment using voice guidance that gives three types of suggestions: familiar, optimal, and new routes. We examined their route choices, perceived workload and utterances while driving. We found that while most drivers followed directions appropriate for the given scenarios, they were more likely to make inappropriate choices after hearing alternatives in conversations. On the other hand, two-party conversations allowed drivers to better reflect on their choices after trips. We conclude by discussing preliminary design implications for car navigation voice guidance specifically and recommender systems in general."
       citation: "Samson, B.P.V. & Sumi, Y. (2020). Are Two Heads Better than One? Exploring Two-Party Conversations for Car Navigation Voice Guidance. In CHI Conference Extended Abstracts on Human Factors in Computing Systems Proceedings (CHI 2020), April 25–30, 2020, Honolulu, Hawai'i, USA. ACM, New York, NY, USA, 10 pages. DOI: https://doi.org/10.1145/3334480.3382818"
-      # bibtex-cite: "@inproceedings{Samson:2020:EFI:3334480.3382818,</br>
-      #   author = {Samson, Briane Paul V. and Sumi, Yasuyuki},</br>
-      #   title = {Are Two Heads Better than One? Exploring Two-Party Conversations for Car Navigation Voice Guidance},</br>
-      #   booktitle = {Proceedings of the 2020 CHI Conference Extended Abstracts on Human Factors in Computing Systems},</br>
-      #   series = {CHI '20},</br>
-      #   year = {2020},</br>
-      #   isbn = {978-1-4503-6819-3},</br>
-      #   location = {Honolulu, Hawai'i, USA},</br>
-      #   pages = {371:1--371:10},</br>
-      #   articleno = {371},</br>
-      #   numpages = {10},</br>
-      #   url = {http://doi.acm.org/10.1145/3334480.3382818},</br>
-      #   doi = {10.1145/3334480.3382818},</br>
-      #   acmid = {3382818},</br>
-      #   publisher = {ACM},</br>
-      #   address = {New York, NY, USA},</br>
-      #   keywords = {voice guidance; voice agents; two-party conversation; navigation applications; recommender systems; driving},</br>
-      #   }"
+      bibtex-cite: "@inproceedings{Samson:2020:EFI:3334480.3382818,</br>
+        author = {Samson, Briane Paul V. and Sumi, Yasuyuki},</br>
+        title = {Are Two Heads Better than One? Exploring Two-Party Conversations for Car Navigation Voice Guidance},</br>
+        booktitle = {Proceedings of the 2020 CHI Conference Extended Abstracts on Human Factors in Computing Systems},</br>
+        series = {CHI '20},</br>
+        year = {2020},</br>
+        isbn = {978-1-4503-6819-3},</br>
+        location = {Honolulu, Hawai'i, USA},</br>
+        pages = {371:1--371:10},</br>
+        articleno = {371},</br>
+        numpages = {10},</br>
+        url = {http://doi.acm.org/10.1145/3334480.3382818},</br>
+        doi = {10.1145/3334480.3382818},</br>
+        acmid = {3382818},</br>
+        publisher = {ACM},</br>
+        address = {New York, NY, USA},</br>
+        keywords = {voice guidance; voice agents; two-party conversation; navigation applications; recommender systems; driving},</br>
+        }"
     
     - id: vitune
       title: "ViTune: A Visualizer Tool to Allow the Deaf and Hard of Hearing to See Music with Their Eyes"
       authors: Jordan Aiko Deja, Alexczar Dela Torre, Hans Joshua Lee, Jose Florencio Ciriaco IV & Carlo Miguel Eroles
       year: 2020
-      toappear: true
+      # toappear: true
       venue: Late-Breaking Works, ACM CHI Conference on Human Factors in Computing Systems Proceedings (CHI)
       doi: 10.1145/3334480.3383046
       accept-rate: 41.8
       page: /papers/vitune
       file: /files/2020deja_vitune_chilbw.pdf
-      # acm: https://dl.acm.org/authorize?N672083
+      acm: https://dl.acm.org/doi/abs/10.1145/3334480.3383046
       cite: /papers/vitune#cite
-      # bibtex: /papers/vitune#bibtex
+      bibtex: /papers/vitune#bibtex
       figure: ../assets/png/vitune.png
       alt: A sample two-party conversation and the three routes used in the pilot study
       abstract: "Visualizers are usually added into music players to augment the listening experiences of hearing users. However, for the case of most members of the Deaf and Hard of Hearing (DHH) community, they have partial deafness which may give them a “limited” listening experience as compared to their counterparts. In this paper, we present ViTune, a visualizer tool that enhances the musical experiences of the DHH through the use of an on-screen visualizer generating effects alongside music. We observed how members of the DHH community typically experienced music through an initial user study. We then iterated on developing a visualizer prototype where we did multiple usability tests involving at least 15 participants from the DHH community. We observed how they experienced music with the help of our prototype and noticed that certain music features and elements augmented these experiences. Visualization attributes, their matching qualitative descriptions and equivalent subjective attributes were identified with the help of music experts. Also, affects hypothesized to be induced and dissuaded were identified in improving these listening experiences."
       citation: "Deja, J.A., Dela Torre, A., Lee, H.J., Ciriaco, J.F. IV & Eroles, C.M. (2020). ViTune: A Visualizer Tool to Allow the Deaf and Hard of Hearing to See Music with Their Eyes. In CHI Conference Extended Abstracts on Human Factors in Computing Systems Proceedings (CHI 2020), April 25–30, 2020, Honolulu, Hawai'i, USA. ACM, New York, NY, USA, 8 pages. DOI: https://doi.org/10.1145/3334480.3383046"
-      # bibtex-cite: "@inproceedings{Deja:2020:3334480.3383046,</br>
-      #   author = {Deja, Jordan Aiko and Dela Torre, Alexczar and Lee, Hans Joshua and Ciriaco, Jose Florencio IV and Eroles, Carlo Miguel},</br>
-      #   title = {ViTune: A Visualizer Tool to Allow the Deaf and Hard of Hearing to See Music with Their Eyes},</br>
-      #   booktitle = {Proceedings of the 2020 CHI Conference Extended Abstracts on Human Factors in Computing Systems},</br>
-      #   series = {CHI '20},</br>
-      #   year = {2020},</br>
-      #   isbn = {978-1-4503-6819-3},</br>
-      #   location = {Honolulu, Hawai'i, USA},</br>
-      #   pages = {371:1--371:10},</br>
-      #   articleno = {371},</br>
-      #   numpages = {8},</br>
-      #   url = {http://doi.acm.org/10.1145/3334480.3383046},</br>
-      #   doi = {10.1145/3334480.3383046},</br>
-      #   acmid = {3383046},</br>
-      #   publisher = {ACM},</br>
-      #   address = {New York, NY, USA},</br>
-      #   keywords = {voice guidance; voice agents; two-party conversation; navigation applications; recommender systems; driving},</br>
-      #   }"
+      bibtex-cite: "@inproceedings{Deja:2020:3334480.3383046,</br>
+        author = {Deja, Jordan Aiko and Dela Torre, Alexczar and Lee, Hans Joshua and Ciriaco, Jose Florencio IV and Eroles, Carlo Miguel},</br>
+        title = {ViTune: A Visualizer Tool to Allow the Deaf and Hard of Hearing to See Music with Their Eyes},</br>
+        booktitle = {Proceedings of the 2020 CHI Conference Extended Abstracts on Human Factors in Computing Systems},</br>
+        series = {CHI '20},</br>
+        year = {2020},</br>
+        isbn = {978-1-4503-6819-3},</br>
+        location = {Honolulu, Hawai'i, USA},</br>
+        pages = {371:1--371:10},</br>
+        articleno = {371},</br>
+        numpages = {8},</br>
+        url = {http://doi.acm.org/10.1145/3334480.3383046},</br>
+        doi = {10.1145/3334480.3383046},</br>
+        acmid = {3383046},</br>
+        publisher = {ACM},</br>
+        address = {New York, NY, USA},</br>
+        keywords = {voice guidance; voice agents; two-party conversation; navigation applications; recommender systems; driving},</br>
+        }"
     
     - id: assystx
       title: "ASSYSTYX: Supporting Collaboration in Course Loading Systems"
