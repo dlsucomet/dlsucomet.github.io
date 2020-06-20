@@ -10,7 +10,7 @@
       accept-rate: 41.8
       page: /papers/two-heads-pilot
       file: /files/2020samson_twoheadspilot_chilbw.pdf
-      acm: https://dl.acm.org/doi/abs/10.1145/3334480.3382818
+      acm: https://dl.acm.org/doi/10.1145/3334480.3382818?cid=99659319011
       cite: /papers/two-heads-pilot#cite
       bibtex: /papers/two-heads-pilot#bibtex
       figure: ../assets/png/two-heads-pilot.png
@@ -76,7 +76,6 @@
       title: "ASSYSTYX: Supporting Collaboration in Course Loading Systems"
       authors: Troy Michael Mirafuentes, Arvin Roi Ante, Mark Gavin Sanchez, Jordan Aiko Deja & Rafael Cabredo
       year: 2020
-      toappear: true
       venue: Philippine Computing Science Congress (PCSC)
       file: /files/2020mirafuentes_assystx_pcsc.pdf
       cite: /cite/assystx
@@ -85,6 +84,19 @@
       alt: The prototype screen showing the list of courses
       abstract: "In a university setting, academic timetabling has been an open opportunity for developers and system designers. It is usually focused on generating schedules, managing conflicts, accommodating constraints and even allocating respective logistical needs. There are several off-the-shelf and customized systems that have been developed to accommodate the varying needs of different universities and organizations. The usage and the underlying human factors when using these systems is another consideration that we can tackle with these enrollment systems. In this paper, we attempt to discover, design, implement an academic course scheduling system that considers user collaboration with other humans and with the computer itself. We iterated on developing a prototype for course scheduling, assigning of faculty and other pre-enrollment tasks. We observed stakeholders such as Department Chair, Academic Officers and other key personnel and inquired into their pains and struggles in academic course loading systems. To help them in this process, we present ASSYSTX: An online platform that supports collaboration between key personnel involved in enrollment systems. We also identified key collaboration points towards providing affordances that cater to the needs of these personnel."
       citation: "Mirafuentes, T.M., Ante, A.R., Sanchez, M.G., Deja, J.A., & Cabredo, R. (2020). ASSYSTYX: Supporting Collaboration in Course Loading Systems. In Proceedings of the 20th Philippine Computing Science Congress."
+
+    - id: pixels
+      title: "Generating Adversarial Examples Using Uniform Pixels and Neighbor Aggregation"
+      authors: Glenn Paul P. Gara & Arnulfo Azcarraga
+      year: 2020
+      venue: Philippine Computing Science Congress (PCSC)
+      file: /files/2020gara_uniformpixels_pcsc.pdf
+      cite: /cite/pixels
+      # bibtex: /bibtex/pixels
+      figure: ../assets/png/pixels.png
+      alt: Adversarial examples
+      abstract: "Deep neural networks have gained popularity due to its exceptional performance on several challenging tasks such as image classification, object detection, semantic segmentation, and image generation. Unfortunately, these networks are highly vulnerable to carefully crafted human imperceptible perturbations based on socalled adversarial examples. Adversarial examples have been used to mislead deep neural networks into predicting an incorrect output (i.e. category, label or class), sometimes with high confidence. Most approaches in constructing adversarial inputs require access to the gradients of the network, which is applicable only to gradient-based techniques. Others require only some access to the output function making these methods model-agnostic. In this work, we propose a mechanism that considers the neural network as a black-box by assuming that the network output is observed based only on the examined inputs. We focus our experiments on a model-agnostic adversarial example generation. Specifically, without exploiting the network gradients, we show that by aggregating neighboring images of an input image represented within a low dimensional input space and combine this with a perturbation technique referred to as “uniform pixels”, both convolutional neural network and vanilla neural network are vulnerable to incorrect predictions. As such, the proposed method can serve as a basis for designing more robust neural network models."
+      citation: "Gara, G.P.P., & Azcarraga, A. (2020). Generating Adversarial Examples Using Uniform Pixels and Neighbor Aggregation. In Proceedings of the 20th Philippine Computing Science Congress."
 
 - name: 2019
   papers:
@@ -123,7 +135,7 @@
       doi: 10.1145/3290605.3300601
       accept-rate: 23.8
       page: /papers/factors-not-follow
-      acm: https://dl.acm.org/authorize?N672083
+      acm: https://dl.acm.org/doi/10.1145/3290605.3300601?cid=99659319011 #https://dl.acm.org/authorize?N672083
       arxiv: https://arxiv.org/abs/1901.06681
       cite: /papers/factors-not-follow#cite
       bibtex: /papers/factors-not-follow#bibtex
