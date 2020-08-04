@@ -72,6 +72,70 @@
         keywords = {voice guidance; voice agents; two-party conversation; navigation applications; recommender systems; driving},</br>
         }"
     
+    - id: od-access
+      title: "From Access to Effective Use: Open Data Portals for Everyday Citizens"
+      authors: Unisse C. Chua, Kyle L. Santiago, Ian Benedict M. Ona, Romeo Manuel N. Peña, Geremiah Zachary S. Marasigan, Paolo Gabriel A. Delos Reyes & Briane Paul V. Samson
+      year: 2020
+      venue: Asian HCI Symposium, CHI
+      acm: https://dl.acm.org/doi/abs/10.1145/3391203.3391219
+      doi: 10.1145/3391203.3391219
+      page: /papers/od-access
+      file: /files/2020chua_od_access_asianchi.pdf
+      cite: /papers/od-access#cite
+      bibtex: /papers/od-access#bibtex
+      figure: ../assets/png/od-access.png
+      alt: Preference for accessing and viewing open data
+      citation: "Unisse C. Chua, Kyle L. Santiago, Ian Benedict M. Ona, Romeo Manuel N. Peña, Geremiah Zachary S. Marasigan, Paolo Gabriel A. Delos Reyes, and Briane Paul V. Samson. 2020. From Access to Effective Use: Open Data Portals for Everyday Citizens. In Proceedings of the 2020 Symposium on Emerging Research from Asia and on Asian Contexts and Cultures (AsianCHI ’20). Association for Computing Machinery, New York, NY, USA, 61–64. DOI:https://doi.org/10.1145/3391203.3391219"
+      abstract: "Open government data allows for transparency from governments and access to data collected about its citizens. However, we are still far from achieving universal citizen participation because data literacy and experience are necessary to extract insights from data. There is also no guarantee if available data can address people's information needs. We explored the potential of open government data portals in addressing the information needs of citizens through an online survey and found that these can only be partially answered by the available data. To understand their information seeking behavior, we conducted usability tests of open data portals with 21 citizens, and used semi-structured interviews to identify gaps in the portals' design. We found that citizens would benefit from: localized and advanced search engines; and visualized, contextualized, and processed content for better sensemaking. We conclude with design guidelines for open data portals catered to citizens."
+      bibtex-cite: "@inproceedings{Chua:2020:3391203.3391219,</br>
+        author = {Chua, Unisse C. and Santiago, Kyle L. and Ona, Ian Benedict M. and Peña, Romeo Manuel N. and Marasigan, Geremiah Zachary S. and Reyes, Paolo Gabriel A. Delos and Samson, Briane Paul V.},</br>
+        title = {From Access to Effective Use: Open Data Portals for Everyday Citizens},</br>
+        year = {2020},</br>
+        isbn = {9781450387682},</br>
+        publisher = {Association for Computing Machinery},</br>
+        address = {New York, NY, USA},</br>
+        url = {https://doi.org/10.1145/3391203.3391219},</br>
+        doi = {10.1145/3391203.3391219},</br>
+        booktitle = {Proceedings of the 2020 Symposium on Emerging Research from Asia and on Asian Contexts and Cultures},</br>
+        pages = {61–64},</br>
+        numpages = {4},</br>
+        keywords = {Open data, information seeking, user study},</br>
+        location = {Honolulu, HI, USA},</br>
+        series = {AsianCHI ’20}</br>
+        }"
+
+    - id: grit
+      title: "Designing Grit: Discovering Features Towards Supporting Novice Programmer DevOps Integration"
+      authors: Tyrone Justin Sta Maria, Gavin Raine Dizon, Vince Anthony Esquivel, Jordan Aiko Deja & Unisse Chua
+      year: 2020
+      venue: Asian HCI Symposium, CHI
+      acm: https://dl.acm.org/doi/abs/10.1145/3391203.3391214
+      doi: 10.1145/3391203.3391214
+      page: /papers/grit
+      file: /files/2020stamaria_grit_asianchi.pdf
+      cite: /papers/grit#cite
+      bibtex: /papers/grit#bibtex
+      figure: ../assets/png/grit.png
+      alt: Prototype for Grit
+      citation: "Tyrone Justin Sta Maria, Gavin Raine Dizon, Vince Anthony Esquivel, Jordan Aiko Deja, and Unisse Chua. 2020. Designing Grit: Discovering Features Towards Supporting Novice Programmer DevOps Integration. In Proceedings of the 2020 Symposium on Emerging Research from Asia and on Asian Contexts and Cultures (AsianCHI ’20). Association for Computing Machinery, New York, NY, USA, 41–44. DOI:https://doi.org/10.1145/3391203.3391214"
+      abstract: "DevOps is usually an industry approach that is practiced by seasoned and experienced programmers and developers. In most university settings especially in the Philippine context, DevOps is not usually part of the curriculum and in some cases are only introduced to learner programmers as an elective or as bonus material. We refer to these students in computing degree programs starting out in learning programming, as novice programmers. Upon graduation, these developers transition into industry roles where they are expected to be familiar with DevOps practices [18]. In most cases, they are not prepared, and fortunately, a great number of them are given training before fully transitioning into their hired roles. In this paper, we attempt to discover and design an intervention mechanism that can assist and prepare novice programmers to easily learn DevOps at an early stage. We gathered data and insights from novice programmers and inquired into their pains and struggles in learning and practicing DevOps. To help them in this process, we propose Grit, a prototype tool to support novice programmers in integrating DevOps. Initial insights provided affordances and design elements for a version control prototype with targetted intervention features. In the long run we intend to discover more insights involving the other stages in DevOps beyond version control."
+      bibtex-cite: "@inproceedings{StaMaria:2020:3391203.3391214,</br>
+        author = {Sta Maria, Tyrone Justin and Dizon, Gavin Raine and Esquivel, Vince Anthony and Deja, Jordan Aiko and Chua, Unisse},</br>
+        title = {Designing Grit: Discovering Features Towards Supporting Novice Programmer DevOps Integration},</br>
+        year = {2020},</br>
+        isbn = {9781450387682},</br>
+        publisher = {Association for Computing Machinery},</br>
+        address = {New York, NY, USA},</br>
+        url = {https://doi.org/10.1145/3391203.3391214},</br>
+        doi = {10.1145/3391203.3391214},</br>
+        booktitle = {Proceedings of the 2020 Symposium on Emerging Research from Asia and on Asian Contexts and Cultures},</br>
+        pages = {41–44},</br>
+        numpages = {4},</br>
+        keywords = {novice programmers, DevOps, programmer support},</br>
+        location = {Honolulu, HI, USA},</br>
+        series = {AsianCHI ’20}</br>
+        }"
+
     - id: assystx
       title: "ASSYSTYX: Supporting Collaboration in Course Loading Systems"
       authors: Troy Michael Mirafuentes, Arvin Roi Ante, Mark Gavin Sanchez, Jordan Aiko Deja & Rafael Cabredo
