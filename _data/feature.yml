@@ -1,3 +1,12 @@
+- conf: Philippine Science Letters
+  year: 2020
+  papers:
+    - id: fil-dl-network
+    - id: h5n6-optimal-control
+- conf: Philippine Journal of Science
+  year: 2019
+  papers:
+    - id: drowning-rumor
 - conf: CHI 2020 Late-Breaking Work - Hawai'i, USA
   year: 2020
   papers:
@@ -11,41 +20,41 @@
   year: 2019
   papers:
     - id: factors-not-follow
-- conf: CHIuXiD 2019 - Bali, Indonesia
-  year: 2019
-  papers:
-    - id: flow-chiuxid
-    - id: trex-chiuxid
-    - id: 360-chiuxid
-- conf: HCII 2019 - Las Vegas, USA
-  year: 2018
-  papers:
-    - id: flow-hcii
-    - id: myosl
-- conf: ICCS 2018 - Wuxi, China
-  year: 2018
-  papers:
-    - id: gridlock
-- conf: Asian CHI Symposium 2018 - Montreal, Canada
-  year: 2018
-  papers:
-    - id: heuristic-web
-- conf: Mechatronics and Machine Vision in Practice 3
-  year: 2018
-  papers:
-    - id: seight-m2vip
-    - id: luntian-m2vip
-- conf: CHIuXiD 2018 - Yogyakarta, Indonesia
-  year: 2018
-  papers:
-    - id: eeg-ux
-    - id: airguitar
-- conf: ICCS 2017 - Zurich, Switzerland
-  year: 2017
-  papers:
-    - id: swarm
-- conf: PCSC 2017 - Cebu, Philippines
-  year: 2017
-  papers:
-    - id: congestion-mrt
-    - id: guitar-model
+# - conf: CHIuXiD 2019 - Bali, Indonesia
+#   year: 2019
+#   papers:
+#     - id: flow-chiuxid
+#     - id: trex-chiuxid
+#     - id: 360-chiuxid
+# - conf: HCII 2019 - Las Vegas, USA
+#   year: 2018
+#   papers:
+#     - id: flow-hcii
+#     - id: myosl
+# - conf: ICCS 2018 - Wuxi, China
+#   year: 2018
+#   papers:
+#     - id: gridlock
+# - conf: Asian CHI Symposium 2018 - Montreal, Canada
+#   year: 2018
+#   papers:
+#     - id: heuristic-web
+# - conf: Mechatronics and Machine Vision in Practice 3
+#   year: 2018
+#   papers:
+#     - id: seight-m2vip
+#     - id: luntian-m2vip
+# - conf: CHIuXiD 2018 - Yogyakarta, Indonesia
+#   year: 2018
+#   papers:
+#     - id: eeg-ux
+#     - id: airguitar
+# - conf: ICCS 2017 - Zurich, Switzerland
+#   year: 2017
+#   papers:
+#     - id: swarm
+# - conf: PCSC 2017 - Cebu, Philippines
+#   year: 2017
+#   papers:
+#     - id: congestion-mrt
+#     - id: guitar-model
