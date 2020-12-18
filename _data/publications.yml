@@ -1,5 +1,86 @@
 - name: 2020
   papers:
+    - id: fil-dl-network
+      title: "Analysis of the co-authorship network of Filipino researchers in deep learning"
+      authors: Angelyn R. Lao, Unisse C. Chua & Briane Paul V. Samson
+      year: 2020
+      venue: Philippine Science Letters (PSL)
+      link: https://philsciletters.net/2020-148/
+      file: /files/2020lao_fil_dl_network_psl.pdf
+      page: /papers/fil-dl-network
+      cite: /papers/fil-dl-network#cite
+      bibtex: /papers/fil-dl-network#bibtex
+      figure: ../assets/png/fil-dl-network-thumb.png
+      alt: Toy network model of ignorant, exposed to, and spreader nodes.
+      abstract: "Deep learning is an emerging field that attracts attention from various researchers to use in analyzing and understanding increasingly complex systems and phenomena. Crucial to the advancement of deep learning research in the Philippines, institutions need to understand its direction and reach out and work with other leading researchers who have knowledge, insight, and resources to contribute to the challenges in deep learning research. Due to its wide application, we analyzed the collaboration dynamics and patterns of Filipino researchers working in this field through their co-authorship network. Our study found that while there is a steady increase in research productivity on deep learning, most of the publications and collaborations are concentrated on a handful of institutions like De La Salle University and University of the Philippines Diliman. Despite their current control over the direction of the local research community, these two top institutions have yet to form strong collaborations. We also found that Filipino researchers are mostly doing applied deep learning projects and rely heavily on undergraduate students to maintain productivity."
+      citation: "Lao, A.R., Chua, U.C. & Samson, B.P.V. (2020). Analysis of the co-authorship network of Filipino researchers in deep learning. Philippine Science Letters, 13(2), 148–157. Retrieved from https://philsciletters.net/2020-148/"
+      bibtex-cite: "@article{LaoFilDLNetwork2020,</br>
+        title = {Analysis of the co-authorship network of Filipino researchers in deep learning},</br>
+        journal = {Philippine Science Letters},</br>
+        volume = {13},</br>
+        issue = {2},</br>
+        pages = {148 - 157},</br>
+        year = {2020},</br>
+        issn = {2094-2818},</br>
+        url = {https://philsciletters.net/2020-148/},</br>
+        author = {Angelyn R. Lao and Unisse C. Chua and Briane Paul V. Samson},</br>
+        keywords = {co-authorship, network analysis, research productivity, Filipino, deep learning, Philippines}</br>
+        }"
+
+    - id: h5n6-optimal-control
+      title: "Prevention of H5N6 outbreaks in the Philippines using optimal control"
+      authors: Abel G. Lucido, Robert Smith? & Angelyn R. Lao
+      year: 2020
+      venue: Philippine Science Letters (PSL)
+      link: https://philsciletters.net/2020-158/
+      file: /files/2020lucido_h5n6_optimal_control_psl.pdf
+      page: /papers/h5n6-optimal-control
+      cite: /papers/h5n6-optimal-control#cite
+      bibtex: /papers/h5n6-optimal-control#bibtex
+      figure: ../assets/png/h5n6-optimal-control-thumb.png
+      alt: Toy network model of ignorant, exposed to, and spreader nodes.
+      abstract: "Highly Pathogenic Avian Influenza A (H5N6) is a mutated virus of Influenza A (H5N1) and a new emerging infection that recently caused an outbreak in the Philippines. The 2017 H5N6 outbreak resulted in a depopulation of 667,184 domestic birds. We incorporate half-saturated incidence and optimal control in our mathematical models in order to investigate three intervention strategies against H5N6: isolation with treatment, vaccination, and modified culling. We determine the direction of the bifurcation when R0=1 and show that all the models exhibit forward bifurcation. We apply the theory of optimal control and perform numerical simulations to compare the consequences and implementation cost of utilizing different intervention strategies in the poultry population. Despite the challenges of applying each control strategy, we show that culling both infected and susceptible birds is an effective control strategy in limiting an outbreak, with a consequence of losing a large number of birds; the isolation-treatment strategy has the potential to prevent an outbreak, but it highly depends on rapid isolation and successful treatment used; while vaccination alone is not enough to control the outbreak."
+      citation: "Lucido, A.G., Smith?, R. & Lao, A.R. (2020). Prevention of H5N6 outbreaks in the Philippines using optimal control. Philippine Science Letters, 13(2), 158–175. Retrieved from https://philsciletters.net/2020-158/"
+      bibtex-cite: "@article{LucidoH5N6Optimal2020,</br>
+        title = {Prevention of H5N6 outbreaks in the Philippines using optimal control},</br>
+        journal = {Philippine Science Letters},</br>
+        volume = {13},</br>
+        issue = {2},</br>
+        pages = {158 - 175},</br>
+        year = {2020},</br>
+        issn = {2094-2818},</br>
+        url = {https://philsciletters.net/2020-158/},</br>
+        author = {Abel G. Lucido and Robert Smith? and Angelyn R. Lao},</br>
+        keywords = {Influenza A (H5N6), half-saturated incidence, isolationtreatment, culling, vaccination, bifurcation, optimal control}</br>
+        }"
+    
+    - id: drowning-rumor
+      title: "Drowning Out Rumor: Dynamical Models of the Interaction between Spreaders of and Exposed to Truth and Rumor Spreading"
+      authors: Juan Miguel Augusto M. Feria, Michael Lawrence S. Oliva, Briane Paul V. Samson & Angelyn R. Lao
+      year: 2019
+      venue: Philippine Journal of Science (PJS)
+      link: http://philjournalsci.dost.gov.ph/images/pdf/pjs_pdf/vol148no4/drowning_out_rumor_.pdf
+      file: /files/2019feria_drowningoutrumor_pjs.pdf
+      page: /papers/drowning-rumor
+      cite: /papers/drowning-rumor#cite
+      bibtex: /papers/drowning-rumor#bibtex
+      figure: ../assets/png/drowning-rumor.png
+      alt: Toy network model of ignorant, exposed to, and spreader nodes.
+      abstract: "Social networking sites have become instrumental in spreading information online, which unfortunately includes rumors and misinformation. Past studies have investigated the spread of rumors without considering that truth may spread simultaneously. This study considers both the spread of truth and rumor and investigates the result of their coexistence in a population. We formulated the spreader-spreader interaction model and the exposed-spreader interaction model based on the epidemiological SEIR model. In the spreader-spreader interaction model, the spreaders try to influence the opposing spreaders whereas, in the exposed-spreader interaction model, the spreaders try to influence the exposed individuals from the opposing side. In our study, we calculated the reproduction numbers for truth and rumor, determined the stability of the model at the equilibrium points, and determined an approach for spreading truth while halting rumors. In the spreader-spreader model, we have shown that increasing the removal rate of Spreaders of Rumor decreases the prevalence of rumor in the population. Whereas in the exposed-spreader model, we showed that increasing the conversion rate of Exposed to Rumor to Exposed to Truth significantly increases the amount of Exposed to Truth in the population, thereby making it an effective mechanism for promoting the spread of truth. In conclusion, it is harder to control the information epidemic in the exposed-spreader model but, compared to the spreader-spreader model, information spreads faster according to the exposed-spreader model. For certain information to be endemic to a population, our study proposes that spreaders take advantage during the first few days of the information diffusion process."
+      citation: "Feria, J.M.A.M., Oliva, M.L.S., Samson, B.P.V. & Lao, A.R. (2019). Drowning Out Rumor: Dynamical Models of the Interaction between Spreaders of and Exposed to Truth and Rumor Spreading. Philippine Journal of Science, 148(4), 659–687. Retrieved from http://philjournalsci.dost.gov.ph/images/pdf/pjs_pdf/vol148no4/drowning_out_rumor_.pdf"
+      bibtex-cite: "@article{TAN201898,</br>
+        title = {Drowning Out Rumor: Dynamical Models of the Interaction between Spreaders of and Exposed to Truth and Rumor Spreading},</br>
+        journal = {Philippine Journal of Science},</br>
+        volume = {148},</br>
+        issue = {4},</br>
+        pages = {659 - 687},</br>
+        year = {2019},</br>
+        issn = {0031-7683},</br>
+        url = {http://philjournalsci.dost.gov.ph/images/pdf/pjs_pdf/vol148no4/drowning_out_rumor_.pdf},</br>
+        author = {Juan Miguel Augusto M. Feria and Michael Lawrence S. Oliva and Briane Paul V. Samson and Angelyn R. Lao},</br>
+        keywords = {dynamical systems, information epidemic, ordinary differential equations, rumor spread}</br>
+        }"
+
     - id: two-heads-pilot
       title: Are Two Heads Better than One? Exploring Two-Party Conversations for Car Navigation Voice Guidance
       authors: Briane Paul V. Samson & Yasuyuki Sumi
