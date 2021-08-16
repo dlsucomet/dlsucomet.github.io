@@ -17,7 +17,7 @@
       citation: "Trujillo, M., Rosenblatt, S., Jáuregui, G. de A., Moog, E., Samson, B. P. V., Hébert-Dufresne, L., & Roth, A. M. (2021). When the echo chamber shatters: Examining the use of community-specific language post-subreddit ban. 164–178. Association for Computational Linguistics, https://doi.org/10.18653/v1/2021.woah-1.18."
       bibtex-cite: "@inproceedings{trujillo-etal-2021-echo,</br>
         title = {When the Echo Chamber Shatters: Examining the Use of Community-Specific Language Post-Subreddit Ban},</br>
-        author = {Trujillo, Milo and Rosenblatt, Sam and de Anda J{\'a}uregui, Guillermo and Moog, Emily and Samson, Briane Paul V. and H{\'e}bert-Dufresne, Laurent and Roth, Allison M.},</br>
+        author = {Trujillo, Milo and Rosenblatt, Sam and de Anda Jáuregui, Guillermo and Moog, Emily and Samson, Briane Paul V. and Hébert-Dufresne, Laurent and Roth, Allison M.},</br>
         booktitle = {Proceedings of the 5th Workshop on Online Abuse and Harms (WOAH 2021)},</br>
         month = aug,</br>
         year = {2021},</br>
