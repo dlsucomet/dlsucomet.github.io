@@ -1,3 +1,11 @@
+- conf: WHOA 2021
+  year: 2021
+  papers:
+    - id: reddit-ban
+- conf: CHI 2021
+  year: 2021
+  papers:
+    - id: sat-scheduler
 - conf: Philippine Science Letters
   year: 2020
   papers:
