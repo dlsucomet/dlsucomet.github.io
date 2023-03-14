@@ -1,104 +1,274 @@
 - name: Cohort Leader
   members:
-    - name: Adrienne Soliven
-      nickname: Adrienne
+    - name: Tyrone Sta. Maria
+      nickname: Tyrone
       type: Student
-      pic: ../assets/png/profile/adrienne_soliven.jpg
+      pic: ../assets/png/profile/tyrone_justin_sta_maria.jpg
 - name: People Operations
   members:
-    - name: Shenn Tinsay
-      nickname: Shenn
+    - name: Joric Batac
+      nickname: Joric
       role: Lead
       type: Student
-      pic: ../assets/png/profile/shenn_tinsay.jpg
-    - name: Joshua Manzano
-      nickname: Josh
-      role: Lead
+      pic: ../assets/png/profile/joric_bernardo_batac.jpg
+    - name: Chelsea Alabanza
+      nickname: Cara
       type: Student
-      pic: ../assets/png/profile/joshua_manzano.jpg
-    - name: Kyle Santiago
-      nickname: Kyle
-      role: Lead
+      pic: ../assets/png/profile/chelsea_alexandra_alabanza.jpg
+    # - name: Mark Cortejo
+    #   nickname: Mark
+    #   type: Student
+    #   pic: ../assets/png/profile/mark_jethro_cortejo.jpg
+    - name: Gavin Dizon
+      nickname: Gavin
       type: Student
-      pic: ../assets/png/profile/kyle_santiago.jpg
+      pic: ../assets/png/profile/gavin_dizon.jpg
+    # - name: Sophia Eguaras
+    #   nickname: Sophia
+    #   type: Student
+    #   pic: ../assets/png/profile/sophia_eguaras.jpg
+    - name: Keil Finez
+      nickname: Keil
+      type: Student
+      pic: ../assets/png/profile/keil_finez.jpg
+    - name: Rayden Lizan
+      nickname: Rayden
+      type: Student
+      pic: ../assets/png/profile/rayden_lizan.jpg
+    # - name: Andrea Jean Marcelo
+    #   nickname: AJ
+    #   type: Student
+    #   pic: ../assets/png/profile/andrea_jean_marcelo.jpg
+    - name: Heinze Moneda
+      nickname: Heinze
+      type: Student
+      pic: ../assets/png/profile/heinze_kristian_moneda.jpg
+    # - name: Paolo Montecillo
+    #   nickname: Paolo
+    #   type: Student
+    #   pic: ../assets/png/profile/paolo_montecillo.jpg
+    - name: Gabriel Pua
+      nickname: Gabriel
+      type: Student
+      pic: ../assets/png/profile/gabriel_joseph_pua.jpg
+    - name: Jacob Sy
+      nickname: Jacob
+      type: Student
+      pic: ../assets/png/profile/jacob_sy.jpg
+    # - name: Francheska Vicente
+    #   nickname: Cheska
+    #   type: Student
+    #   pic: ../assets/png/profile/francheska_vicente.jpg
+    # - name: Sophia Vista
+    #   nickname: Sophia
+    #   type: Student
+    #   pic: ../assets/png/profile/sophia_vista.jpg
 - name: Project Management
   members:
-    - name: Geremiah Zachary Marasigan
-      nickname: Zach
+    - name: Matthew Buensalida
+      nickname: Matthew
       role: Lead
       type: Student
-      pic: ../assets/png/profile/geremiah_marasigan.jpg
-    - name: Lynux Ansay
-      nickname: Lynux
+      pic: ../assets/png/profile/matthew_buensalida.jpg
+    # - name: Miguel Tansingco
+    #   nickname: Miko
+    #   role: Lead
+    #   type: Student
+    #   pic: ../assets/png/profile/miko_tansingco.jpg
+    - name: Bryan Camarillo
+      nickname: Bryan
       type: Student
-      pic: ../assets/png/profile/lynux_ansay.jpg
+      pic: ../assets/png/profile/bryan_camarillo.jpg
+    - name: Alfonso Lima
+      nickname: Alfonso
+      type: Student
+      pic: ../assets/png/profile/alfonso_lima.jpg
+    - name: Jose Ignacio Locsin
+      nickname: Jay-ai
+      type: Student
+      pic: ../assets/png/profile/jose_ignacio_locsin.jpg
+    # - name: Cherrie Pioquinto
+    #   nickname: Cherrie
+    #   type: Student
+    #   pic: ../assets/png/profile/cherrie_luz_pioquinto.jpg
+    - name: Lorene Uy
+      nickname: Lorene
+      type: Student
+      pic: ../assets/png/profile/lorene_uy.jpg
+    - name: Winzentt Sy
+      nickname: Winzentt
+      type: Student
+      pic: ../assets/png/profile/winzentt_jordayne_sy.jpg
 - name: Strategic Communications
   members:
-    - name: Emir Mendoza
-      nickname: Emir
+    - name: Elyssia Ong
+      nickname: Elyssia
       role: Lead
       type: Student
-      pic: ../assets/png/profile/emir_mendoza.jpg
-    - name: Miguel Llamas
-      nickname: Miggy
+      pic: ../assets/png/profile/elyssia_ong.jpg
+    - name: Aaron Briñes
+      nickname: Aaron
       type: Student
-      pic: ../assets/png/profile/miguel_llamas.jpg
-    - name: Fritz Calimag
-      nickname: Fritz
+      pic: ../assets/png/profile/aaron_joshua_briñes.jpg
+    - name: Leigh Buendia
+      nickname: Leigh
       type: Student
-      pic: ../assets/png/profile/fritz_calimag.jpg
-    - name: Antonello Santos
-      nickname: Nelo
+      pic: ../assets/png/profile/leigh_buendia.jpg
+    - name: Amos Cacha
+      nickname: Amos
       type: Student
-      pic: ../assets/png/profile/antonello_santos.jpg
-    - name: Julian De Castro
-      nickname: Julian
+      pic: ../assets/png/profile/amos_rafael_cacha.jpg
+    - name: Nicholas Campos
+      nickname: Nicholas
       type: Student
-      pic: ../assets/png/profile/julian_decastro.jpg
-    - name: Paolo Delos Reyes
-      nickname: Pao
+      pic: ../assets/png/profile/nicholas_scott_campos.jpg
+    - name: John Chua
+      nickname: Janjan
       type: Student
-      pic: ../assets/png/profile/paolo_delosreyes.jpg
-    - name: Mark Lim
-      nickname: Mark
+      pic: ../assets/png/profile/john_vincent_chua.jpg
+    - name: Rolan Justin Cosico
+      nickname: RJ
       type: Student
-      pic: ../assets/png/profile/mark_lim.jpg
-    - name: Jerald Ang
-      nickname: Jerald
+      pic: ../assets/png/profile/rolan_justin_cosico.jpg
+    - name: Cyril De Guzman
+      nickname: Cyril
       type: Student
-      pic: ../assets/png/profile/jerald_ang.jpg
+      pic: ../assets/png/profile/cyril_ethan_de_guzman.jpg
+    - name: Vince Esquivel
+      nickname: Vince
+      type: Student
+      pic: ../assets/png/profile/vince_esquivel.jpg
+    # - name: Andrea Nicole Ocampo
+    #   nickname: Nicole
+    #   type: Student
+    #   pic: ../assets/png/profile/andrea_nicole_ocampo.jpg
+    - name: Pamela Olalia
+      nickname: Pamela
+      type: Student
+      pic: ../assets/png/profile/pamela_olalia.jpg
+    - name: Christopher Pinpin
+      nickname: Christopher
+      type: Student
+      pic: ../assets/png/profile/christopher_pinpin.jpg
+    - name: Leana Rebong
+      nickname: Leana
+      type: Student
+      pic: ../assets/png/profile/leana_hyacinth_rebong.jpg
+    - name: Francheska Roque
+      nickname: Francheska
+      type: Student
+      pic: ../assets/png/profile/francheska_roque.jpg
+    - name: Geoff Topacio
+      nickname: Geoff
+      type: Student
+      pic: ../assets/png/profile/geoff_aaron_topacio.jpg
+    - name: Josh Aaron Uson
+      nickname: Aaron
+      type: Student
+      pic: ../assets/png/profile/josh_aaron_khyle_uson.jpg
+    - name: Justin Riley Uy
+      nickname: Riley
+      type: Student
+      pic: ../assets/png/profile/justin_riley_uy.jpg
 - name: Lab Operations
   members:
-    - name: Tadhg McCarthy
-      nickname: Tadhg
-      role: Lead
+    - name: Louis Allen Aboy
+      nickname: Allen
       type: Student
-      pic: ../assets/png/profile/tadhg_mccarthy.jpg
-    - name: Romeo Peña
-      nickname: Rolo
+      pic: ../assets/png/profile/louis_allen_aboy.jpg
+    - name: Beatrice Berenguer
+      nickname: Bea
       type: Student
-      pic: ../assets/png/profile/romeo_pena.jpg
-- name: Subject Matter Experts
-  members:
-    - name: Justin Ricardo
-      nickname: Justin
+      pic: ../assets/png/profile/bea_berenguer.jpg
+    # - name: Sandra Berjamin
+    #   nickname: Sandra
+    #   type: Student
+    #   pic: ../assets/png/profile/sandra_angela_berjamin.jpg
+    # - name: Jericho Chan
+    #   nickname: Jericho
+    #   type: Student
+    #   pic: ../assets/png/profile/jericho_chan.jpg
+    - name: Alfonso Cruz
+      nickname: Alfonso
       type: Student
-      pic: ../assets/png/profile/justin_ricardo.jpg
-      subject: Network Science, Machine Learning
-    - name: Adrienne Soliven
-      nickname: AD
+      pic: ../assets/png/profile/alfonso_miguel_cruz.jpg
+    - name: Franchezka Cruz
+      nickname: Chezka
       type: Student
-      pic: ../assets/png/profile/adrienne_soliven.jpg
-      subject: Human-Computer Interaction
-    - name: Ian Ona
-      nickname: Ian
+      pic: ../assets/png/profile/franchezka_cruz.jpg
+    - name: Adrian Dayrit
+      nickname: Adrian
       type: Student
-      pic: ../assets/png/profile/ian_ona.jpg
-      subject: Complex Systems
-- name: Technical Specialists
-  members:
-    - name: Emir Mendoza
-      nickname: Emir
+      pic: ../assets/png/profile/adrian_dayrit.jpg
+    - name: Benito Miguel Flores IV
+      nickname: Miguel
       type: Student
-      pic: ../assets/png/profile/emir_mendoza.jpg
-      subject: Data Viz
+      pic: ../assets/png/profile/benito_miguel_flores.jpg
+    - name: Jacob Gaba
+      nickname: Jacob
+      type: Student
+      pic: ../assets/png/profile/jacob_bryan_gaba.jpg
+    - name: Mark Gonzales
+      nickname: Mark
+      type: Student
+      pic: ../assets/png/profile/mark_edward_gonzales.jpg
+    - name: Hylene Lee
+      nickname: Hylene
+      type: Student
+      pic: ../assets/png/profile/hylene_jules_lee.jpg
+    - name: Kim Lee
+      nickname: Kim
+      type: Student
+      pic: ../assets/png/profile/kim_williame_lee.jpg
+    - name: Jose Paolo Lojo
+      nickname: Paolo
+      type: Student
+      pic: ../assets/png/profile/jose_paolo_lojo.jpg
+    # - name: Angeli Mata
+    #   nickname: Angeli
+    #   type: Student
+    #   pic: ../assets/png/profile/angeli_dianne_mata.jpg
+    - name: Phoebe Ong
+      nickname: Phoebe
+      type: Student
+      pic: ../assets/png/profile/phoebe_clare_ong.jpg
+    - name: Azriel Ortega
+      nickname: Azriel
+      type: Student
+      pic: ../assets/png/profile/azriel_matthew_ortega.jpg
+    - name: Jared Sy
+      nickname: Jared
+      type: Student
+      pic: ../assets/png/profile/jared_sy.jpg
+    - name: Alison Chloe Tan
+      nickname: Chloe
+      type: Student
+      pic: ../assets/png/profile/alison_chloe_tan.jpg
+    - name: Kenneth Tan
+      nickname: Kenneth
+      type: Student
+      pic: ../assets/png/profile/kenneth_tan.jpg
+# - name: Subject Matter Experts
+#   members:
+#     - name: Justin Ricardo
+#       nickname: Justin
+#       type: Student
+#       pic: ../assets/png/profile/justin_ricardo.jpg
+#       subject: Network Science, Machine Learning
+#     - name: Adrienne Soliven
+#       nickname: AD
+#       type: Student
+#       pic: ../assets/png/profile/adrienne_soliven.jpg
+#       subject: Human-Computer Interaction
+#     - name: Ian Ona
+#       nickname: Ian
+#       type: Student
+#       pic: ../assets/png/profile/ian_ona.jpg
+#       subject: Complex Systems
+# - name: Technical Specialists
+#   members:
+#     - name: Emir Mendoza
+#       nickname: Emir
+#       type: Student
+#       pic: ../assets/png/profile/emir_mendoza.jpg
+#       subject: Data Viz
