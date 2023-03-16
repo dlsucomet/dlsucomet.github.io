@@ -1,29 +1,3 @@
-- last: Chua
-  first: Unisse
-  nickname: Unisse
-  program: Computer Science
-  role: Assistant Professor
-  interests: Data Science, Data Visualization
-  type: Faculty
-  pic: ../assets/png/profile/unisse_chua.jpg
-  website: https://unissechua.github.io/
-- last: Lao
-  first: Angelyn R.
-  nickname: Angie
-  program: Mathematics
-  role: Associate Professor
-  interests: Systems Biology, Chemical Reaction Networks
-  type: Faculty
-  pic: ../assets/png/profile/angelyn_lao.jpg
-  website: https://angelynlao.github.io/
-- last: Fernandez
-  first: Austin
-  nickname: Austin
-  program: Computer Science
-  role: Assistant Professor
-  interests: Computing Education, Machine Learning, Human-Computer Interaction
-  type: Faculty
-  pic: ../assets/png/profile/austin_fernandez.jpg
 - last: Samson
   first: Briane Paul V.
   nickname: Briane
@@ -33,24 +7,23 @@
   type: Faculty
   pic: ../assets/png/profile/briane_samson.jpg
   website: https://brianesamson.com
-- last: Deja
-  first: Jordan Aiko
-  nickname: Jordan
+- last: Chua
+  first: Unisse
+  nickname: Unisse
   program: Computer Science
   role: Assistant Professor
-  interests: Human-Computer Interaction
+  interests: Data Science, Data Visualization
   type: Faculty
-  pic: ../assets/png/profile/jordan_deja.jpg
-  website: https://jrdndj.github.io
-- last: Villagracia
-  first: Al Rey
-  nickname: Al Rey
-  program: Physics
-  role: Full Professor
-  interests: Complex Systems
+  pic: ../assets/png/profile/unisse_chua.jpg
+  website: https://unissechua.github.io/
+- last: Fernandez
+  first: Austin
+  nickname: Austin
+  program: Computer Science
+  role: Assistant Professor
+  interests: Computing Education, Machine Learning, Human-Computer Interaction
   type: Faculty
-  pic: ../assets/png/profile/al_villagracia.jpg
-  website: https://scholar.google.co.jp/citations?hl=en&user=cImC570AAAAJ
+  pic: ../assets/png/profile/austin_fernandez.jpg
 - last: Cabredo
   first: Rafael	A.
   nickname: Raffy
@@ -60,13 +33,15 @@
   type: Faculty
   pic: ../assets/png/profile/rafael_cabredo.jpg
   website: https://scholar.google.co.jp/citations?hl=en&user=3Fqol3cAAAAJ
-- last: Lim
-  first: Dickson
-  nickname: Dickson
-  program: Economics
+- last: Deja
+  first: Jordan Aiko
+  nickname: Jordan
+  program: Computer Science
   role: Assistant Professor
+  interests: Human-Computer Interaction
   type: Faculty
-  pic: ../assets/png/profile/dickson_lim.jpg
+  pic: ../assets/png/profile/jordan_deja.jpg
+  website: https://jrdndj.github.io
 - last: Shrestha
   first: Anish MS
   nickname: Anish
@@ -76,15 +51,23 @@
   type: Faculty
   pic: ../assets/png/profile/anish_shrestha.jpg
   website: http://www.a-transposable-element.com/
-- last: Tan
-  first: Daniel Stanley
-  nickname: Stanley
+- last: Aguilar
+  first: Emerico
+  nickname: Miko
   program: Computer Science
   role: Assistant Professor
-  interests: Computer Vision, Deep Learning
+  interests: Social Networks, Control Theory
   type: Faculty
-  pic: ../assets/png/profile/stanley_tan.jpg
-  website: https://scholar.google.co.jp/citations?hl=en&user=YD0btrgAAAAJ
+  pic: ../assets/png/profile/emerico_aguilar.jpg
+- last: Lao
+  first: Angelyn R.
+  nickname: Angie
+  program: Mathematics
+  role: Associate Professor
+  interests: Systems Biology, Chemical Reaction Networks
+  type: Faculty
+  pic: ../assets/png/profile/angelyn_lao.jpg
+  website: https://angelynlao.github.io/
 - last: Leong
   first: Robert
   nickname: Robert
@@ -94,14 +77,31 @@
   type: Faculty
   pic: ../assets/png/profile/robert_leong.jpg
   website: https://scholar.google.co.jp/citations?hl=en&user=sszWRLUAAAAJ
-- last: Aguilar
-  first: Emerico
-  nickname: Miko
+- last: Lim
+  first: Dickson
+  nickname: Dickson
+  program: Economics
+  role: Assistant Professor
+  type: Faculty
+  pic: ../assets/png/profile/dickson_lim.jpg
+- last: Tan
+  first: Daniel Stanley
+  nickname: Stanley
   program: Computer Science
   role: Assistant Professor
-  interests: Social Networks, Control Theory
+  interests: Computer Vision, Deep Learning
   type: Faculty
-  pic: ../assets/png/profile/emerico_aguilar.jpg
+  pic: ../assets/png/profile/stanley_tan.jpg
+  website: https://scholar.google.co.jp/citations?hl=en&user=YD0btrgAAAAJ
+- last: Villagracia
+  first: Al Rey
+  nickname: Al Rey
+  program: Physics
+  role: Full Professor
+  interests: Complex Systems
+  type: Faculty
+  pic: ../assets/png/profile/al_villagracia.jpg
+  website: https://scholar.google.co.jp/citations?hl=en&user=cImC570AAAAJ
 # - last: Gara
 #   first: Glenn Paul
 #   nickname: Glenn
