@@ -328,19 +328,19 @@
   type: Student
   pic: ../assets/png/profile/tyrone_justin_sta_maria.jpg
 - last: Sy
-  first: Jared Blaise
-  nickname: Jared
-  program: BS CS - Software Technology
-  role: Undergraduate Member
-  type: Student
-  pic: ../assets/png/profile/jared_sy.jpg
-- last: Sy
   first: Jacob Adrienne
   nickname: Jacob
   program: BS CS - Software Technology
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/jacob_sy.jpg
+- last: Sy
+  first: Jared Blaise
+  nickname: Jared
+  program: BS CS - Software Technology
+  role: Undergraduate Member
+  type: Student
+  pic: ../assets/png/profile/jared_sy.jpg
 - last: Sy
   first: Winzentt Jordayne
   nickname: Winzentt
@@ -384,19 +384,19 @@
   type: Student
   pic: ../assets/png/profile/josh_aaron_khyle_uson.jpg
 - last: Uy
-  first: Lorene
-  nickname: Lorene
-  program: BS CS - Software Technology
-  role: Undergraduate Member
-  type: Student
-  pic: ../assets/png/profile/lorene_uy.jpg
-- last: Uy
   first: Justin Riley
   nickname: Riley
   program: BS CS - Software Technology
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/justin_riley_uy.jpg
+- last: Uy
+  first: Lorene
+  nickname: Lorene
+  program: BS CS - Software Technology
+  role: Undergraduate Member
+  type: Student
+  pic: ../assets/png/profile/lorene_uy.jpg
 - last: Vicente
   first: Francheska Josefa
   nickname: Cheska
