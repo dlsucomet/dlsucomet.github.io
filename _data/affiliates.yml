@@ -1,0 +1,18 @@
+- last: Leong
+  first: Robert
+  nickname: Robert
+  program: Statistics
+  role: Assistant Professor
+  interests: Complex Systems, Spatial Analysis
+  type: Faculty
+  pic: ../assets/png/profile/robert_leong.jpg
+  website: https://scholar.google.co.jp/citations?hl=en&user=sszWRLUAAAAJ
+- last: Tan
+  first: Daniel Stanley
+  nickname: Stanley
+  program: Computer Science
+  role: Assistant Professor
+  interests: Computer Vision, Deep Learning
+  type: Faculty
+  pic: ../assets/png/profile/stanley_tan.jpg
+  website: https://scholar.google.co.jp/citations?hl=en&user=YD0btrgAAAAJ

@@ -1,0 +1,86 @@
+- last: Samson
+  first: Briane Paul V.
+  nickname: Briane
+  program: Computer Science
+  role: Assistant Professor
+  interests: Complex Systems, Human-Computer Interaction, Social Computing
+  type: Faculty
+  pic: ../assets/png/profile/briane_samson.jpg
+  website: https://brianesamson.com
+- last: Chua
+  first: Unisse
+  nickname: Unisse
+  program: Computer Science
+  role: Assistant Professor
+  interests: Data Science, Data Visualization
+  type: Faculty
+  pic: ../assets/png/profile/unisse_chua.jpg
+  website: https://unissechua.github.io/
+- last: Fernandez
+  first: Austin
+  nickname: Austin
+  program: Computer Science
+  role: Assistant Professor
+  interests: Computing Education, Machine Learning, Human-Computer Interaction
+  type: Faculty
+  pic: ../assets/png/profile/austin_fernandez.jpg
+- last: Cabredo
+  first: Rafael	A.
+  nickname: Raffy
+  program: Computer Science
+  role: Associate Professor
+  interests: Music Information Retrieval
+  type: Faculty
+  pic: ../assets/png/profile/rafael_cabredo.jpg
+  website: https://scholar.google.co.jp/citations?hl=en&user=3Fqol3cAAAAJ
+- last: Deja
+  first: Jordan Aiko
+  nickname: Jordan
+  program: Computer Science
+  role: Assistant Professor
+  interests: Human-Computer Interaction
+  type: Faculty
+  pic: ../assets/png/profile/jordan_deja.jpg
+  website: https://jrdndj.github.io
+# - last: Shrestha
+#   first: Anish MS
+#   nickname: Anish
+#   program: Computer Science
+#   role: Associate Professor
+#   interests: Bioinformatics
+#   type: Faculty
+#   pic: ../assets/png/profile/anish_shrestha.jpg
+#   website: http://www.a-transposable-element.com/
+- last: Aguilar
+  first: Emerico
+  nickname: Miko
+  program: Computer Science
+  role: Assistant Professor
+  interests: Social Networks, Control Theory
+  type: Faculty
+  pic: ../assets/png/profile/emerico_aguilar.jpg
+- last: Lao
+  first: Angelyn R.
+  nickname: Angie
+  program: Mathematics
+  role: Associate Professor
+  interests: Systems Biology, Chemical Reaction Networks
+  type: Faculty
+  pic: ../assets/png/profile/angelyn_lao.jpg
+  website: https://angelynlao.github.io/
+# - last: Lim
+#   first: Dickson
+#   nickname: Dickson
+#   program: Economics
+#   role: Assistant Professor
+#   type: Faculty
+#   pic: ../assets/png/profile/dickson_lim.jpg
+# - last: Villagracia
+#   first: Al Rey
+#   nickname: Al Rey
+#   program: Physics
+#   role: Full Professor
+#   interests: Complex Systems
+#   type: Faculty
+#   pic: ../assets/png/profile/al_villagracia.jpg
+#   website: https://scholar.google.co.jp/citations?hl=en&user=cImC570AAAAJ

@@ -4,8 +4,81 @@ permalink: /people/
 title: People
 ---
 
+<h3 class="section-header">Faculty</h3>
 <div class="people-wrapper">
-    {% for person in site.data.people %}
+    {% for person in site.data.faculty %}
+        <span style="display:none">{% increment people_count %}</span>
+        <div class="person">
+            <img class="person-pic" src="{{ person.pic }}" alt="Photo of {{ person.nickname }}">
+            {% if person.website %}
+            <a href="{{ person.website }}" target="_blank">
+            {% endif %}
+                <div class="person-details {{ person.type }}" id="{{ people_count }}" onmouseover="show({{ people_count }});" onmouseout="hide({{ people_count }});">
+                    <p class="nickname is-visible">{{ person.nickname }}</p>
+                    <div class="details">
+                        <p class="details-fullname">{{ person.first }}&nbsp;{{ person.last }}</p>
+                        {% if person.type == "Faculty" %}<p>{{ person.role }}</p>{% endif %}
+                        <p>{{ person.program }}</p>
+                    </div>
+                </div>
+            {% if person.website %}
+            </a>
+            {% endif %}
+        </div>
+    {% endfor %}
+</div>
+
+<h3 class="section-header">Affiliates</h3>
+<div class="people-wrapper">
+    {% for person in site.data.affiliates %}
+        <span style="display:none">{% increment people_count %}</span>
+        <div class="person">
+            <img class="person-pic" src="{{ person.pic }}" alt="Photo of {{ person.nickname }}">
+            {% if person.website %}
+            <a href="{{ person.website }}" target="_blank">
+            {% endif %}
+                <div class="person-details {{ person.type }}" id="{{ people_count }}" onmouseover="show({{ people_count }});" onmouseout="hide({{ people_count }});">
+                    <p class="nickname is-visible">{{ person.nickname }}</p>
+                    <div class="details">
+                        <p class="details-fullname">{{ person.first }}&nbsp;{{ person.last }}</p>
+                        {% if person.type == "Faculty" %}<p>{{ person.role }}</p>{% endif %}
+                        <p>{{ person.program }}</p>
+                    </div>
+                </div>
+            {% if person.website %}
+            </a>
+            {% endif %}
+        </div>
+    {% endfor %}
+</div>
+
+<h3 class="section-header">Graduate Students</h3>
+<div class="people-wrapper">
+    {% for person in site.data.graduates %}
+        <span style="display:none">{% increment people_count %}</span>
+        <div class="person">
+            <img class="person-pic" src="{{ person.pic }}" alt="Photo of {{ person.nickname }}">
+            {% if person.website %}
+            <a href="{{ person.website }}" target="_blank">
+            {% endif %}
+                <div class="person-details {{ person.type }}" id="{{ people_count }}" onmouseover="show({{ people_count }});" onmouseout="hide({{ people_count }});">
+                    <p class="nickname is-visible">{{ person.nickname }}</p>
+                    <div class="details">
+                        <p class="details-fullname">{{ person.first }}&nbsp;{{ person.last }}</p>
+                        {% if person.type == "Faculty" %}<p>{{ person.role }}</p>{% endif %}
+                        <p>{{ person.program }}</p>
+                    </div>
+                </div>
+            {% if person.website %}
+            </a>
+            {% endif %}
+        </div>
+    {% endfor %}
+</div>
+
+<h3 class="section-header">Undergraduate Students</h3>
+<div class="people-wrapper">
+    {% for person in site.data.undergraduates %}
         <span style="display:none">{% increment people_count %}</span>
         <div class="person">
             <img class="person-pic" src="{{ person.pic }}" alt="Photo of {{ person.nickname }}">

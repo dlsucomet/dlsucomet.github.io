@@ -1,179 +1,3 @@
-- last: Samson
-  first: Briane Paul V.
-  nickname: Briane
-  program: Computer Science
-  role: Assistant Professor
-  interests: Complex Systems, Human-Computer Interaction, Social Computing
-  type: Faculty
-  pic: ../assets/png/profile/briane_samson.jpg
-  website: https://brianesamson.com
-- last: Chua
-  first: Unisse
-  nickname: Unisse
-  program: Computer Science
-  role: Assistant Professor
-  interests: Data Science, Data Visualization
-  type: Faculty
-  pic: ../assets/png/profile/unisse_chua.jpg
-  website: https://unissechua.github.io/
-- last: Fernandez
-  first: Austin
-  nickname: Austin
-  program: Computer Science
-  role: Assistant Professor
-  interests: Computing Education, Machine Learning, Human-Computer Interaction
-  type: Faculty
-  pic: ../assets/png/profile/austin_fernandez.jpg
-- last: Cabredo
-  first: Rafael	A.
-  nickname: Raffy
-  program: Computer Science
-  role: Associate Professor
-  interests: Music Information Retrieval
-  type: Faculty
-  pic: ../assets/png/profile/rafael_cabredo.jpg
-  website: https://scholar.google.co.jp/citations?hl=en&user=3Fqol3cAAAAJ
-- last: Deja
-  first: Jordan Aiko
-  nickname: Jordan
-  program: Computer Science
-  role: Assistant Professor
-  interests: Human-Computer Interaction
-  type: Faculty
-  pic: ../assets/png/profile/jordan_deja.jpg
-  website: https://jrdndj.github.io
-# - last: Shrestha
-#   first: Anish MS
-#   nickname: Anish
-#   program: Computer Science
-#   role: Associate Professor
-#   interests: Bioinformatics
-#   type: Faculty
-#   pic: ../assets/png/profile/anish_shrestha.jpg
-#   website: http://www.a-transposable-element.com/
-- last: Aguilar
-  first: Emerico
-  nickname: Miko
-  program: Computer Science
-  role: Assistant Professor
-  interests: Social Networks, Control Theory
-  type: Faculty
-  pic: ../assets/png/profile/emerico_aguilar.jpg
-- last: Lao
-  first: Angelyn R.
-  nickname: Angie
-  program: Mathematics
-  role: Associate Professor
-  interests: Systems Biology, Chemical Reaction Networks
-  type: Faculty
-  pic: ../assets/png/profile/angelyn_lao.jpg
-  website: https://angelynlao.github.io/
-- last: Leong
-  first: Robert
-  nickname: Robert
-  program: Statistics
-  role: Assistant Professor
-  interests: Complex Systems, Spatial Analysis
-  type: Faculty
-  pic: ../assets/png/profile/robert_leong.jpg
-  website: https://scholar.google.co.jp/citations?hl=en&user=sszWRLUAAAAJ
-# - last: Lim
-#   first: Dickson
-#   nickname: Dickson
-#   program: Economics
-#   role: Assistant Professor
-#   type: Faculty
-#   pic: ../assets/png/profile/dickson_lim.jpg
-- last: Tan
-  first: Daniel Stanley
-  nickname: Stanley
-  program: Computer Science
-  role: Assistant Professor
-  interests: Computer Vision, Deep Learning
-  type: Faculty
-  pic: ../assets/png/profile/stanley_tan.jpg
-  website: https://scholar.google.co.jp/citations?hl=en&user=YD0btrgAAAAJ
-# - last: Villagracia
-#   first: Al Rey
-#   nickname: Al Rey
-#   program: Physics
-#   role: Full Professor
-#   interests: Complex Systems
-#   type: Faculty
-#   pic: ../assets/png/profile/al_villagracia.jpg
-#   website: https://scholar.google.co.jp/citations?hl=en&user=cImC570AAAAJ
-# - last: Gara
-#   first: Glenn Paul
-#   nickname: Glenn
-#   program: PhD Computer Science
-#   role: PhD Student Member
-#   type: Student
-#   pic: ../assets/png/profile/glenn_gara.jpg
-
-# - last: Cortejo
-#   first: Mark Jethro
-#   nickname: Mark
-#   program: MSc Computer Science
-#   role: Masters Student Member
-#   type: Student
-#   pic: ../assets/png/profile/mark_jethro_cortejo.jpg
-
-# - last: Ricardo
-#   first: Justin Gerard
-#   nickname: Justin
-#   program: MSc Computer Science
-#   role: Masters Student Member
-#   type: Student
-#   pic: ../assets/png/profile/justin_ricardo.jpg
-# - last: Mirafuentes
-#   first: Troy
-#   nickname: Troy
-#   program: MSc Computer Science
-#   role: Masters Student Member
-#   type: Student
-#   pic: ../assets/png/profile/troy_mirafuentes.jpg
-# - last: Dela Torre
-#   first: Alexczar
-#   nickname: Alex
-#   program: MSc Computer Science
-#   role: Master Student Member
-#   type: Student
-#   pic: ../assets/png/profile/alexczar_delatorre.png
-# - last: Lachica
-#   first: Daniel
-#   nickname: Daniel
-#   program: MSc Computer Science
-#   role: Master Student Member
-#   type: Student
-#   pic: ../assets/png/profile/daniel_lachica.jpg
-# - last: Ya-on
-#   first: Czeritonnie
-#   nickname: Tonnie
-#   program: MSc Computer Science
-#   role: Master Student Member
-#   type: Student
-#   pic: ../assets/png/profile/tonnie_ya-on.jpg
-# - last: Lucido
-#   first: Abel
-#   nickname: Abel
-#   program: MSc Mathematics
-#   role: Research Assistant
-#   type: Student
-#   pic: ../assets/png/profile/abel_lucido.png
-# - last: Choy
-#   first: Matthew Seaver
-#   nickname: Seaver
-#   program: MSc Computer Science
-#   role: Masters Student Member
-#   type: Student
-#   pic: ../assets/png/profile/seaver_choy.jpg
-#- last: Agno II
-#  first: Alexander
-#  nickname: Alex
-#  program: BS CS - Software Technology
- # role: Undergraduate Member
-#  type: Student
-#  pic: ../assets/png/profile/alex_agno.jpg
 - last: Aboy
   first: Louis Allen
   nickname: Allen
@@ -202,13 +26,13 @@
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/bea_berenguer.jpg
-# - last: Berjamin
-#   first: Sandra Angela
-#   nickname: Sandra
-#   program: BS CS - Software Technology
-#   role: Undergraduate Member
-#   type: Student
-#   pic: ../assets/png/profile/sandra_angela_berjamin.jpg
+- last: Berjamin
+  first: Sandra Angela
+  nickname: Sandra
+  program: BS CS - Software Technology
+  role: Undergraduate Member
+  type: Student
+  pic: ../assets/png/profile/sandra_angela_berjamin.jpg
 - last: Briñes
   first: Aaron Joshua
   nickname: Aaron
@@ -251,13 +75,13 @@
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/nicholas_scott_campos.jpg
-# - last: Chan
-#   first: Jericho
-#   nickname: Jericho
-#   program: BS CS - Software Technology
-#   role: Undergraduate Member
-#   type: Student
-#   pic: ../assets/png/profile/jericho_chan.jpg
+- last: Chan
+  first: Jericho
+  nickname: Jericho
+  program: BS CS - Software Technology
+  role: Undergraduate Member
+  type: Student
+  pic: ../assets/png/profile/jericho_chan.jpg
 - last: Chua
   first: John Vincent
   nickname: Janjan
@@ -307,13 +131,13 @@
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/gavin_dizon.jpg
-# - last: Eguaras
-#   first: Sophia Louisse
-#   nickname: Sophia
-#   program: BS CS - Software Technology
-#   role: Undergraduate Member
-#   type: Student
-#   pic: ../assets/png/profile/sophia_eguaras.jpg
+- last: Eguaras
+  first: Sophia Louisse
+  nickname: Sophia
+  program: BS CS - Software Technology
+  role: Undergraduate Member
+  type: Student
+  pic: ../assets/png/profile/sophia_eguaras.jpg
 - last: Esquivel
   first: Vince Anthony
   nickname: Vince
@@ -398,20 +222,20 @@
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/jose_paolo_lojo.jpg
-# - last: Marcelo
-#   first: Andrea Jean
-#   nickname: AJ
-#   program: BS CS - Software Technology
-#   role: Undergraduate Member
-#   type: Student
-#   pic: ../assets/png/profile/andrea_jean_marcelo.jpg
-# - last: Mata
-#   first: Angeli Dianne
-#   nickname: Angeli
-#   program: BS CS - Software Technology
-#   role: Undergraduate Member
-#   type: Student
-#   pic: ../assets/png/profile/angeli_dianne_mata.jpg
+- last: Marcelo
+  first: Andrea Jean
+  nickname: AJ
+  program: BS CS - Software Technology
+  role: Undergraduate Member
+  type: Student
+  pic: ../assets/png/profile/andrea_jean_marcelo.jpg
+- last: Mata
+  first: Angeli Dianne
+  nickname: Angeli
+  program: BS CS - Software Technology
+  role: Undergraduate Member
+  type: Student
+  pic: ../assets/png/profile/angeli_dianne_mata.jpg
 - last: Moneda
   first: Heinze Kristian
   nickname: Heinze
@@ -419,20 +243,20 @@
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/heinze_kristian_moneda.jpg
-# - last: Montecillo
-#   first: Paolo
-#   nickname: Paolo
-#   program: BS CS - Software Technology
-#   role: Undergraduate Member
-#   type: Student
-#   pic: ../assets/png/profile/paolo_montecillo.jpg
-# - last: Ocampo
-#   first: Andrea Nicole
-#   nickname: Nicole
-#   program: BS CS - Software Technology
-#   role: Undergraduate Member
-#   type: Student
-#   pic: ../assets/png/profile/paolo_montecillo.jpg
+- last: Montecillo
+  first: Paolo
+  nickname: Paolo
+  program: BS CS - Software Technology
+  role: Undergraduate Member
+  type: Student
+  pic: ../assets/png/profile/paolo_montecillo.jpg
+- last: Ocampo
+  first: Andrea Nicole
+  nickname: Nicole
+  program: BS CS - Software Technology
+  role: Undergraduate Member
+  type: Student
+  pic: ../assets/png/profile/andrea_nicole_ocampo.jpg
 - last: Olalia
   first: Pamela Kirsten
   nickname: Pamela
@@ -468,13 +292,13 @@
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/christopher_pinpin.jpg
-# - last: Pioquinto
-#   first: Cherrie Luz
-#   nickname: Cherrie
-#   program: BS CS - Software Technology
-#   role: Undergraduate Member
-#   type: Student
-#   pic: ../assets/png/profile/cherrie_luz_pioquinto.jpg
+- last: Pioquinto
+  first: Cherrie Luz
+  nickname: Cherrie
+  program: BS CS - Software Technology
+  role: Undergraduate Member
+  type: Student
+  pic: ../assets/png/profile/cherrie_luz_pioquinto.jpg
 - last: Pua
   first: Gabriel Joseph
   nickname: Gabriel
@@ -538,13 +362,13 @@
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/kenneth_tan.jpg
-# - last: Tansingco
-#   first: Miguel
-#   nickname: Miko
-#   program: BS CS - Software Technology
-#   role: Undergraduate Member
-#   type: Student
-#   pic: ../assets/png/profile/miko_tansingco.jpg
+- last: Tansingco
+  first: Miguel
+  nickname: Miko
+  program: BS CS - Software Technology
+  role: Undergraduate Member
+  type: Student
+  pic: ../assets/png/profile/miko_tansingco.jpg
 - last: Topacio
   first: Geoff Aaron
   nickname: Geoff
@@ -573,18 +397,18 @@
   role: Undergraduate Member
   type: Student
   pic: ../assets/png/profile/justin_riley_uy.jpg
-# - last: Vicente
-#   first: Francheska Josefa
-#   nickname: Cheska
-#   program: BS CS - Software Technology
-#   role: Undergraduate Member
-#   type: Student
-#   pic: ../assets/png/profile/francheska_vicente.jpg
-# - last: Vista
-#   first: Sophia Danielle
-#   nickname: Sophia
-#   program: BS CS - Software Technology
-#   role: Undergraduate Member
-#   type: Student
-#   pic: ../assets/png/profile/sophia_vista.jpg
+- last: Vicente
+  first: Francheska Josefa
+  nickname: Cheska
+  program: BS CS - Software Technology
+  role: Undergraduate Member
+  type: Student
+  pic: ../assets/png/profile/francheska_vicente.jpg
+- last: Vista
+  first: Sophia Danielle
+  nickname: Sophia
+  program: BS CS - Software Technology
+  role: Undergraduate Member
+  type: Student
+  pic: ../assets/png/profile/sophia_vista.jpg
 
