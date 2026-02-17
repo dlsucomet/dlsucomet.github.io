@@ -4,46 +4,72 @@ title: About
 permalink: /about/
 ---
 
-The Center for Complexity and Emerging Technologies (COMET) is an interdisciplinary research laboratory under the Advanced Research Institute for Informatics, Computing, and Networking (AdRIC) at De La Salle University. Our mission is to enhance our understanding of <span class="about-highlight">emergent phenomena in real-life systems (i.e. cities, mobility), sociotechnical systems (i.e. social networking sites, Wikipedia), and human-computer interactions</span> through the development of <span class="about-highlight">computational models</span> which are then used in the design of <span class="about-highlight">interactive tools, information systems, and interaction techniques</span>. We study the underlying dynamics and factors affecting behavior as humans interact with physical and digital information, services, and systems. 
+The Human-X Interactions Lab is an interdisciplinary research lab within the Advanced Research Institute for Informatics, Computing, and Networking at De La Salle University. We investigate how <span class="about-highlight">humans learn, integrate, and interact with emerging technologies beyond traditional digital devices—robots, drones, smart spaces, and AI, among others</span>. Grounded on human-computer interaction research methods and design paradigms, <span class="about-highlight">we create new ubiquitous and interactive computing technologies, as well as interaction techniques that foster effective and delightful interactions</span> between humans, computers, and emerging technologies.
 
-## Research and Impact Areas
+From 2015-2024, we were known as the Center for Complexity and Emerging Technologies or COMET. In our 10th year as a research group in the College of Computer Studies, we redefined our research programs to center around human-computer interaction, broadly defined.
 
-Our research lies at the intersection of Complex Systems, Human-Computer Interaction (HCI), Computer-Supported Cooperative Work (CSCW), Machine Learning, and Computing and Information Science. Despite the diversity in disciplines, we all strive to collaboratively work on research projects for the following themes.
+## Rationale
 
-### Cities, Crowds & Mobility
+With the growing integration of computing technologies into physical devices and objects, we see the convergence of our physical and digital spheres, enhancing every aspect of our daily lives. This leads to the expansion of human interactions with computers and systems to various device form factors and interaction metaphors, which goes beyond traditional human-computer and computer-mediated interactions. 
 
-> “I think the next century will be the century of complexity.” 
-> _- Stephen Hawking_
+## Goals
+In HXIL, we aim to be the Philippines' premier human-computer interaction research institution. Setting our sights toward globally recognized contributions, we aim to expand our knowledge beyond human-computer interaction to investigate and design for
+- Human-Computer 
+- Human-Human (computer-mediated)
+- Human-Robot
+- Human-Drone
+- Human-Building (e.g. smart homes, smart offices)
+- Human-Machine (e.g. automated vehicles)
+- Human-AI (e.g. LLMs, agentic AI)
 
-- How might we increase our understanding of the complex human-system interactions within cities and their externalities?
-- How might we enable government and civilian stakeholders to effectively plan urban environments and shape mobility patterns?
-- How do sociotechnical systems affect and shape the fabrics of our societies?
+…interaction.
 
-### Social Networks & Collective Intelligence
-- How do social media platforms shape our collective intelligence about topical and crisis events?
-- How can we support authorities and crowdworkers leverage social media platforms to correct rumors and misinformation?
-- How might we enable ordinary people make informed opinions from their news feeds? 
+## Research Programs
 
-### Science of Science
-- How might we grow collaboration networks in developing countries with limited access to funding and resources?
-- How can we support the formation of new collaborations?
+We take pride in having the largest concentration of HCI experts in the Philippines. As such, our lab explores on various research programs catering to Human-X Interactions
 
-### Civic Computing and Community Informatics
-
-> “If interactive systems are knowingly designed to change human attitudes and behaviors, we would also need a philosophy of technology that provides us the means for revealing, analyzing, and discussing the human, social, cultural, ethical, and political implications of these changes—that helps us understand ‘the new good’.” 
-> _- Daniel Fallman_
-
-- How might we leverage mobile and web technologies to promote stronger civic participation?
-- How can support the flow of information and services from the providers to their target beneficiaries?
-
-### Intelligent & Reflective Spaces
+### Augmented Humans and Human-AI Interaction
 
 > "We must design for the way people behave, not for how we would wish them to behave."
 > _- Donald Norman_
 
-- How might we assist, improve and sustain human creative experiences?
-- How might we develop new sensing technologies to improve our personal and digital wellbeing?
-- How can we support reflection in collaborative spaces to improve productivity?
+The Augmented Humans research program explores the design and development of innovative interaction techniques and interactive systems to enhance and extend human capabilities, specifically one’s physical, cognitive, and sensory performance. This interdisciplinary initiative integrates advances in wearable computing, AI, and robotics to push the boundaries of what humans can achieve. The program aims to develop ethical, human-centric solutions that empower individuals in diverse environments — from healthcare and rehabilitation to extreme workspaces and everyday life. Through research, prototyping, and collaboration across disciplines, the Augmented Humans Program is shaping the future of human augmentation for improved well-being, productivity, and experience.
+
+- How might we augment human capacities through innovative interaction techniques and interactive systems?
+- How might we leverage modern AI models in performing high-level tasks and processes, and in generating creative outputs?
+
+### Usable Security and Privacy
+
+- How might we design intuitive security and privacy mechanisms in data-sensitive contexts?
+
+### Human-Centered Mobility, Health and Well-being
+
+- How might we design systems that promote and support efficient, delightful, and dignified mobility?
+- How might we promote and support healthier lifestyles through context-aware and user-centered design?
+
+### Reimagining the Digital Sphere
+
+- How might we empower ordinary digital citizens to moderate individually and in communities outside of the platforms?
+
+### Flow
+
+The Flow project investigates productivity, mental workload, creativity, interruptions and how humans recover from these interruptions. Living in the digital age where technology is ubiquituous it is important that humans are in a consistent flow state and acquire the support they need in managing, working and thriving in these digital environments. The Flow project investigates parameters of humans in individual vs collaborative settings, or in environment-based vs focused-tool approaches or in understanding whether humans need supporting focus or recovery in various settings. 
+- Does the research focus on an individual task or a group task?
+- Does the problem involving manipulating the work environment or supporting work directly?
+- Does the research focus on assisting users in maintaining a flow state or does it help them regain their context after an interruption? 
+
+### S.P.A.C.E.
+
+> “Medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance and love, these are what we stay alive for..” 
+> _- John Keating, Dead Poets Society_
+
+Abbreviated from Spatial, Pervasive, Augmented, and Creative Experiences, the SPACE Agenda explores the design, development, and evaluation of novel interfaces that enable users to understand themselves better and how they work especially in ubiquitous settings. This research program utilizes eXtended Reality (XR), robotics, drones, and many other similar technologies. 
+
+The SPACE Agenda seeks to explore the following research questions: 
+- How do people live, learn, work and interact in spatial environments? 
+- How do we balance and boost productivity when people work in such spaces?
+- How do we support creative experiences that usually thrive in social spaces through (digital, robotic) augmentation? 
+
 
 ## Background
 
@@ -53,6 +79,8 @@ In 2015, Briane Paul V. Samson assumed leadership of the laboratory and crafted 
 
 In 2017, Jordan Deja started leading the laboratory and reinvigorated our HCI research efforts, while 4 of our faculty researchers pursued PhD degrees in Japan, Taiwan and Australia. With his guidance, the DLSU chapter of the User Experience Society was founded by our student members Giselle Nodalo and Richard Parayno.
 
-Since 2018, Dickson Lim, Anish MS Shrestha and Unisse Chua have joined COMET to work on projects in economics, bioinformatics and data visualization. In late 2019, we welcomed Unisse Chua as the new Center Head and Austin Fernandez as our newest faculty researcher on computing education, machine learning and HCI. Jordan Deja pursued his HCI PhD in Austria.
+Since 2018, Dickson Lim, Anish MS Shrestha and Unisse Chua have joined COMET to work on projects in economics, bioinformatics and data visualization. In late 2020, we welcomed Unisse Chua as the new Center Head and Austin Fernandez as our newest faculty researcher on computing education, machine learning and HCI. Jordan Deja pursued his HCI PhD in Slovenia.
+
+In 2020, Briane after completing this PhD returned to lead the lab again and continued the momentum of the research culture of the lab. The lab has then produced several alumni who are making strides in industry and academia. In 2024 Jordan returned and completed his PhD in 2025. With the growing integration of computing technologies to physical devices and objects, we see the convergence of our physical and digital spheres, enhancing every aspect of our daily lives. This leads to the expansion of human interactions with computers and systems to various device form factors and interaction metaphors, which goes beyond traditional human-computer and computer-mediated interactions. In its 10th anniversary, the lab rebranded to fit its more emergent theme and thus we called ourselves the Human-X Interactions Lab, written briefly as HXIL and calling ourselves and our members as Human-X. 
 
 <!-- ## Life @ COMET -->
