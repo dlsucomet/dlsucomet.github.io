@@ -13,21 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Center for Complexity & Emerging Technologies
-author: Center for Complexity & Emerging Technologies
+title: Human-X Interactions Laboratory
+author: DLSU HXIL 
 email: comet AT dlsu.edu.ph
 description: >- # this means to ignore newlines until "baseurl:"
-  DLSU's Center for Complexity and Emerging Technologies pioneers computing research in Complex Systems, Human-Computer Interaction and Machine Learning and leverages them to improve the way we move, work, create and participate in society.
-tagline: Pioneering and leveraging computing research in Complex Systems, Human-Computer Interaction and Applied Data Science to improve the way we move, work, create and participate in society.
+  The Human-X Interactions Lab is an interdisciplinary research lab within the Advanced Research Institute for Informatics, Computing, and Networking at De La Salle University. We investigate how humans learn, integrate, and interact with emerging technologies beyond traditional digital devices—robots, drones, smart spaces, and AI, among others. 
+tagline: Pioneering and leveraging computing research in Human-Computer Interaction to improve the way we move, work, create and participate in society.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://comet.dlsu.edu.ph" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dlsu-hxil.org" # changed from "http://comet.dlsu.edu.ph" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
 
 # Social settings
 social_sites:
   twitter: dlsu_comet
   github:  dlsucomet
-  facebook: dlsucomet
+  facebook: dlsuhxil
 
 # Build settings
 markdown: kramdown
