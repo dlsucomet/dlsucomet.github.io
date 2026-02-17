@@ -4,7 +4,7 @@ layout: main
 
 <div class="abstract">
     <p class="abstract-overview">
-        The Center for Complexity and Emerging Technologies (COMET) is an interdisciplinary research laboratory under the Advanced Research Institute for Informatics, Computing, and Networking (AdRIC) at <a href="https://www.dlsu.edu.ph" target="_blank">De La Salle University</a>. Our mission is to enhance our understanding of <span class="about-highlight">emergent phenomena in real-life systems (i.e. cities, mobility), sociotechnical systems (i.e. social networking sites, Wikipedia), and human-computer interactions</span>. We develop computational models which are then used in the design of interactive tools, information systems, and interaction techniques.
+        The Human-X Interactions Lab is an interdisciplinary research lab within the Advanced Research Institute for Informatics, Computing, and Networking at De La Salle University. We investigate how <span class="about-highlight">humans learn, integrate, and interact with emerging technologies beyond traditional digital devices—robots, drones, smart spaces, and AI, among others</span>. Grounded on human-computer interaction research methods and design paradigms, <span class="about-highlight">we create new ubiquitous and interactive computing technologies, as well as interaction techniques that foster effective and delightful interactions</span> between humans, computers, and emerging technologies.
     </p>
     <div class="recent-pubs-header">
         <h4>Recent Publications</h4>
