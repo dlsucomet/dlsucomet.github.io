@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Human-X Interactions Laboratory
 author: DLSU HXIL 
-email: comet AT dlsu.edu.ph
+email: hxil AT dlsu.edu.ph
 description: >- # this means to ignore newlines until "baseurl:"
   The Human-X Interactions Lab is an interdisciplinary research lab within the Advanced Research Institute for Informatics, Computing, and Networking at De La Salle University. We investigate how humans learn, integrate, and interact with emerging technologies beyond traditional digital devices—robots, drones, smart spaces, and AI, among others. 
 tagline: Pioneering and leveraging computing research in Human-Computer Interaction to improve the way we move, work, create and participate in society.
@@ -42,7 +42,7 @@ kramdown:
 
 # Disqus
 disqus:
-  shortname: comet-dlsu-edu-ph
+  shortname: dlsu-hxil-org
 
 # Google Analytics
 google_analytics: UA-134064054-1
