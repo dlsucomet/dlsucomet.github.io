@@ -1,3 +1,29 @@
+- conf: "IEEE RO-MAN 2026"
+  year: 2026
+  papers:
+    - id: first-contact
+- conf: "CHI 2026"
+  year: 2026
+  papers:
+    - id: beyond-faders
+    - id: feelings-not-feel
+    - id: uncertainty-visualizations
+- conf: "Virtual Reality"
+  year: 2025
+  papers:
+    - id: improvisar
+- conf: "ACM UIST 2025"
+  year: 2025
+  papers:
+    - id: set-stage
+- conf: "CHI 2023"
+  year: 2023
+  papers:
+    - id: good-day-manager
+- conf: "ISS 2022"
+  year: 2022
+  papers:
+    - id: pianosurvey
 - conf: WHOA 2021
   year: 2021
   papers:

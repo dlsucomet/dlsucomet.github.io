@@ -2,7 +2,7 @@
   first: Briane Paul V.
   nickname: Briane
   program: Computer Science
-  role: Assistant Professor
+  role: Associate Professor
   interests: Complex Systems, Human-Computer Interaction, Social Computing
   type: Faculty
   pic: ../assets/png/profile/briane_samson.jpg
@@ -24,15 +24,15 @@
   type: Faculty
   pic: ../assets/png/profile/jordan_deja.jpg
   website: https://jrdndj.notion.site
-- last: Chua
-  first: Unisse
-  nickname: Unisse
-  program: Computer Science
-  role: Assistant Professor
-  interests: Data Science, Data Visualization
-  type: Faculty
-  pic: ../assets/png/profile/unisse_chua.jpg
-  website: https://unissechua.github.io/
+#- last: Chua
+#  first: Unisse
+#  nickname: Unisse
+#  program: Computer Science
+#  role: Assistant Professor
+#  interests: Data Science, Data Visualization
+#  type: Faculty
+#  pic: ../assets/png/profile/unisse_chua.jpg
+#  website: https://unissechua.github.io/
 #- last: Cabredo
 # first: Rafael	A.
 # nickname: Raffy
@@ -59,15 +59,15 @@
 #  interests: Social Networks, Control Theory
 #  type: Faculty
 #  pic: ../assets/png/profile/emerico_aguilar.jpg
-- last: Lao
-  first: Angelyn R.
-  nickname: Angie
-  program: Mathematics
-  role: Associate Professor
-  interests: Systems Biology, Chemical Reaction Networks
-  type: Faculty
-  pic: ../assets/png/profile/angelyn_lao.jpg
-  website: https://angelynlao.github.io/
+#- last: Lao
+#  first: Angelyn R.
+#  nickname: Angie
+#  program: Mathematics
+#  role: Associate Professor
+#  interests: Systems Biology, Chemical Reaction Networks
+#  type: Faculty
+#  pic: ../assets/png/profile/angelyn_lao.jpg
+#  website: https://angelynlao.github.io/
 # - last: Lim
 #   first: Dickson
 #   nickname: Dickson
