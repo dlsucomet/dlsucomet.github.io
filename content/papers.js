@@ -1,5 +1,649 @@
 var papers = [
     {
+        "title": "Comparative analysis of VGG-16, ResNet50, and EfficientNet-B1 with optimization techniques for crop disease detection",
+        "year": "2026",
+        "authors": [
+            {
+                "type": "coauth",
+                "name": "Zakir, Danish Syazani Mohd"
+            },
+            {
+                "type": "coauth",
+                "name": "Shaffiei, Zatul Alwani"
+            },
+            {
+                "type": "coauth",
+                "name": "Ghazali, Masitah"
+            },
+            {
+                "type": "me",
+                "name": "Samson, Briane Paul V"
+            }
+        ],
+        "doi": "",
+        "conference": "Journal of Advanced Research Design",
+        "proceedings": "Journal of Advanced Research Design",
+        "volume": "143",
+        "keywords": "",
+        "pages": "55-64",
+        "publisher": "",
+        "abstract": "",
+        "figures": [],
+        "pdf": "",
+        "award": [],
+        "isAbstract": "",
+        "url": "",
+        "citation": "Danish Syazani Mohd Zakir, Zatul Alwani Shaffiei, Masitah Ghazali & Briane Paul V Samson (2026). Comparative analysis of VGG-16, ResNet50, and EfficientNet-B1 with optimization techniques for crop disease detection. Journal of Advanced Research Design, 143(1), 55–64."
+    },
+    {
+        "title": "OSM Science 2025: Diversifying the Study of OpenStreetMap",
+        "year": "2026",
+        "authors": [
+            {
+                "type": "coauth",
+                "name": "Grinberger, A Yair"
+            },
+            {
+                "type": "coauth",
+                "name": "Zanchetta, Anna"
+            },
+            {
+                "type": "coauth",
+                "name": "Martinez, Simeona"
+            },
+            {
+                "type": "me",
+                "name": "Samson, Briane Paul V"
+            },
+            {
+                "type": "coauth",
+                "name": "Minghini, Marco"
+            },
+            {
+                "type": "coauth",
+                "name": "Mooney, Peter"
+            },
+            {
+                "type": "coauth",
+                "name": "et al."
+            }
+        ],
+        "doi": "",
+        "conference": "Proceedings of OSM Science 2025",
+        "proceedings": "Proceedings of OSM Science 2025",
+        "volume": "",
+        "keywords": "",
+        "pages": "1",
+        "publisher": "",
+        "abstract": "",
+        "figures": [],
+        "pdf": "",
+        "award": [],
+        "isAbstract": "",
+        "url": "",
+        "citation": "A Yair Grinberger, Anna Zanchetta, Simeona Martinez, Briane Paul V Samson, Marco Minghini, Peter Mooney, et al. (2026). OSM Science 2025: Diversifying the Study of OpenStreetMap. Proceedings of OSM Science 2025, 1."
+    },
+    {
+        "title": "Investigating Effective Uncertainty Visualizations for Ordinal Crowdsourced Data of Crowding Conditions",
+        "year": "2026",
+        "authors": [
+            {
+                "type": "coauth",
+                "name": "Arcega, Bea Alexis"
+            },
+            {
+                "type": "coauth",
+                "name": "Campos, Annika Dominique S"
+            },
+            {
+                "type": "coauth",
+                "name": "Cruz, Kathleen Therese"
+            },
+            {
+                "type": "coauth",
+                "name": "Toledo, Aaron Ace"
+            },
+            {
+                "type": "me",
+                "name": "Samson, Briane Paul V"
+            }
+        ],
+        "doi": "",
+        "conference": "Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems",
+        "proceedings": "Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems",
+        "volume": "",
+        "keywords": "",
+        "pages": "1-6",
+        "publisher": "",
+        "abstract": "",
+        "figures": [],
+        "pdf": "",
+        "award": [],
+        "isAbstract": "",
+        "url": "",
+        "citation": "Bea Alexis Arcega, Annika Dominique S Campos, Kathleen Therese Cruz, Aaron Ace Toledo & Briane Paul V Samson (2026). Investigating Effective Uncertainty Visualizations for Ordinal Crowdsourced Data of Crowding Conditions. Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems, 1–6."
+    },
+    {
+        "title": "Feelings, Not Feel: Affective Audio-Visual Pseudo-Haptics in Hand-Tracked XR",
+        "year": "2026",
+        "authors": [
+            {
+                "type": "coauth",
+                "name": "David, Kristian Paolo"
+            },
+            {
+                "type": "coauth",
+                "name": "Gamboa, Mikkel Dominic"
+            },
+            {
+                "type": "coauth",
+                "name": "Sta. Maria, Tyrone Justin"
+            },
+            {
+                "type": "me",
+                "name": "Deja, Jordan Aiko"
+            }
+        ],
+        "doi": "",
+        "conference": "Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems",
+        "proceedings": "Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems",
+        "volume": "",
+        "keywords": "",
+        "pages": "1-5",
+        "publisher": "",
+        "abstract": "",
+        "figures": [],
+        "pdf": "",
+        "award": [],
+        "isAbstract": "",
+        "url": "",
+        "citation": "Kristian Paolo David, Mikkel Dominic Gamboa, Tyrone Justin Sta. Maria & Jordan Aiko Deja (2026). Feelings, Not Feel: Affective Audio-Visual Pseudo-Haptics in Hand-Tracked XR. Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems, 1–5."
+    },
+    {
+        "title": "Beyond Faders: Understanding 6DoF Gesture Ecologies in Music Mixing",
+        "year": "2026",
+        "authors": [
+            {
+                "type": "coauth",
+                "name": "Co Chen, Jeremy Wertheim"
+            },
+            {
+                "type": "coauth",
+                "name": "Ngo, Rendell Christian"
+            },
+            {
+                "type": "coauth",
+                "name": "Yu, Cedric Matthew"
+            },
+            {
+                "type": "coauth",
+                "name": "Lumagui, Hans Emilio"
+            },
+            {
+                "type": "coauth",
+                "name": "Badayos, Ethan"
+            },
+            {
+                "type": "me",
+                "name": "Deja, Jordan Aiko"
+            }
+        ],
+        "doi": "",
+        "conference": "Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems",
+        "proceedings": "Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems",
+        "volume": "",
+        "keywords": "",
+        "pages": "1-5",
+        "publisher": "",
+        "abstract": "",
+        "figures": [],
+        "pdf": "",
+        "award": [],
+        "isAbstract": "",
+        "url": "",
+        "citation": "Jeremy Wertheim Co Chen, Rendell Christian Ngo, Cedric Matthew Yu, Hans Emilio Lumagui, Ethan Badayos & Jordan Aiko Deja (2026). Beyond Faders: Understanding 6DoF Gesture Ecologies in Music Mixing. Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems, 1–5."
+    },
+    {
+        "title": "First Contact Matters: Exploring Pedestrian Perceptions of a Drone-Based Crossing Companion",
+        "year": "2026",
+        "authors": [
+            {
+                "type": "coauth",
+                "name": "Go, Daphne Janelyn"
+            },
+            {
+                "type": "coauth",
+                "name": "Chua, Harvey Shawn"
+            },
+            {
+                "type": "coauth",
+                "name": "Encinas, Robert Joachim"
+            },
+            {
+                "type": "coauth",
+                "name": "Lasala, Kyle Carlo"
+            },
+            {
+                "type": "coauth",
+                "name": "Lim, Lanz Kendall"
+            },
+            {
+                "type": "coauth",
+                "name": "Manlises, Maria Monica"
+            },
+            {
+                "type": "coauth",
+                "name": "Tan, Tyler Justin"
+            },
+            {
+                "type": "me",
+                "name": "Deja, Jordan Aiko"
+            }
+        ],
+        "doi": "",
+        "conference": "2026 IEEE 35th International Conference on Robot and Human Interactive Communication (RO-MAN)",
+        "proceedings": "2026 IEEE 35th International Conference on Robot and Human Interactive Communication (RO-MAN)",
+        "volume": "",
+        "keywords": "",
+        "pages": "1510-1515",
+        "publisher": "IEEE",
+        "abstract": "",
+        "figures": [],
+        "pdf": "",
+        "award": [],
+        "isAbstract": "",
+        "url": "",
+        "citation": "Daphne Janelyn Go, Harvey Shawn Chua, Robert Joachim Encinas, Kyle Carlo Lasala, Lanz Kendall Lim, Maria Monica Manlises, Tyler Justin Tan & Jordan Aiko Deja (2026). First Contact Matters: Exploring Pedestrian Perceptions of a Drone-Based Crossing Companion. 2026 IEEE 35th International Conference on Robot and Human Interactive Communication (RO-MAN), 1510–1515."
+    },
+    {
+        "title": "Set the Stage: Enabling Storytelling with Multiple Robots through Roleplaying Metaphors",
+        "year": "2025",
+        "authors": [
+            {
+                "type": "coauth",
+                "name": "Sta. Maria, Tyrone Justin"
+            },
+            {
+                "type": "coauth",
+                "name": "Griffin, Faith"
+            },
+            {
+                "type": "me",
+                "name": "Deja, Jordan Aiko"
+            }
+        ],
+        "doi": "",
+        "conference": "Adjunct Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology",
+        "proceedings": "Adjunct Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology",
+        "volume": "",
+        "keywords": "",
+        "pages": "1-3",
+        "publisher": "",
+        "abstract": "",
+        "figures": [],
+        "pdf": "",
+        "award": [],
+        "isAbstract": "",
+        "url": "",
+        "citation": "Tyrone Justin Sta. Maria, Faith Griffin & Jordan Aiko Deja (2025). Set the Stage: Enabling Storytelling with Multiple Robots through Roleplaying Metaphors. Adjunct Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology, 1–3."
+    },
+    {
+        "title": "ImproVisAR: designing augmented reality piano roll for teaching improvisation",
+        "year": "2025",
+        "authors": [
+            {
+                "type": "me",
+                "name": "Deja, Jordan Aiko"
+            },
+            {
+                "type": "coauth",
+                "name": "Štor, Sandi"
+            },
+            {
+                "type": "coauth",
+                "name": "Pucihar, Ilonka"
+            },
+            {
+                "type": "coauth",
+                "name": "Weerasinghe, Maheshya"
+            },
+            {
+                "type": "coauth",
+                "name": "Balbin, Rafael Marco"
+            },
+            {
+                "type": "coauth",
+                "name": "Čopič Pucihar, Klen"
+            },
+            {
+                "type": "coauth",
+                "name": "Kljun, Matjaž"
+            }
+        ],
+        "doi": "",
+        "conference": "Virtual reality",
+        "proceedings": "Virtual reality",
+        "volume": "29",
+        "keywords": "",
+        "pages": "140",
+        "publisher": "Springer",
+        "abstract": "",
+        "figures": [],
+        "pdf": "",
+        "award": [],
+        "isAbstract": "",
+        "url": "",
+        "citation": "Jordan Aiko Deja, Sandi Štor, Ilonka Pucihar, Maheshya Weerasinghe, Rafael Marco Balbin, Klen Čopič Pucihar & Matjaž Kljun (2025). ImproVisAR: designing augmented reality piano roll for teaching improvisation. Virtual reality, 29(3), 140."
+    },
+    {
+        "title": "Exploring design opportunities for improved self-motivation in self-tracking and health goal achievement",
+        "year": "2024",
+        "authors": [
+            {
+                "type": "coauth",
+                "name": "Ong, Elyssia Barrie H"
+            },
+            {
+                "type": "me",
+                "name": "Samson, Briane Paul V"
+            }
+        ],
+        "doi": "",
+        "conference": "Proceedings of the ACM on Human-Computer Interaction",
+        "proceedings": "Proceedings of the ACM on Human-Computer Interaction",
+        "volume": "8",
+        "keywords": "",
+        "pages": "1-17",
+        "publisher": "ACM, New York, NY, USA",
+        "abstract": "",
+        "figures": [],
+        "pdf": "",
+        "award": [],
+        "isAbstract": "",
+        "url": "",
+        "citation": "Elyssia Barrie H Ong & Briane Paul V Samson (2024). Exploring design opportunities for improved self-motivation in self-tracking and health goal achievement. Proceedings of the ACM on Human-Computer Interaction, 8(MHCI), 1–17."
+    },
+    {
+        "title": "What if Automated Vehicles Became AUTONOMOUS? A Critical Perspective",
+        "year": "2023",
+        "authors": [
+            {
+                "type": "coauth",
+                "name": "Colley, Mark"
+            },
+            {
+                "type": "coauth",
+                "name": "Li, Stacey"
+            },
+            {
+                "type": "me",
+                "name": "Samson, Briane Paul V"
+            },
+            {
+                "type": "coauth",
+                "name": "Sogemeier, Denise"
+            }
+        ],
+        "doi": "",
+        "conference": "Adjunct Proceedings of the 15th International Conference on Automotive User Interfaces and Interactive Vehicular Applications",
+        "proceedings": "Adjunct Proceedings of the 15th International Conference on Automotive User Interfaces and Interactive Vehicular Applications",
+        "volume": "",
+        "keywords": "",
+        "pages": "352-355",
+        "publisher": "",
+        "abstract": "",
+        "figures": [],
+        "pdf": "",
+        "award": [],
+        "isAbstract": "",
+        "url": "",
+        "citation": "Mark Colley, Stacey Li, Briane Paul V Samson & Denise Sogemeier (2023). What if Automated Vehicles Became AUTONOMOUS? A Critical Perspective. Adjunct Proceedings of the 15th International Conference on Automotive User Interfaces and Interactive Vehicular Applications, 352–355."
+    },
+    {
+        "title": "Towards automatic construction of filipino wordnet: Word sense induction and synset induction using sentence embeddings",
+        "year": "2023",
+        "authors": [
+            {
+                "type": "coauth",
+                "name": "Velasco, Dan John"
+            },
+            {
+                "type": "coauth",
+                "name": "Alba, Axel"
+            },
+            {
+                "type": "coauth",
+                "name": "Pelagio, Trisha Gail"
+            },
+            {
+                "type": "coauth",
+                "name": "Ramirez, Bryce Anthony"
+            },
+            {
+                "type": "coauth",
+                "name": "Cruz, Jan Christian Blaise"
+            },
+            {
+                "type": "coauth",
+                "name": "Chua, Unisse"
+            },
+            {
+                "type": "me",
+                "name": "Samson, Briane Paul"
+            },
+            {
+                "type": "coauth",
+                "name": "Cheng, Charibeth"
+            }
+        ],
+        "doi": "",
+        "conference": "Proceedings of the First Workshop in South East Asian Language Processing",
+        "proceedings": "Proceedings of the First Workshop in South East Asian Language Processing",
+        "volume": "",
+        "keywords": "",
+        "pages": "1-12",
+        "publisher": "",
+        "abstract": "",
+        "figures": [],
+        "pdf": "",
+        "award": [],
+        "isAbstract": "",
+        "url": "",
+        "citation": "Dan John Velasco, Axel Alba, Trisha Gail Pelagio, Bryce Anthony Ramirez, Jan Christian Blaise Cruz, Unisse Chua, Briane Paul Samson & Charibeth Cheng (2023). Towards automatic construction of filipino wordnet: Word sense induction and synset induction using sentence embeddings. Proceedings of the First Workshop in South East Asian Language Processing, 1–12."
+    },
+    {
+        "title": "Towards the Creation of the Filipino Wordnet: A Two-Way Approach",
+        "year": "2023",
+        "authors": [
+            {
+                "type": "me",
+                "name": "Samson, Briane Paul"
+            },
+            {
+                "type": "coauth",
+                "name": "Cheng, Charibeth"
+            },
+            {
+                "type": "coauth",
+                "name": "Chua, Unisse"
+            },
+            {
+                "type": "coauth",
+                "name": "Velasco, Dan John"
+            },
+            {
+                "type": "coauth",
+                "name": "Alba, Axel"
+            },
+            {
+                "type": "coauth",
+                "name": "Pelagio, Trisha Gail"
+            },
+            {
+                "type": "coauth",
+                "name": "Ramirez, Bryce Anthony"
+            },
+            {
+                "type": "coauth",
+                "name": "Bangonon, Robi Jeanne"
+            },
+            {
+                "type": "coauth",
+                "name": "Deticio, Christine"
+            },
+            {
+                "type": "coauth",
+                "name": "Gaw, Sharmaine"
+            },
+            {
+                "type": "coauth",
+                "name": "et al."
+            }
+        ],
+        "doi": "",
+        "conference": "2023 International Conference on Asian Language Processing (IALP)",
+        "proceedings": "2023 International Conference on Asian Language Processing (IALP)",
+        "volume": "",
+        "keywords": "",
+        "pages": "320-325",
+        "publisher": "IEEE",
+        "abstract": "",
+        "figures": [],
+        "pdf": "",
+        "award": [],
+        "isAbstract": "",
+        "url": "",
+        "citation": "Briane Paul Samson, Charibeth Cheng, Unisse Chua, Dan John Velasco, Axel Alba, Trisha Gail Pelagio, Bryce Anthony Ramirez, Robi Jeanne Bangonon, Christine Deticio, Sharmaine Gaw, et al. (2023). Towards the Creation of the Filipino Wordnet: A Two-Way Approach. 2023 International Conference on Asian Language Processing (IALP), 320–325."
+    },
+    {
+        "title": "Good day manager! exploring social relationships in nft-based play-to-earn games",
+        "year": "2023",
+        "authors": [
+            {
+                "type": "coauth",
+                "name": "Parayno, Richard Lance"
+            },
+            {
+                "type": "coauth",
+                "name": "Deja, Janna Aika"
+            },
+            {
+                "type": "coauth",
+                "name": "Sta. Maria, Tyrone Justin"
+            },
+            {
+                "type": "me",
+                "name": "Samson, Briane Paul V"
+            },
+            {
+                "type": "me",
+                "name": "Deja, Jordan Aiko"
+            }
+        ],
+        "doi": "",
+        "conference": "Proceedings of the 2023 CHI conference on human factors in computing systems",
+        "proceedings": "Proceedings of the 2023 CHI conference on human factors in computing systems",
+        "volume": "",
+        "keywords": "",
+        "pages": "1-11",
+        "publisher": "",
+        "abstract": "",
+        "figures": [],
+        "pdf": "",
+        "award": [],
+        "isAbstract": "",
+        "url": "",
+        "citation": "Richard Lance Parayno, Janna Aika Deja, Tyrone Justin Sta. Maria, Briane Paul V Samson & Jordan Aiko Deja (2023). Good day manager! exploring social relationships in nft-based play-to-earn games. Proceedings of the 2023 CHI conference on human factors in computing systems, 1–11."
+    },
+    {
+        "title": "Distinguishing in-groups and onlookers by language use",
+        "year": "2022",
+        "authors": [
+            {
+                "type": "coauth",
+                "name": "Minot, Joshua"
+            },
+            {
+                "type": "coauth",
+                "name": "Trujillo, Milo"
+            },
+            {
+                "type": "coauth",
+                "name": "Rosenblatt, Samuel"
+            },
+            {
+                "type": "coauth",
+                "name": "De Anda-Jáuregui, Guillermo"
+            },
+            {
+                "type": "coauth",
+                "name": "Moog, Emily"
+            },
+            {
+                "type": "coauth",
+                "name": "Roth, Allison M"
+            },
+            {
+                "type": "me",
+                "name": "Samson, Briane Paul"
+            },
+            {
+                "type": "coauth",
+                "name": "Hébert-Dufresne, Laurent"
+            }
+        ],
+        "doi": "",
+        "conference": "Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis",
+        "proceedings": "Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis",
+        "volume": "",
+        "keywords": "",
+        "pages": "157-171",
+        "publisher": "",
+        "abstract": "",
+        "figures": [],
+        "pdf": "",
+        "award": [],
+        "isAbstract": "",
+        "url": "",
+        "citation": "Joshua Minot, Milo Trujillo, Samuel Rosenblatt, Guillermo De Anda-Jáuregui, Emily Moog, Allison M Roth, Briane Paul Samson & Laurent Hébert-Dufresne (2022). Distinguishing in-groups and onlookers by language use. Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis, 157–171."
+    },
+    {
+        "title": "A survey of augmented piano prototypes: Has augmentation improved learning experiences?",
+        "year": "2022",
+        "authors": [
+            {
+                "type": "me",
+                "name": "Deja, Jordan Aiko"
+            },
+            {
+                "type": "coauth",
+                "name": "Mayer, Sven"
+            },
+            {
+                "type": "coauth",
+                "name": "Čopič Pucihar, Klen"
+            },
+            {
+                "type": "coauth",
+                "name": "Kljun, Matjaž"
+            }
+        ],
+        "doi": "",
+        "conference": "Proceedings of the ACM on Human-Computer Interaction",
+        "proceedings": "Proceedings of the ACM on Human-Computer Interaction",
+        "volume": "6",
+        "keywords": "",
+        "pages": "226-253",
+        "publisher": "ACM, New York, NY, USA",
+        "abstract": "",
+        "figures": [],
+        "pdf": "",
+        "award": [],
+        "isAbstract": "",
+        "url": "",
+        "citation": "Jordan Aiko Deja, Sven Mayer, Klen Čopič Pucihar & Matjaž Kljun (2022). A survey of augmented piano prototypes: Has augmentation improved learning experiences?. Proceedings of the ACM on Human-Computer Interaction, 6(ISS), 226–253."
+    },
+    {
         "title": "Optimizing the Efficiency , Vulnerability and Robustness of Road-based Para-transit Networks using Genetic Algorithm",
         "year": "2018",
         "authors": [
