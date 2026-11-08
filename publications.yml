@@ -11,7 +11,7 @@
       page: /papers/first-contact
       cite: /papers/first-contact#cite
       bibtex: /papers/first-contact#bibtex
-      figure: ../assets/png/hxil.png
+      figure: ../assets/png/firstcontact.png
       alt: "HXIL placeholder image for First Contact Matters: Exploring Pedestrian Perceptions of a Drone-Based Crossing Companion."
       abstract: ""
       citation: "Daphne Janelyn Go, Harvey Shawn Chua, Robert Joachim Encinas, Kyle Carlo Lasala, Lanz Kendall Lim, Maria Monica Manlises, Tyler Justin Tan & Jordan Aiko Deja (2026). First Contact Matters: Exploring Pedestrian Perceptions of a Drone-Based Crossing Companion. 2026 IEEE 35th International Conference on Robot and Human Interactive Communication (RO-MAN), 1510–1515."
@@ -28,7 +28,7 @@
       page: /papers/beyond-faders
       cite: /papers/beyond-faders#cite
       bibtex: /papers/beyond-faders#bibtex
-      figure: ../assets/png/hxil.png
+      figure: ../assets/png/beyond-faders.png
       alt: "HXIL placeholder image for Beyond Faders: Understanding 6DoF Gesture Ecologies in Music Mixing."
       abstract: ""
       citation: "Jeremy Wertheim Co Chen, Rendell Christian Ngo, Cedric Matthew Yu, Hans Emilio Lumagui, Ethan Badayos & Jordan Aiko Deja (2026). Beyond Faders: Understanding 6DoF Gesture Ecologies in Music Mixing. Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems, 1–5."
@@ -45,7 +45,7 @@
       page: /papers/feelings-not-feel
       cite: /papers/feelings-not-feel#cite
       bibtex: /papers/feelings-not-feel#bibtex
-      figure: ../assets/png/hxil.png
+      figure: ../assets/png/feelings-not-feel.png
       alt: "HXIL placeholder image for Feelings, Not Feel: Affective Audio-Visual Pseudo-Haptics in Hand-Tracked XR."
       abstract: ""
       citation: "Kristian Paolo David, Mikkel Dominic Gamboa, Tyrone Justin Sta. Maria & Jordan Aiko Deja (2026). Feelings, Not Feel: Affective Audio-Visual Pseudo-Haptics in Hand-Tracked XR. Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems, 1–5."
@@ -62,7 +62,7 @@
       page: /papers/uncertainty-visualizations
       cite: /papers/uncertainty-visualizations#cite
       bibtex: /papers/uncertainty-visualizations#bibtex
-      figure: ../assets/png/hxil.png
+      figure: ../assets/png/uncertainty.png
       alt: "HXIL placeholder image for Investigating Effective Uncertainty Visualizations for Ordinal Crowdsourced Data of Crowding Conditions."
       abstract: ""
       citation: "Bea Alexis Arcega, Annika Dominique S Campos, Kathleen Therese Cruz, Aaron Ace Toledo & Briane Paul V Samson (2026). Investigating Effective Uncertainty Visualizations for Ordinal Crowdsourced Data of Crowding Conditions. Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems, 1–6."
@@ -115,7 +115,7 @@
       page: /papers/improvisar
       cite: /papers/improvisar#cite
       bibtex: /papers/improvisar#bibtex
-      figure: ../assets/png/hxil.png
+      figure: ../assets/png/improvisar.png
       alt: "HXIL placeholder image for ImproVisAR: designing augmented reality piano roll for teaching improvisation."
       abstract: ""
       citation: "Jordan Aiko Deja, Sandi Štor, Ilonka Pucihar, Maheshya Weerasinghe, Rafael Marco Balbin, Klen Čopič Pucihar & Matjaž Kljun (2025). ImproVisAR: designing augmented reality piano roll for teaching improvisation. Virtual reality, 29(3), 140."
@@ -132,7 +132,7 @@
       page: /papers/set-stage
       cite: /papers/set-stage#cite
       bibtex: /papers/set-stage#bibtex
-      figure: ../assets/png/hxil.png
+      figure: ../assets/png/set-the-stage.png
       alt: "HXIL placeholder image for Set the Stage: Enabling Storytelling with Multiple Robots through Roleplaying Metaphors."
       abstract: ""
       citation: "Tyrone Justin Sta. Maria, Faith Griffin & Jordan Aiko Deja (2025). Set the Stage: Enabling Storytelling with Multiple Robots through Roleplaying Metaphors. Adjunct Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology, 1–3."
@@ -170,7 +170,7 @@
       page: /papers/good-day-manager
       cite: /papers/good-day-manager#cite
       bibtex: /papers/good-day-manager#bibtex
-      figure: ../assets/png/hxil.png
+      figure: ../assets/png/good-day-manager.png
       alt: "HXIL placeholder image for Good day manager! exploring social relationships in nft-based play-to-earn games."
       abstract: ""
       citation: "Richard Lance Parayno, Janna Aika Deja, Tyrone Justin Sta. Maria, Briane Paul V Samson & Jordan Aiko Deja (2023). Good day manager! exploring social relationships in nft-based play-to-earn games. Proceedings of the 2023 CHI conference on human factors in computing systems, 1–11."
@@ -240,7 +240,7 @@
       page: /papers/pianosurvey
       cite: /papers/pianosurvey#cite
       bibtex: /papers/pianosurvey#bibtex
-      figure: ../assets/png/hxil.png
+      figure: ../assets/png/pianosurvey.png
       alt: "HXIL placeholder image for A survey of augmented piano prototypes: Has augmentation improved learning experiences?."
       abstract: ""
       citation: "Jordan Aiko Deja, Sven Mayer, Klen Čopič Pucihar & Matjaž Kljun (2022). A survey of augmented piano prototypes: Has augmentation improved learning experiences?. Proceedings of the ACM on Human-Computer Interaction, 6(ISS), 226–253."
