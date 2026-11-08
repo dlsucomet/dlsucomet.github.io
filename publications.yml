@@ -1,0 +1,860 @@
+- name: 2026
+  papers:
+    - id: first-contact
+      title: "First Contact Matters: Exploring Pedestrian Perceptions of a Drone-Based Crossing Companion"
+      authors: Daphne Janelyn Go, Harvey Shawn Chua, Robert Joachim Encinas, Kyle Carlo Lasala, Lanz Kendall Lim, Maria Monica Manlises, Tyler Justin Tan & Jordan Aiko Deja
+      year: 2026
+      venue: "2026 IEEE 35th International Conference on Robot and Human Interactive Communication (RO-MAN)"
+      link:
+      doi:
+      file:
+      page: /papers/first-contact
+      cite: /papers/first-contact#cite
+      bibtex: /papers/first-contact#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for First Contact Matters: Exploring Pedestrian Perceptions of a Drone-Based Crossing Companion."
+      abstract: ""
+      citation: "Daphne Janelyn Go, Harvey Shawn Chua, Robert Joachim Encinas, Kyle Carlo Lasala, Lanz Kendall Lim, Maria Monica Manlises, Tyler Justin Tan & Jordan Aiko Deja (2026). First Contact Matters: Exploring Pedestrian Perceptions of a Drone-Based Crossing Companion. 2026 IEEE 35th International Conference on Robot and Human Interactive Communication (RO-MAN), 1510–1515."
+      bibtex-cite: "@inproceedings{go2026first,</br>\n  title={First Contact Matters: Exploring Pedestrian Perceptions of a Drone-Based Crossing Companion},</br>\n  author={Go, Daphne Janelyn and Chua, Harvey Shawn and Encinas, Robert Joachim and Lasala, Kyle Carlo and Lim, Lanz Kendall and Manlises, Maria Monica and Tan, Tyler Justin and Deja, Jordan Aiko},</br>\n  booktitle={2026 IEEE 35th International Conference on Robot and Human Interactive Communication (RO-MAN)},</br>\n  pages={1510--1515},</br>\n  year={2026},</br>\n  organization={IEEE}</br>\n}"
+
+    - id: beyond-faders
+      title: "Beyond Faders: Understanding 6DoF Gesture Ecologies in Music Mixing"
+      authors: Jeremy Wertheim Co Chen, Rendell Christian Ngo, Cedric Matthew Yu, Hans Emilio Lumagui, Ethan Badayos & Jordan Aiko Deja
+      year: 2026
+      venue: "Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems"
+      link:
+      doi:
+      file:
+      page: /papers/beyond-faders
+      cite: /papers/beyond-faders#cite
+      bibtex: /papers/beyond-faders#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for Beyond Faders: Understanding 6DoF Gesture Ecologies in Music Mixing."
+      abstract: ""
+      citation: "Jeremy Wertheim Co Chen, Rendell Christian Ngo, Cedric Matthew Yu, Hans Emilio Lumagui, Ethan Badayos & Jordan Aiko Deja (2026). Beyond Faders: Understanding 6DoF Gesture Ecologies in Music Mixing. Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems, 1–5."
+      bibtex-cite: "@inproceedings{co2026beyond,</br>\n  title={Beyond Faders: Understanding 6DoF Gesture Ecologies in Music Mixing},</br>\n  author={Co Chen, Jeremy Wertheim and Ngo, Rendell Christian and Yu, Cedric Matthew and Lumagui, Hans Emilio and Badayos, Ethan and Deja, Jordan Aiko},</br>\n  booktitle={Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems},</br>\n  pages={1--5},</br>\n  year={2026}</br>\n}"
+
+    - id: feelings-not-feel
+      title: "Feelings, Not Feel: Affective Audio-Visual Pseudo-Haptics in Hand-Tracked XR"
+      authors: Kristian Paolo David, Mikkel Dominic Gamboa, Tyrone Justin Sta. Maria & Jordan Aiko Deja
+      year: 2026
+      venue: "Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems"
+      link:
+      doi:
+      file:
+      page: /papers/feelings-not-feel
+      cite: /papers/feelings-not-feel#cite
+      bibtex: /papers/feelings-not-feel#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for Feelings, Not Feel: Affective Audio-Visual Pseudo-Haptics in Hand-Tracked XR."
+      abstract: ""
+      citation: "Kristian Paolo David, Mikkel Dominic Gamboa, Tyrone Justin Sta. Maria & Jordan Aiko Deja (2026). Feelings, Not Feel: Affective Audio-Visual Pseudo-Haptics in Hand-Tracked XR. Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems, 1–5."
+      bibtex-cite: "@inproceedings{david2026feelings,</br>\n  title={Feelings, Not Feel: Affective Audio-Visual Pseudo-Haptics in Hand-Tracked XR},</br>\n  author={David, Kristian Paolo and Gamboa, Mikkel Dominic and Sta. Maria, Tyrone Justin and Deja, Jordan Aiko},</br>\n  booktitle={Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems},</br>\n  pages={1--5},</br>\n  year={2026}</br>\n}"
+
+    - id: uncertainty-visualizations
+      title: "Investigating Effective Uncertainty Visualizations for Ordinal Crowdsourced Data of Crowding Conditions"
+      authors: Bea Alexis Arcega, Annika Dominique S Campos, Kathleen Therese Cruz, Aaron Ace Toledo & Briane Paul V Samson
+      year: 2026
+      venue: "Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems"
+      link:
+      doi:
+      file:
+      page: /papers/uncertainty-visualizations
+      cite: /papers/uncertainty-visualizations#cite
+      bibtex: /papers/uncertainty-visualizations#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for Investigating Effective Uncertainty Visualizations for Ordinal Crowdsourced Data of Crowding Conditions."
+      abstract: ""
+      citation: "Bea Alexis Arcega, Annika Dominique S Campos, Kathleen Therese Cruz, Aaron Ace Toledo & Briane Paul V Samson (2026). Investigating Effective Uncertainty Visualizations for Ordinal Crowdsourced Data of Crowding Conditions. Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems, 1–6."
+      bibtex-cite: "@inproceedings{arcega2026investigating,</br>\n  title={Investigating Effective Uncertainty Visualizations for Ordinal Crowdsourced Data of Crowding Conditions},</br>\n  author={Arcega, Bea Alexis and Campos, Annika Dominique S and Cruz, Kathleen Therese and Toledo, Aaron Ace and Samson, Briane Paul V},</br>\n  booktitle={Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems},</br>\n  pages={1--6},</br>\n  year={2026}</br>\n}"
+
+    - id: osm-science-2025
+      title: "OSM Science 2025: Diversifying the Study of OpenStreetMap"
+      authors: A Yair Grinberger, Anna Zanchetta, Simeona Martinez, Briane Paul V Samson, Marco Minghini, Peter Mooney, et al.
+      year: 2026
+      venue: "Proceedings of OSM Science 2025"
+      link:
+      doi:
+      file:
+      page: /papers/osm-science-2025
+      cite: /papers/osm-science-2025#cite
+      bibtex: /papers/osm-science-2025#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for OSM Science 2025: Diversifying the Study of OpenStreetMap."
+      abstract: ""
+      citation: "A Yair Grinberger, Anna Zanchetta, Simeona Martinez, Briane Paul V Samson, Marco Minghini, Peter Mooney, et al. (2026). OSM Science 2025: Diversifying the Study of OpenStreetMap. Proceedings of OSM Science 2025, 1."
+      bibtex-cite: "@article{grinberger2026osm,</br>\n  title={OSM Science 2025: Diversifying the Study of OpenStreetMap},</br>\n  author={Grinberger, A Yair and Zanchetta, Anna and Martinez, Simeona and Samson, Briane Paul V and Minghini, Marco and Mooney, Peter and others},</br>\n  journal={Proceedings of OSM Science 2025},</br>\n  pages={1},</br>\n  year={2026}</br>\n}"
+
+    - id: crop-disease-detection
+      title: "Comparative analysis of VGG-16, ResNet50, and EfficientNet-B1 with optimization techniques for crop disease detection"
+      authors: Danish Syazani Mohd Zakir, Zatul Alwani Shaffiei, Masitah Ghazali & Briane Paul V Samson
+      year: 2026
+      venue: "Journal of Advanced Research Design"
+      link:
+      doi:
+      file:
+      page: /papers/crop-disease-detection
+      cite: /papers/crop-disease-detection#cite
+      bibtex: /papers/crop-disease-detection#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for Comparative analysis of VGG-16, ResNet50, and EfficientNet-B1 with optimization techniques for crop disease detection."
+      abstract: ""
+      citation: "Danish Syazani Mohd Zakir, Zatul Alwani Shaffiei, Masitah Ghazali & Briane Paul V Samson (2026). Comparative analysis of VGG-16, ResNet50, and EfficientNet-B1 with optimization techniques for crop disease detection. Journal of Advanced Research Design, 143(1), 55–64."
+      bibtex-cite: "@article{zakir2026comparative,</br>\n  title={Comparative analysis of VGG-16, ResNet50, and EfficientNet-B1 with optimization techniques for crop disease detection},</br>\n  author={Zakir, Danish Syazani Mohd and Shaffiei, Zatul Alwani and Ghazali, Masitah and Samson, Briane Paul V},</br>\n  journal={Journal of Advanced Research Design},</br>\n  volume={143},</br>\n  number={1},</br>\n  pages={55--64},</br>\n  year={2026}</br>\n}"
+
+- name: 2025
+  papers:
+    - id: improvisar
+      title: "ImproVisAR: designing augmented reality piano roll for teaching improvisation"
+      authors: Jordan Aiko Deja, Sandi Štor, Ilonka Pucihar, Maheshya Weerasinghe, Rafael Marco Balbin, Klen Čopič Pucihar & Matjaž Kljun
+      year: 2025
+      venue: "Virtual reality"
+      link:
+      doi:
+      file:
+      page: /papers/improvisar
+      cite: /papers/improvisar#cite
+      bibtex: /papers/improvisar#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for ImproVisAR: designing augmented reality piano roll for teaching improvisation."
+      abstract: ""
+      citation: "Jordan Aiko Deja, Sandi Štor, Ilonka Pucihar, Maheshya Weerasinghe, Rafael Marco Balbin, Klen Čopič Pucihar & Matjaž Kljun (2025). ImproVisAR: designing augmented reality piano roll for teaching improvisation. Virtual reality, 29(3), 140."
+      bibtex-cite: "@article{deja2025improvisar,</br>\n  title={ImproVisAR: designing augmented reality piano roll for teaching improvisation},</br>\n  author={Deja, Jordan Aiko and {\\v{S}}tor, Sandi and Pucihar, Ilonka and Weerasinghe, Maheshya and Balbin, Rafael Marco and {\\v{C}}opi{\\v{c}} Pucihar, Klen and Kljun, Matja{\\v{z}}},</br>\n  journal={Virtual reality},</br>\n  volume={29},</br>\n  number={3},</br>\n  pages={140},</br>\n  year={2025},</br>\n  publisher={Springer}</br>\n}"
+
+    - id: set-stage
+      title: "Set the Stage: Enabling Storytelling with Multiple Robots through Roleplaying Metaphors"
+      authors: Tyrone Justin Sta. Maria, Faith Griffin & Jordan Aiko Deja
+      year: 2025
+      venue: "Adjunct Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology"
+      link:
+      doi:
+      file:
+      page: /papers/set-stage
+      cite: /papers/set-stage#cite
+      bibtex: /papers/set-stage#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for Set the Stage: Enabling Storytelling with Multiple Robots through Roleplaying Metaphors."
+      abstract: ""
+      citation: "Tyrone Justin Sta. Maria, Faith Griffin & Jordan Aiko Deja (2025). Set the Stage: Enabling Storytelling with Multiple Robots through Roleplaying Metaphors. Adjunct Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology, 1–3."
+      bibtex-cite: "@inproceedings{sta2025set,</br>\n  title={Set the Stage: Enabling Storytelling with Multiple Robots through Roleplaying Metaphors},</br>\n  author={Sta. Maria, Tyrone Justin and Griffin, Faith and Deja, Jordan Aiko},</br>\n  booktitle={Adjunct Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology},</br>\n  pages={1--3},</br>\n  year={2025}</br>\n}"
+
+- name: 2024
+  papers:
+    - id: self-tracking-motivation
+      title: "Exploring design opportunities for improved self-motivation in self-tracking and health goal achievement"
+      authors: Elyssia Barrie H Ong & Briane Paul V Samson
+      year: 2024
+      venue: "Proceedings of the ACM on Human-Computer Interaction"
+      link:
+      doi:
+      file:
+      page: /papers/self-tracking-motivation
+      cite: /papers/self-tracking-motivation#cite
+      bibtex: /papers/self-tracking-motivation#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for Exploring design opportunities for improved self-motivation in self-tracking and health goal achievement."
+      abstract: ""
+      citation: "Elyssia Barrie H Ong & Briane Paul V Samson (2024). Exploring design opportunities for improved self-motivation in self-tracking and health goal achievement. Proceedings of the ACM on Human-Computer Interaction, 8(MHCI), 1–17."
+      bibtex-cite: "@article{ong2024exploring,</br>\n  title={Exploring design opportunities for improved self-motivation in self-tracking and health goal achievement},</br>\n  author={Ong, Elyssia Barrie H and Samson, Briane Paul V},</br>\n  journal={Proceedings of the ACM on Human-Computer Interaction},</br>\n  volume={8},</br>\n  number={MHCI},</br>\n  pages={1--17},</br>\n  year={2024},</br>\n  publisher={ACM, New York, NY, USA}</br>\n}"
+
+- name: 2023
+  papers:
+    - id: good-day-manager
+      title: "Good day manager! exploring social relationships in nft-based play-to-earn games"
+      authors: Richard Lance Parayno, Janna Aika Deja, Tyrone Justin Sta. Maria, Briane Paul V Samson & Jordan Aiko Deja
+      year: 2023
+      venue: "Proceedings of the 2023 CHI conference on human factors in computing systems"
+      link:
+      doi:
+      file:
+      page: /papers/good-day-manager
+      cite: /papers/good-day-manager#cite
+      bibtex: /papers/good-day-manager#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for Good day manager! exploring social relationships in nft-based play-to-earn games."
+      abstract: ""
+      citation: "Richard Lance Parayno, Janna Aika Deja, Tyrone Justin Sta. Maria, Briane Paul V Samson & Jordan Aiko Deja (2023). Good day manager! exploring social relationships in nft-based play-to-earn games. Proceedings of the 2023 CHI conference on human factors in computing systems, 1–11."
+      bibtex-cite: "@inproceedings{parayno2023good,</br>\n  title={Good day manager! exploring social relationships in nft-based play-to-earn games},</br>\n  author={Parayno, Richard Lance and Deja, Janna Aika and Sta. Maria, Tyrone Justin and Samson, Briane Paul V and Deja, Jordan Aiko},</br>\n  booktitle={Proceedings of the 2023 CHI conference on human factors in computing systems},</br>\n  pages={1--11},</br>\n  year={2023}</br>\n}"
+
+    - id: filipino-wordnet
+      title: "Towards the Creation of the Filipino Wordnet: A Two-Way Approach"
+      authors: Briane Paul Samson, Charibeth Cheng, Unisse Chua, Dan John Velasco, Axel Alba, Trisha Gail Pelagio, Bryce Anthony Ramirez, Robi Jeanne Bangonon, Christine Deticio, Sharmaine Gaw, et al.
+      year: 2023
+      venue: "2023 International Conference on Asian Language Processing (IALP)"
+      link:
+      doi:
+      file:
+      page: /papers/filipino-wordnet
+      cite: /papers/filipino-wordnet#cite
+      bibtex: /papers/filipino-wordnet#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for Towards the Creation of the Filipino Wordnet: A Two-Way Approach."
+      abstract: ""
+      citation: "Briane Paul Samson, Charibeth Cheng, Unisse Chua, Dan John Velasco, Axel Alba, Trisha Gail Pelagio, Bryce Anthony Ramirez, Robi Jeanne Bangonon, Christine Deticio, Sharmaine Gaw, et al. (2023). Towards the Creation of the Filipino Wordnet: A Two-Way Approach. 2023 International Conference on Asian Language Processing (IALP), 320–325."
+      bibtex-cite: "@inproceedings{samson2023towards,</br>\n  title={Towards the Creation of the Filipino Wordnet: A Two-Way Approach},</br>\n  author={Samson, Briane Paul and Cheng, Charibeth and Chua, Unisse and Velasco, Dan John and Alba, Axel and Pelagio, Trisha Gail and Ramirez, Bryce Anthony and Bangonon, Robi Jeanne and Deticio, Christine and Gaw, Sharmaine and others},</br>\n  booktitle={2023 International Conference on Asian Language Processing (IALP)},</br>\n  pages={320--325},</br>\n  year={2023},</br>\n  organization={IEEE}</br>\n}"
+
+    - id: automatic-filipino-wordnet
+      title: "Towards automatic construction of filipino wordnet: Word sense induction and synset induction using sentence embeddings"
+      authors: Dan John Velasco, Axel Alba, Trisha Gail Pelagio, Bryce Anthony Ramirez, Jan Christian Blaise Cruz, Unisse Chua, Briane Paul Samson & Charibeth Cheng
+      year: 2023
+      venue: "Proceedings of the First Workshop in South East Asian Language Processing"
+      link:
+      doi:
+      file:
+      page: /papers/automatic-filipino-wordnet
+      cite: /papers/automatic-filipino-wordnet#cite
+      bibtex: /papers/automatic-filipino-wordnet#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for Towards automatic construction of filipino wordnet: Word sense induction and synset induction using sentence embeddings."
+      abstract: ""
+      citation: "Dan John Velasco, Axel Alba, Trisha Gail Pelagio, Bryce Anthony Ramirez, Jan Christian Blaise Cruz, Unisse Chua, Briane Paul Samson & Charibeth Cheng (2023). Towards automatic construction of filipino wordnet: Word sense induction and synset induction using sentence embeddings. Proceedings of the First Workshop in South East Asian Language Processing, 1–12."
+      bibtex-cite: "@inproceedings{velasco2023towards,</br>\n  title={Towards automatic construction of filipino wordnet: Word sense induction and synset induction using sentence embeddings},</br>\n  author={Velasco, Dan John and Alba, Axel and Pelagio, Trisha Gail and Ramirez, Bryce Anthony and Cruz, Jan Christian Blaise and Chua, Unisse and Samson, Briane Paul and Cheng, Charibeth},</br>\n  booktitle={Proceedings of the First Workshop in South East Asian Language Processing},</br>\n  pages={1--12},</br>\n  year={2023}</br>\n}"
+
+    - id: autonomous-vehicles
+      title: "What if Automated Vehicles Became AUTONOMOUS? A Critical Perspective"
+      authors: Mark Colley, Stacey Li, Briane Paul V Samson & Denise Sogemeier
+      year: 2023
+      venue: "Adjunct Proceedings of the 15th International Conference on Automotive User Interfaces and Interactive Vehicular Applications"
+      link:
+      doi:
+      file:
+      page: /papers/autonomous-vehicles
+      cite: /papers/autonomous-vehicles#cite
+      bibtex: /papers/autonomous-vehicles#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for What if Automated Vehicles Became AUTONOMOUS? A Critical Perspective."
+      abstract: ""
+      citation: "Mark Colley, Stacey Li, Briane Paul V Samson & Denise Sogemeier (2023). What if Automated Vehicles Became AUTONOMOUS? A Critical Perspective. Adjunct Proceedings of the 15th International Conference on Automotive User Interfaces and Interactive Vehicular Applications, 352–355."
+      bibtex-cite: "@inproceedings{colley2023if,</br>\n  title={What if Automated Vehicles Became AUTONOMOUS? A Critical Perspective},</br>\n  author={Colley, Mark and Li, Stacey and Samson, Briane Paul V and Sogemeier, Denise},</br>\n  booktitle={Adjunct Proceedings of the 15th International Conference on Automotive User Interfaces and Interactive Vehicular Applications},</br>\n  pages={352--355},</br>\n  year={2023}</br>\n}"
+
+- name: 2022
+  papers:
+    - id: pianosurvey
+      title: "A survey of augmented piano prototypes: Has augmentation improved learning experiences?"
+      authors: Jordan Aiko Deja, Sven Mayer, Klen Čopič Pucihar & Matjaž Kljun
+      year: 2022
+      venue: "Proceedings of the ACM on Human-Computer Interaction"
+      link:
+      doi:
+      file:
+      page: /papers/pianosurvey
+      cite: /papers/pianosurvey#cite
+      bibtex: /papers/pianosurvey#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for A survey of augmented piano prototypes: Has augmentation improved learning experiences?."
+      abstract: ""
+      citation: "Jordan Aiko Deja, Sven Mayer, Klen Čopič Pucihar & Matjaž Kljun (2022). A survey of augmented piano prototypes: Has augmentation improved learning experiences?. Proceedings of the ACM on Human-Computer Interaction, 6(ISS), 226–253."
+      bibtex-cite: "@article{deja2022survey,</br>\n  title={A survey of augmented piano prototypes: Has augmentation improved learning experiences?},</br>\n  author={Deja, Jordan Aiko and Mayer, Sven and {\\v{C}}opi{\\v{c}} Pucihar, Klen and Kljun, Matja{\\v{z}}},</br>\n  journal={Proceedings of the ACM on Human-Computer Interaction},</br>\n  volume={6},</br>\n  number={ISS},</br>\n  pages={226--253},</br>\n  year={2022},</br>\n  publisher={ACM, New York, NY, USA}</br>\n}"
+
+    - id: ingroups-onlookers
+      title: "Distinguishing in-groups and onlookers by language use"
+      authors: Joshua Minot, Milo Trujillo, Samuel Rosenblatt, Guillermo De Anda-Jáuregui, Emily Moog, Allison M Roth, Briane Paul Samson & Laurent Hébert-Dufresne
+      year: 2022
+      venue: "Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis"
+      link:
+      doi:
+      file:
+      page: /papers/ingroups-onlookers
+      cite: /papers/ingroups-onlookers#cite
+      bibtex: /papers/ingroups-onlookers#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for Distinguishing in-groups and onlookers by language use."
+      abstract: ""
+      citation: "Joshua Minot, Milo Trujillo, Samuel Rosenblatt, Guillermo De Anda-Jáuregui, Emily Moog, Allison M Roth, Briane Paul Samson & Laurent Hébert-Dufresne (2022). Distinguishing in-groups and onlookers by language use. Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis, 157–171."
+      bibtex-cite: "@inproceedings{minot2022distinguishing,</br>\n  title={Distinguishing in-groups and onlookers by language use},</br>\n  author={Minot, Joshua and Trujillo, Milo and Rosenblatt, Samuel and De Anda-J{\\'a}uregui, Guillermo and Moog, Emily and Roth, Allison M and Samson, Briane Paul and H{\\'e}bert-Dufresne, Laurent},</br>\n  booktitle={Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment \\& Social Media Analysis},</br>\n  pages={157--171},</br>\n  year={2022}</br>\n}"
+
+- name: 2021
+  papers:
+    - id: reddit-ban
+      title: "When the Echo Chamber Shatters: Examining the Use of Community-Specific Language Post-Subreddit Ban"
+      authors: Milo Trujillo, Sam Rosenblatt, Guillermo de Anda Jáuregui, Emily Moog, Briane Paul V. Samson, Laurent Hébert-Dufresne & Allison M. Roth
+      year: 2021
+      venue: Workshop on Online Abuse and Harms (WOAH) Proceedings
+      link: https://aclanthology.org/2021.woah-1.18/
+      doi: 10.18653/v1/2021.woah-1.18
+      file: /files/2021trujillo_reddit_ban_woah.pdf
+      page: /papers/reddit-ban
+      cite: /papers/reddit-ban#cite
+      bibtex: /papers/reddit-ban#bibtex
+      figure: ../assets/png/reddit-ban-thumb.png
+      alt: A scatter plot that shows the activity of banned subreddit users before and after the ban.
+      abstract: "Community-level bans are a common tool against groups that enable online harassment and harmful speech. Unfortunately, the efficacy of community bans has only been partially studied and with mixed results. Here, we provide a flexible unsupervised methodology to identify in-group language and track user activity on Reddit both before and after the ban of a community (subreddit). We use a simple word frequency divergence to identify uncommon words overrepresented in a given community, not as a proxy for harmful speech but as a linguistic signature of the community. We apply our method to 15 banned subreddits, and find that community response is heterogeneous between subreddits and between users of a subreddit. Top users were more likely to become less active overall, while random users often reduced use of in-group language without decreasing activity. Finally, we find some evidence that the effectiveness of bans aligns with the content of a community. Users of dark humor communities were largely unaffected by bans while users of communities organized around white supremacy and fascism were the most affected. Altogether, our results show that bans do not affect all groups or users equally, and pave the way to understanding the effect of bans across communities."
+      citation: "Trujillo, M., Rosenblatt, S., Jáuregui, G. de A., Moog, E., Samson, B. P. V., Hébert-Dufresne, L., & Roth, A. M. (2021). When the echo chamber shatters: Examining the use of community-specific language post-subreddit ban. 164–178. Association for Computational Linguistics, https://doi.org/10.18653/v1/2021.woah-1.18."
+      bibtex-cite: "@inproceedings{trujillo-etal-2021-echo,</br>
+        title = {When the Echo Chamber Shatters: Examining the Use of Community-Specific Language Post-Subreddit Ban},</br>
+        author = {Trujillo, Milo and Rosenblatt, Sam and de Anda Jáuregui, Guillermo and Moog, Emily and Samson, Briane Paul V. and Hébert-Dufresne, Laurent and Roth, Allison M.},</br>
+        booktitle = {Proceedings of the 5th Workshop on Online Abuse and Harms (WOAH 2021)},</br>
+        month = aug,</br>
+        year = {2021},</br>
+        address = {Online},</br>
+        publisher = {Association for Computational Linguistics},</br>
+        url = {https://aclanthology.org/2021.woah-1.18},</br>
+        doi = {10.18653/v1/2021.woah-1.18},</br>
+        pages = {164--178}</br>
+        }"
+
+    - id: sat-scheduler
+      title: "Using Boolean Satisfiability Solvers to Help Reduce Cognitive Load and Improve Decision Making when Creating Common Academic Schedules"
+      authors: Joshua C. Manzano, Adrienne Francesca O. Soliven, Antonio Miguel B. Llamas, Shenn Margareth V. Tinsay, Briane Paul V. Samson & Rafael A. Cabredo
+      year: 2021
+      accept-rate: 26
+      venue: ACM CHI Conference on Human Factors in Computing Systems Proceedings (CHI)
+      doi: 10.1145/3411764.3445681
+      acm: https://dl.acm.org/doi/10.1145/3411764.3445681?cid=99659319011
+      file: /files/2021manzano_sat_scheduler_chi.pdf
+      page: /papers/sat-scheduler
+      cite: /papers/sat-scheduler#cite
+      bibtex: /papers/sat-scheduler#bibtex
+      figure: ../assets/png/sat-scheduler-thumb.png
+      alt: Interface for compareing schedules.
+      abstract: "Manual schedule creation often involves satisfying numerous unique and conflicting constraints, which becomes more cognitively demanding when creating a common academic schedule with other individuals. Poor decision making caused by cognitive overload can result in unsuitable schedules. This study proposes the use of Boolean satisfiability (SAT) solvers in an academic scheduling system to help students balance scheduling preferences and satisfy necessary constraints. Based on the availability of courses and the scheduling preferences of users, the system automatically resolves conflicts and presents possible schedules. In a controlled experiment with 42 undergraduate students, cognitive demand was reduced by eliminating menial decisions, which significantly optimized the creation of a common schedule among peers. We found that human errors and emotional stress were diminished, and schedules created using the system were more satisfactory to participants. Finally, we present recommendations and design implications for future academic scheduling systems."
+      citation: "Joshua C. Manzano, Adrienne Francesca O. Soliven, Antonio Miguel B. Llamas, Shenn Margareth V. Tinsay, Briane Paul V. Samson, and Rafael A. Cabredo. 2021. Using Boolean Satisfiability Solvers to Help Reduce Cognitive Load and Improve Decision Making when Creating Common Academic Schedules. Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems. Association for Computing Machinery, New York, NY, USA, Article 456, 1–13. DOI:https://doi.org/10.1145/3411764.3445681"
+      bibtex-cite: "@inbook{manzano-sat-scheduler-2021,
+        author = {Manzano, Joshua C. and Soliven, Adrienne Francesca O. and Llamas, Antonio Miguel B. and Tinsay, Shenn Margareth V. and Samson, Briane Paul V. and Cabredo, Rafael A.},</br>
+        title = {Using Boolean Satisfiability Solvers to Help Reduce Cognitive Load and Improve Decision Making When Creating Common Academic Schedules},</br>
+        year = {2021},</br>
+        isbn = {9781450380966},</br>
+        publisher = {Association for Computing Machinery},</br>
+        address = {New York, NY, USA},</br>
+        url = {https://doi.org/10.1145/3411764.3445681},</br>
+        booktitle = {Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems},</br>
+        articleno = {456},</br>
+        numpages = {13}</br>
+        }"
+
+- name: 2020
+  papers:
+    - id: fil-dl-network
+      title: "Analysis of the co-authorship network of Filipino researchers in deep learning"
+      authors: Angelyn R. Lao, Unisse C. Chua & Briane Paul V. Samson
+      year: 2020
+      venue: Philippine Science Letters (PSL)
+      link: https://philsciletters.net/2020-148/
+      file: /files/2020lao_fil_dl_network_psl.pdf
+      page: /papers/fil-dl-network
+      cite: /papers/fil-dl-network#cite
+      bibtex: /papers/fil-dl-network#bibtex
+      figure: ../assets/png/fil-dl-network-thumb.png
+      alt: Toy network model of ignorant, exposed to, and spreader nodes.
+      abstract: "Deep learning is an emerging field that attracts attention from various researchers to use in analyzing and understanding increasingly complex systems and phenomena. Crucial to the advancement of deep learning research in the Philippines, institutions need to understand its direction and reach out and work with other leading researchers who have knowledge, insight, and resources to contribute to the challenges in deep learning research. Due to its wide application, we analyzed the collaboration dynamics and patterns of Filipino researchers working in this field through their co-authorship network. Our study found that while there is a steady increase in research productivity on deep learning, most of the publications and collaborations are concentrated on a handful of institutions like De La Salle University and University of the Philippines Diliman. Despite their current control over the direction of the local research community, these two top institutions have yet to form strong collaborations. We also found that Filipino researchers are mostly doing applied deep learning projects and rely heavily on undergraduate students to maintain productivity."
+      citation: "Lao, A.R., Chua, U.C. & Samson, B.P.V. (2020). Analysis of the co-authorship network of Filipino researchers in deep learning. Philippine Science Letters, 13(2), 148–157. Retrieved from https://philsciletters.net/2020-148/"
+      bibtex-cite: "@article{LaoFilDLNetwork2020,</br>
+        title = {Analysis of the co-authorship network of Filipino researchers in deep learning},</br>
+        journal = {Philippine Science Letters},</br>
+        volume = {13},</br>
+        issue = {2},</br>
+        pages = {148 - 157},</br>
+        year = {2020},</br>
+        issn = {2094-2818},</br>
+        url = {https://philsciletters.net/2020-148/},</br>
+        author = {Angelyn R. Lao and Unisse C. Chua and Briane Paul V. Samson},</br>
+        keywords = {co-authorship, network analysis, research productivity, Filipino, deep learning, Philippines}</br>
+        }"
+
+    - id: h5n6-optimal-control
+      title: "Prevention of H5N6 outbreaks in the Philippines using optimal control"
+      authors: Abel G. Lucido, Robert Smith? & Angelyn R. Lao
+      year: 2020
+      venue: Philippine Science Letters (PSL)
+      link: https://philsciletters.net/2020-158/
+      file: /files/2020lucido_h5n6_optimal_control_psl.pdf
+      page: /papers/h5n6-optimal-control
+      cite: /papers/h5n6-optimal-control#cite
+      bibtex: /papers/h5n6-optimal-control#bibtex
+      figure: ../assets/png/h5n6-optimal-control-thumb.png
+      alt: Toy network model of ignorant, exposed to, and spreader nodes.
+      abstract: "Highly Pathogenic Avian Influenza A (H5N6) is a mutated virus of Influenza A (H5N1) and a new emerging infection that recently caused an outbreak in the Philippines. The 2017 H5N6 outbreak resulted in a depopulation of 667,184 domestic birds. We incorporate half-saturated incidence and optimal control in our mathematical models in order to investigate three intervention strategies against H5N6: isolation with treatment, vaccination, and modified culling. We determine the direction of the bifurcation when R0=1 and show that all the models exhibit forward bifurcation. We apply the theory of optimal control and perform numerical simulations to compare the consequences and implementation cost of utilizing different intervention strategies in the poultry population. Despite the challenges of applying each control strategy, we show that culling both infected and susceptible birds is an effective control strategy in limiting an outbreak, with a consequence of losing a large number of birds; the isolation-treatment strategy has the potential to prevent an outbreak, but it highly depends on rapid isolation and successful treatment used; while vaccination alone is not enough to control the outbreak."
+      citation: "Lucido, A.G., Smith?, R. & Lao, A.R. (2020). Prevention of H5N6 outbreaks in the Philippines using optimal control. Philippine Science Letters, 13(2), 158–175. Retrieved from https://philsciletters.net/2020-158/"
+      bibtex-cite: "@article{LucidoH5N6Optimal2020,</br>
+        title = {Prevention of H5N6 outbreaks in the Philippines using optimal control},</br>
+        journal = {Philippine Science Letters},</br>
+        volume = {13},</br>
+        issue = {2},</br>
+        pages = {158 - 175},</br>
+        year = {2020},</br>
+        issn = {2094-2818},</br>
+        url = {https://philsciletters.net/2020-158/},</br>
+        author = {Abel G. Lucido and Robert Smith? and Angelyn R. Lao},</br>
+        keywords = {Influenza A (H5N6), half-saturated incidence, isolationtreatment, culling, vaccination, bifurcation, optimal control}</br>
+        }"
+
+    - id: two-heads-pilot
+      title: Are Two Heads Better than One? Exploring Two-Party Conversations for Car Navigation Voice Guidance
+      authors: Briane Paul V. Samson & Yasuyuki Sumi
+      year: 2020
+      # toappear: true
+      venue: Late-Breaking Works, ACM CHI Conference on Human Factors in Computing Systems Proceedings (CHI)
+      doi: 10.1145/3334480.3382818
+      accept-rate: 41.8
+      page: /papers/two-heads-pilot
+      file: /files/2020samson_twoheadspilot_chilbw.pdf
+      acm: https://dl.acm.org/doi/10.1145/3334480.3382818?cid=99659319011
+      cite: /papers/two-heads-pilot#cite
+      bibtex: /papers/two-heads-pilot#bibtex
+      figure: ../assets/png/two-heads-pilot.png
+      alt: A sample two-party conversation and the three routes used in the pilot study
+      abstract: "Voice guidance for car navigation typically considers drivers as docile actors. Recent works highlight limitations to this assumption which make drivers rely less on given directions. To explore how drivers can make better navigation decisions, we conducted a pilot Wizard-of-Oz study that gives turn suggestions in conversations between two voice agents. We asked 30 participants to drive in a simulation environment using voice guidance that gives three types of suggestions: familiar, optimal, and new routes. We examined their route choices, perceived workload and utterances while driving. We found that while most drivers followed directions appropriate for the given scenarios, they were more likely to make inappropriate choices after hearing alternatives in conversations. On the other hand, two-party conversations allowed drivers to better reflect on their choices after trips. We conclude by discussing preliminary design implications for car navigation voice guidance specifically and recommender systems in general."
+      citation: "Samson, B.P.V. & Sumi, Y. (2020). Are Two Heads Better than One? Exploring Two-Party Conversations for Car Navigation Voice Guidance. In CHI Conference Extended Abstracts on Human Factors in Computing Systems Proceedings (CHI 2020), April 25–30, 2020, Honolulu, Hawai'i, USA. ACM, New York, NY, USA, 10 pages. DOI: https://doi.org/10.1145/3334480.3382818"
+      bibtex-cite: "@inproceedings{Samson:2020:EFI:3334480.3382818,</br>
+        author = {Samson, Briane Paul V. and Sumi, Yasuyuki},</br>
+        title = {Are Two Heads Better than One? Exploring Two-Party Conversations for Car Navigation Voice Guidance},</br>
+        booktitle = {Proceedings of the 2020 CHI Conference Extended Abstracts on Human Factors in Computing Systems},</br>
+        series = {CHI '20},</br>
+        year = {2020},</br>
+        isbn = {978-1-4503-6819-3},</br>
+        location = {Honolulu, Hawai'i, USA},</br>
+        pages = {371:1--371:10},</br>
+        articleno = {371},</br>
+        numpages = {10},</br>
+        url = {http://doi.acm.org/10.1145/3334480.3382818},</br>
+        doi = {10.1145/3334480.3382818},</br>
+        acmid = {3382818},</br>
+        publisher = {ACM},</br>
+        address = {New York, NY, USA},</br>
+        keywords = {voice guidance; voice agents; two-party conversation; navigation applications; recommender systems; driving},</br>
+        }"
+    
+    - id: vitune
+      title: "ViTune: A Visualizer Tool to Allow the Deaf and Hard of Hearing to See Music with Their Eyes"
+      authors: Jordan Aiko Deja, Alexczar Dela Torre, Hans Joshua Lee, Jose Florencio Ciriaco IV & Carlo Miguel Eroles
+      year: 2020
+      # toappear: true
+      venue: Late-Breaking Works, ACM CHI Conference on Human Factors in Computing Systems Proceedings (CHI)
+      doi: 10.1145/3334480.3383046
+      accept-rate: 41.8
+      page: /papers/vitune
+      file: /files/2020deja_vitune_chilbw.pdf
+      acm: https://dl.acm.org/doi/abs/10.1145/3334480.3383046
+      cite: /papers/vitune#cite
+      bibtex: /papers/vitune#bibtex
+      figure: ../assets/png/vitune.png
+      alt: A sample two-party conversation and the three routes used in the pilot study
+      abstract: "Visualizers are usually added into music players to augment the listening experiences of hearing users. However, for the case of most members of the Deaf and Hard of Hearing (DHH) community, they have partial deafness which may give them a “limited” listening experience as compared to their counterparts. In this paper, we present ViTune, a visualizer tool that enhances the musical experiences of the DHH through the use of an on-screen visualizer generating effects alongside music. We observed how members of the DHH community typically experienced music through an initial user study. We then iterated on developing a visualizer prototype where we did multiple usability tests involving at least 15 participants from the DHH community. We observed how they experienced music with the help of our prototype and noticed that certain music features and elements augmented these experiences. Visualization attributes, their matching qualitative descriptions and equivalent subjective attributes were identified with the help of music experts. Also, affects hypothesized to be induced and dissuaded were identified in improving these listening experiences."
+      citation: "Deja, J.A., Dela Torre, A., Lee, H.J., Ciriaco, J.F. IV & Eroles, C.M. (2020). ViTune: A Visualizer Tool to Allow the Deaf and Hard of Hearing to See Music with Their Eyes. In CHI Conference Extended Abstracts on Human Factors in Computing Systems Proceedings (CHI 2020), April 25–30, 2020, Honolulu, Hawai'i, USA. ACM, New York, NY, USA, 8 pages. DOI: https://doi.org/10.1145/3334480.3383046"
+      bibtex-cite: "@inproceedings{Deja:2020:3334480.3383046,</br>
+        author = {Deja, Jordan Aiko and Dela Torre, Alexczar and Lee, Hans Joshua and Ciriaco, Jose Florencio IV and Eroles, Carlo Miguel},</br>
+        title = {ViTune: A Visualizer Tool to Allow the Deaf and Hard of Hearing to See Music with Their Eyes},</br>
+        booktitle = {Proceedings of the 2020 CHI Conference Extended Abstracts on Human Factors in Computing Systems},</br>
+        series = {CHI '20},</br>
+        year = {2020},</br>
+        isbn = {978-1-4503-6819-3},</br>
+        location = {Honolulu, Hawai'i, USA},</br>
+        pages = {371:1--371:10},</br>
+        articleno = {371},</br>
+        numpages = {8},</br>
+        url = {http://doi.acm.org/10.1145/3334480.3383046},</br>
+        doi = {10.1145/3334480.3383046},</br>
+        acmid = {3383046},</br>
+        publisher = {ACM},</br>
+        address = {New York, NY, USA},</br>
+        keywords = {voice guidance; voice agents; two-party conversation; navigation applications; recommender systems; driving},</br>
+        }"
+    
+    - id: od-access
+      title: "From Access to Effective Use: Open Data Portals for Everyday Citizens"
+      authors: Unisse C. Chua, Kyle L. Santiago, Ian Benedict M. Ona, Romeo Manuel N. Peña, Geremiah Zachary S. Marasigan, Paolo Gabriel A. Delos Reyes & Briane Paul V. Samson
+      year: 2020
+      venue: Asian HCI Symposium, CHI
+      acm: https://dl.acm.org/doi/abs/10.1145/3391203.3391219?cid=99659319011
+      doi: 10.1145/3391203.3391219
+      page: /papers/od-access
+      file: /files/2020chua_od_access_asianchi.pdf
+      cite: /papers/od-access#cite
+      bibtex: /papers/od-access#bibtex
+      figure: ../assets/png/od-access.png
+      alt: Preference for accessing and viewing open data
+      citation: "Unisse C. Chua, Kyle L. Santiago, Ian Benedict M. Ona, Romeo Manuel N. Peña, Geremiah Zachary S. Marasigan, Paolo Gabriel A. Delos Reyes, and Briane Paul V. Samson. 2020. From Access to Effective Use: Open Data Portals for Everyday Citizens. In Proceedings of the 2020 Symposium on Emerging Research from Asia and on Asian Contexts and Cultures (AsianCHI ’20). Association for Computing Machinery, New York, NY, USA, 61–64. DOI:https://doi.org/10.1145/3391203.3391219"
+      abstract: "Open government data allows for transparency from governments and access to data collected about its citizens. However, we are still far from achieving universal citizen participation because data literacy and experience are necessary to extract insights from data. There is also no guarantee if available data can address people's information needs. We explored the potential of open government data portals in addressing the information needs of citizens through an online survey and found that these can only be partially answered by the available data. To understand their information seeking behavior, we conducted usability tests of open data portals with 21 citizens, and used semi-structured interviews to identify gaps in the portals' design. We found that citizens would benefit from: localized and advanced search engines; and visualized, contextualized, and processed content for better sensemaking. We conclude with design guidelines for open data portals catered to citizens."
+      bibtex-cite: "@inproceedings{Chua:2020:3391203.3391219,</br>
+        author = {Chua, Unisse C. and Santiago, Kyle L. and Ona, Ian Benedict M. and Peña, Romeo Manuel N. and Marasigan, Geremiah Zachary S. and Reyes, Paolo Gabriel A. Delos and Samson, Briane Paul V.},</br>
+        title = {From Access to Effective Use: Open Data Portals for Everyday Citizens},</br>
+        year = {2020},</br>
+        isbn = {9781450387682},</br>
+        publisher = {Association for Computing Machinery},</br>
+        address = {New York, NY, USA},</br>
+        url = {https://doi.org/10.1145/3391203.3391219},</br>
+        doi = {10.1145/3391203.3391219},</br>
+        booktitle = {Proceedings of the 2020 Symposium on Emerging Research from Asia and on Asian Contexts and Cultures},</br>
+        pages = {61–64},</br>
+        numpages = {4},</br>
+        keywords = {Open data, information seeking, user study},</br>
+        location = {Honolulu, HI, USA},</br>
+        series = {AsianCHI ’20}</br>
+        }"
+
+    - id: grit
+      title: "Designing Grit: Discovering Features Towards Supporting Novice Programmer DevOps Integration"
+      authors: Tyrone Justin Sta Maria, Gavin Raine Dizon, Vince Anthony Esquivel, Jordan Aiko Deja & Unisse Chua
+      year: 2020
+      venue: Asian HCI Symposium, CHI
+      acm: https://dl.acm.org/doi/abs/10.1145/3391203.3391214
+      doi: 10.1145/3391203.3391214
+      page: /papers/grit
+      file: /files/2020stamaria_grit_asianchi.pdf
+      cite: /papers/grit#cite
+      bibtex: /papers/grit#bibtex
+      figure: ../assets/png/grit.png
+      alt: Prototype for Grit
+      citation: "Tyrone Justin Sta Maria, Gavin Raine Dizon, Vince Anthony Esquivel, Jordan Aiko Deja, and Unisse Chua. 2020. Designing Grit: Discovering Features Towards Supporting Novice Programmer DevOps Integration. In Proceedings of the 2020 Symposium on Emerging Research from Asia and on Asian Contexts and Cultures (AsianCHI ’20). Association for Computing Machinery, New York, NY, USA, 41–44. DOI:https://doi.org/10.1145/3391203.3391214"
+      abstract: "DevOps is usually an industry approach that is practiced by seasoned and experienced programmers and developers. In most university settings especially in the Philippine context, DevOps is not usually part of the curriculum and in some cases are only introduced to learner programmers as an elective or as bonus material. We refer to these students in computing degree programs starting out in learning programming, as novice programmers. Upon graduation, these developers transition into industry roles where they are expected to be familiar with DevOps practices [18]. In most cases, they are not prepared, and fortunately, a great number of them are given training before fully transitioning into their hired roles. In this paper, we attempt to discover and design an intervention mechanism that can assist and prepare novice programmers to easily learn DevOps at an early stage. We gathered data and insights from novice programmers and inquired into their pains and struggles in learning and practicing DevOps. To help them in this process, we propose Grit, a prototype tool to support novice programmers in integrating DevOps. Initial insights provided affordances and design elements for a version control prototype with targetted intervention features. In the long run we intend to discover more insights involving the other stages in DevOps beyond version control."
+      bibtex-cite: "@inproceedings{StaMaria:2020:3391203.3391214,</br>
+        author = {Sta Maria, Tyrone Justin and Dizon, Gavin Raine and Esquivel, Vince Anthony and Deja, Jordan Aiko and Chua, Unisse},</br>
+        title = {Designing Grit: Discovering Features Towards Supporting Novice Programmer DevOps Integration},</br>
+        year = {2020},</br>
+        isbn = {9781450387682},</br>
+        publisher = {Association for Computing Machinery},</br>
+        address = {New York, NY, USA},</br>
+        url = {https://doi.org/10.1145/3391203.3391214},</br>
+        doi = {10.1145/3391203.3391214},</br>
+        booktitle = {Proceedings of the 2020 Symposium on Emerging Research from Asia and on Asian Contexts and Cultures},</br>
+        pages = {41–44},</br>
+        numpages = {4},</br>
+        keywords = {novice programmers, DevOps, programmer support},</br>
+        location = {Honolulu, HI, USA},</br>
+        series = {AsianCHI ’20}</br>
+        }"
+
+    - id: assystx
+      title: "ASSYSTYX: Supporting Collaboration in Course Loading Systems"
+      authors: Troy Michael Mirafuentes, Arvin Roi Ante, Mark Gavin Sanchez, Jordan Aiko Deja & Rafael Cabredo
+      year: 2020
+      venue: Philippine Computing Science Congress (PCSC)
+      file: /files/2020mirafuentes_assystx_pcsc.pdf
+      cite: /cite/assystx
+      # bibtex: /bibtex/assystx
+      figure: ../assets/png/assystx.png
+      alt: The prototype screen showing the list of courses
+      abstract: "In a university setting, academic timetabling has been an open opportunity for developers and system designers. It is usually focused on generating schedules, managing conflicts, accommodating constraints and even allocating respective logistical needs. There are several off-the-shelf and customized systems that have been developed to accommodate the varying needs of different universities and organizations. The usage and the underlying human factors when using these systems is another consideration that we can tackle with these enrollment systems. In this paper, we attempt to discover, design, implement an academic course scheduling system that considers user collaboration with other humans and with the computer itself. We iterated on developing a prototype for course scheduling, assigning of faculty and other pre-enrollment tasks. We observed stakeholders such as Department Chair, Academic Officers and other key personnel and inquired into their pains and struggles in academic course loading systems. To help them in this process, we present ASSYSTX: An online platform that supports collaboration between key personnel involved in enrollment systems. We also identified key collaboration points towards providing affordances that cater to the needs of these personnel."
+      citation: "Mirafuentes, T.M., Ante, A.R., Sanchez, M.G., Deja, J.A., & Cabredo, R. (2020). ASSYSTYX: Supporting Collaboration in Course Loading Systems. In Proceedings of the 20th Philippine Computing Science Congress."
+
+    - id: pixels
+      title: "Generating Adversarial Examples Using Uniform Pixels and Neighbor Aggregation"
+      authors: Glenn Paul P. Gara & Arnulfo Azcarraga
+      year: 2020
+      venue: Philippine Computing Science Congress (PCSC)
+      file: /files/2020gara_uniformpixels_pcsc.pdf
+      cite: /cite/pixels
+      # bibtex: /bibtex/pixels
+      figure: ../assets/png/pixels.png
+      alt: Adversarial examples
+      abstract: "Deep neural networks have gained popularity due to its exceptional performance on several challenging tasks such as image classification, object detection, semantic segmentation, and image generation. Unfortunately, these networks are highly vulnerable to carefully crafted human imperceptible perturbations based on socalled adversarial examples. Adversarial examples have been used to mislead deep neural networks into predicting an incorrect output (i.e. category, label or class), sometimes with high confidence. Most approaches in constructing adversarial inputs require access to the gradients of the network, which is applicable only to gradient-based techniques. Others require only some access to the output function making these methods model-agnostic. In this work, we propose a mechanism that considers the neural network as a black-box by assuming that the network output is observed based only on the examined inputs. We focus our experiments on a model-agnostic adversarial example generation. Specifically, without exploiting the network gradients, we show that by aggregating neighboring images of an input image represented within a low dimensional input space and combine this with a perturbation technique referred to as “uniform pixels”, both convolutional neural network and vanilla neural network are vulnerable to incorrect predictions. As such, the proposed method can serve as a basis for designing more robust neural network models."
+      citation: "Gara, G.P.P., & Azcarraga, A. (2020). Generating Adversarial Examples Using Uniform Pixels and Neighbor Aggregation. In Proceedings of the 20th Philippine Computing Science Congress."
+
+- name: 2019
+  papers:
+    - id: drowning-rumor
+      title: "Drowning Out Rumor: Dynamical Models of the Interaction between Spreaders of and Exposed to Truth and Rumor Spreading"
+      authors: Juan Miguel Augusto M. Feria, Michael Lawrence S. Oliva, Briane Paul V. Samson & Angelyn R. Lao
+      year: 2019
+      venue: Philippine Journal of Science (PJS)
+      link: http://philjournalsci.dost.gov.ph/images/pdf/pjs_pdf/vol148no4/drowning_out_rumor_.pdf
+      file: /files/2019feria_drowningoutrumor_pjs.pdf
+      page: /papers/drowning-rumor
+      cite: /papers/drowning-rumor#cite
+      bibtex: /papers/drowning-rumor#bibtex
+      figure: ../assets/png/drowning-rumor.png
+      alt: Toy network model of ignorant, exposed to, and spreader nodes.
+      abstract: "Social networking sites have become instrumental in spreading information online, which unfortunately includes rumors and misinformation. Past studies have investigated the spread of rumors without considering that truth may spread simultaneously. This study considers both the spread of truth and rumor and investigates the result of their coexistence in a population. We formulated the spreader-spreader interaction model and the exposed-spreader interaction model based on the epidemiological SEIR model. In the spreader-spreader interaction model, the spreaders try to influence the opposing spreaders whereas, in the exposed-spreader interaction model, the spreaders try to influence the exposed individuals from the opposing side. In our study, we calculated the reproduction numbers for truth and rumor, determined the stability of the model at the equilibrium points, and determined an approach for spreading truth while halting rumors. In the spreader-spreader model, we have shown that increasing the removal rate of Spreaders of Rumor decreases the prevalence of rumor in the population. Whereas in the exposed-spreader model, we showed that increasing the conversion rate of Exposed to Rumor to Exposed to Truth significantly increases the amount of Exposed to Truth in the population, thereby making it an effective mechanism for promoting the spread of truth. In conclusion, it is harder to control the information epidemic in the exposed-spreader model but, compared to the spreader-spreader model, information spreads faster according to the exposed-spreader model. For certain information to be endemic to a population, our study proposes that spreaders take advantage during the first few days of the information diffusion process."
+      citation: "Feria, J.M.A.M., Oliva, M.L.S., Samson, B.P.V. & Lao, A.R. (2019). Drowning Out Rumor: Dynamical Models of the Interaction between Spreaders of and Exposed to Truth and Rumor Spreading. Philippine Journal of Science, 148(4), 659–687. Retrieved from http://philjournalsci.dost.gov.ph/images/pdf/pjs_pdf/vol148no4/drowning_out_rumor_.pdf"
+      bibtex-cite: "@article{TAN201898,</br>
+        title = {Drowning Out Rumor: Dynamical Models of the Interaction between Spreaders of and Exposed to Truth and Rumor Spreading},</br>
+        journal = {Philippine Journal of Science},</br>
+        volume = {148},</br>
+        issue = {4},</br>
+        pages = {659 - 687},</br>
+        year = {2019},</br>
+        issn = {0031-7683},</br>
+        url = {http://philjournalsci.dost.gov.ph/images/pdf/pjs_pdf/vol148no4/drowning_out_rumor_.pdf},</br>
+        author = {Juan Miguel Augusto M. Feria and Michael Lawrence S. Oliva and Briane Paul V. Samson and Angelyn R. Lao},</br>
+        keywords = {dynamical systems, information epidemic, ordinary differential equations, rumor spread}</br>
+        }"
+
+    - id: factors-not-follow
+      title: Exploring Factors that Influence Connected Drivers to (Not) Use or Follow Recommended Optimal Routes
+      authors: Briane Paul V. Samson & Yasuyuki Sumi
+      year: 2019
+      venue: ACM CHI Conference on Human Factors in Computing Systems Proceedings (CHI)
+      doi: 10.1145/3290605.3300601
+      accept-rate: 23.8
+      page: /papers/factors-not-follow
+      acm: https://dl.acm.org/doi/10.1145/3290605.3300601?cid=99659319011 #https://dl.acm.org/authorize?N672083
+      arxiv: https://arxiv.org/abs/1901.06681
+      cite: /papers/factors-not-follow#cite
+      bibtex: /papers/factors-not-follow#bibtex
+      figure: ../assets/png/factors-not-follow.png
+      alt: Traced deviations of drivers
+      abstract: "Navigation applications are becoming ubiquitous in our daily navigation experiences. With the intention to circumnavigate congested roads, their route guidance always follows the basic assumption that drivers always want the fastest route. However, it is unclear how their recommendations are followed and what factors affect their adoption. We present the results of a semi-structured qualitative study with 17 drivers, mostly from the Philippines and Japan. We recorded their daily commutes and occasional trips, and inquired into their navigation practices, route choices and on-the-fly decision-making. We found that while drivers choose a recommended route in urgent situations, many still preferred to follow familiar routes. Drivers deviated because of a recommendation's use of unfamiliar roads, lack of local context, perceived driving unsuitability, and inconsistencies with realized navigation experiences. Our findings and implications emphasize their personalization needs, and how the right amount of algorithmic sophistication can encourage behavioral adaptation."
+      citation: "Samson, B.P.V. & Sumi, Y. (2019). Exploring Factors that Influence Connected Drivers to (Not) Use or Follow Recommended Optimal Routes. In CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019, Glasgow, Scotland UK. ACM, New York, NY, USA, 14 pages. DOI: https://doi.org/10.1145/3290605.3300601"
+      bibtex-cite: "@inproceedings{Samson:2019:EFI:3290605.3300601,</br>
+        author = {Samson, Briane Paul V. and Sumi, Yasuyuki},</br>
+        title = {Exploring Factors That Influence Connected Drivers to (Not) Use or Follow Recommended Optimal Routes},</br>
+        booktitle = {Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems},</br>
+        series = {CHI '19},</br>
+        year = {2019},</br>
+        isbn = {978-1-4503-5970-2},</br>
+        location = {Glasgow, Scotland Uk},</br>
+        pages = {371:1--371:14},</br>
+        articleno = {371},</br>
+        numpages = {14},</br>
+        url = {http://doi.acm.org/10.1145/3290605.3300601},</br>
+        doi = {10.1145/3290605.3300601},</br>
+        acmid = {3300601},</br>
+        publisher = {ACM},</br>
+        address = {New York, NY, USA},</br>
+        keywords = {advanced driver-assistance system, driving, navigation applications, navigation behavior, recommender systems},</br>
+        }"
+
+    - id: flow-chiuxid
+      title: Applying User-Centered Techniques in the Design of a Usable Mobile Musical Composition Tool
+      authors: Kevin Gray Chan, Jordan Aiko Deja, John Patrick Tobias, Allen Vincent Gonzales & Migo Andres Dancel
+      year: 2019
+      toappear: True
+      venue: International ACM In-Cooperation Human-Computer Interaction (HCI) and User Experience (UX) Conference (CHIuXiD)
+      file: /files/2019chan_flow_chiuxid19.pdf
+      cite: /cite/flow-chiuxid
+      bibtex: /bibtex/flow-chiuxid
+      figure: ../assets/png/flow-chiuxid.png
+      alt: Flow, a mobile musical composition tool
+      abstract: "In this study, we present the music composition tool Flow and how an interaction was designed that led towards introducing balance in the work of musicians across all stages in musical composition. Observation and user research led to having a deeper understanding of the various needs, gains and pain points musicians encounter when composing. Musicians and composers who participated in the study, came from varying levels of expertise from beginner (those with less than 7 years) and veteran (those with beyond 10 years experience). An iterative process of design and development was continuously employed which led to improving the interaction design within the prototype. The processes described in this study show how insights were uncovered from a comprehensive set of usability tests and inspections done. These insights led to the development of a more usable and acceptable musical composition tool as seen from the results in the user tests. It can be observed that varying levels of expertise in music composition leads to different expectations and needs with regards to a music composition prototype. Results of the user tests show that Flow achieved a level of satisfaction and usability at par with the industry-standard tools."
+      citation: "Chan, K.G., Deja, J.A., Tobias, J.P., Gonzales, A.V. & Dancel, M.A. (2019). Applying User-Centered Techniques in the Design of a Usable Mobile Musical Composition Tool. In Proceedings of the 5th International ACM In-Cooperation Human-Computer Interaction (HCI) and User Experience (UX) Conference, CHIuXiD '19 (CHIuXiD '19), Yohannes Kurniawan, Eunice Sari, and Josh Adi Tedjasaputra (Eds.). ACM, New York, NY, USA."
+
+    - id: trex-chiuxid
+      title: On Building Design Guidelines For An Interactive Machine Learning Sandbox Application
+      authors: Giselle Nodalo, Jose Ma Santiago III, Jolene Valenzuela & Jordan Aiko Deja
+      year: 2019
+      toappear: True
+      venue: International ACM In-Cooperation Human-Computer Interaction (HCI) and User Experience (UX) Conference (CHIuXiD)
+      file: /files/2019nodalo_trex_chiuxid19.pdf
+      cite: /cite/trex-chiuxid
+      bibtex: /bibtex/trex-chiuxid
+      figure: ../assets/png/trex-chiuxid.png
+      alt: TREX, a virtual sandbox for building machine learning models
+      abstract: "There are several machine learning suites, applications and platforms that are readily-available right now. However, these applications require a basic foundation in machine learning making them appear difficult to configure. We introduce the use of the Sandbox approach with the goal of designing alternative programming interfaces and interactions for machine learning tasks. A set of guidelines have been drafted supported with initial user tests to validate the proposed design framework. Ten (10) undergraduate and graduate students with novice experience in machine learning participated in structured interviews to formulate programming patterns and styles that were used to draft the guidelines based on the literary review. These insights were analyzed using UX Research techniques to form a general problem statement. Initial analysis of the user insights suggested that a visual sandbox approach similar to Scratch helps reduce the steepness of the learning curve. The preliminary design guidelines we drafted focused on the three design factors namely System Intent, Interaction, and Algorithm Visualization. From these guidelines we produced an initial version of the prototype that will be subject to further testing and validation."
+      citation: "Nodalo, G., Santiago III, J.M., Valenzuela, J. & Deja, J.A. (2019). On Building Design Guidelines For An Interactive Machine Learning Sandbox Application. In Proceedings of the 5th International ACM In-Cooperation Human-Computer Interaction (HCI) and User Experience (UX) Conference, CHIuXiD '19 (CHIuXiD '19), Yohannes Kurniawan, Eunice Sari, and Josh Adi Tedjasaputra (Eds.). ACM, New York, NY, USA."
+
+    - id: 360-chiuxid
+      title: A Research through Design (Rtd) Approach in the Design of a 360-Video Platform Interface
+      authors: Brian Michael Poblete, Emir Christopher Mendoza, Julian Paolo De Castro, Jordan Aiko Deja & Giselle Nodalo
+      year: 2019
+      toappear: True
+      venue: International ACM In-Cooperation Human-Computer Interaction (HCI) and User Experience (UX) Conference (CHIuXiD)
+      file: /files/2019poblete_360vid_chiuxid19.pdf
+      cite: /cite/360-chiuxid
+      bibtex: /bibtex/360-chiuxid
+      figure: ../assets/png/360-chiuxid.png
+      alt: 360-view video stitched from crowd sourced videos
+      abstract: "Many video interfaces enable multiple sources of input video in displaying and streaming vital information. Most of these setups can be seen in deployed security systems and observer footage that are usually used for surveillance and crisis monitoring. In this study, we consider a crowd-sourced approach to multiple sources of video and aim to design an interface towards multiple possible use-cases. In designing this interface, we performed field studies and on site surveying along with initial user tests to validate our ideas. Research through design was added into the methodology to consider multiple point of views considering varying sources of perspective. Specifically, we catered the design of an initial interface in helping multiple users understand several views from multiples cameras, angles and position. The participants chosen for this study are students who have at least the basic technological ability of using a smartphone and taking a video with it. We intend to extend this study by validating the 360-view and designing an algorithm towards stitching one final view crowd-sourced from multiple cameras and streamers."
+      citation: "Poblete, B.M., Mendoza, E.C., De Castro, J.P., Deja, J.A. & Nodaloo, G. (2019). A Research through Design (Rtd) Approach in the Design of a 360-Video Platform Interface. In Proceedings of the 5th International ACM In-Cooperation Human-Computer Interaction (HCI) and User Experience (UX) Conference, CHIuXiD '19 (CHIuXiD '19), Yohannes Kurniawan, Eunice Sari, and Josh Adi Tedjasaputra (Eds.). ACM, New York, NY, USA."
+
+- name: 2018
+  papers:
+    - id: flow-hcii
+      title: "Flow: A Musical Composition Tool Using Gesture Interactions and Musical Metacreation"
+      authors: Jordan Aiko Deja, Kevin Gray Chan, Migo Andres Dancel, Allen Vincent Gonzales & John Patrick Tobias
+      year: 2018
+      venue: International Conference on Human-Computer Interaction (HCII)
+      file: /files/2018deja_flow_hcii18.pdf
+      cite: /cite/flow-hcii
+      bibtex: /bibtex/flow-hcii
+      figure: ../assets/png/flow-hcii.png
+      alt: Flow, a mobile musical composition tool
+      abstract: "Music composition is a delicate and disciplined art form that is tedious and repetitive. In this preliminary study, we explore the design of an interaction that aims to balance the work of composers with the help of a mobile application. The process of musical composition is not easy for composers. Certain tasks such as figuring out succeeding notes often requires trial-and-error, as well as knowledge of certain theories. Existing technology has employed musical metacreation to assist in this process. This endows machines with the artificial creative capacity to perform musical tasks. In review, the existing technology has not been generally-used in all stages of the musical composition process. By combining several interaction technologies, composers can benefit by being able to do their tasks with significantly less cognitive load and time."
+      citation: "Deja J.A., Chan K.G., Dancel M.A., Gonzales A.V., Tobias J.P. (2018) Flow: A Musical Composition Tool Using Gesture Interactions and Musical Metacreation. In: Stephanidis C. (eds) HCI International 2018 – Posters' Extended Abstracts. HCI 2018. Communications in Computer and Information Science, vol 852. Springer, Cham"
+
+    - id: myosl
+      title: "MyoSL: A Framework for Measuring Usability of Two-Arm Gestural Electromyography for Sign Language"
+      authors: Jordan Aiko Deja, Patrick Arceo, Darren Goldwin David, Patrick Lawrence Gan & Ryan Christopher Roque
+      year: 2018
+      venue: International Conference on Universal Access in Human-Computer Interaction (UAHCI)
+      file: /files/2018deja_myosl_uahci18.pdf
+      cite: /cite/myosl
+      bibtex: /bibtex/myosl
+      figure: ../assets/png/myosl.png
+      alt: Myo for Sign Language
+      abstract: "Several Sign Language (SL) systems have been developed using various technologies: Kinect, armbands, and gloves. Majority of these studies never considered user experience as part of their approach. With that, we propose a new framework that eases usability by employing two-arm gestural electromyography instead of typical vision-based systems see Fig. 5. Interactions can be considered seamless and natural with this way. In this preliminary study, we conducted focus group discussions and usability tests with signers. Based on the results of the usability tests, 90% of respondents found the armband comfortable. The respondents also stated that the armband was not intrusive when they tried to perform their sign gestures. At the same time, they found it aesthetically pleasing. Additionally, we produced an initial prototype from this experiment setup and tested them on several conversational scenarios. By using this approach, we enable an agile framework that caters the needs of the signer-user."
+      citation: "Deja J.A., Arceo P., David D.G., Gan P.L., Roque R.C. (2018) MyoSL: A Framework for Measuring Usability of Two-Arm Gestural Electromyography for Sign Language. In: Antona M., Stephanidis C. (eds) Universal Access in Human-Computer Interaction. Methods, Technologies, and Users. UAHCI 2018. Lecture Notes in Computer Science, vol 10907. Springer, Cham"
+
+    - id: gridlock
+      title: Optimizing the Efficiency, Vulnerability and Robustness of Road-based Para-transit Networks using Genetic Algorithm
+      authors: Briane Paul V. Samson, Gio Anton Velez, Joseph Ryan Nobleza, David Sanchez & Jan Tristan Milan
+      year: 2018
+      venue: International Conference on Computational Science (ICCS)
+      doi: 10.1007/978-3-319-93698-7_1
+      accept-rate: 28
+      file: /files/2018samson_gridlock_iccs.pdf
+      cite: /cite/gridlock
+      bibtex: /bibtex/gridlock
+      figure: ../assets/png/gridlock.png
+      alt: Generated stops of Gridlock
+      abstract: "In the developing world, majority of people usually take para-transit services for their everyday commutes. However, their informal and demand-driven operation, like making arbitrary stops to pick up and drop off passengers, has been inefficient and poses challenges to efforts in integrating such services to more organized train and bus networks. In this study, we devised a methodology to design and optimize a road-based para-transit network using a genetic algorithm to optimize efficiency, robustness, and invulnerability. We first generated stops following certain geospatial distributions and connected them to build networks of routes. From them, we selected an initial population to be optimized and applied the genetic algorithm. Overall, our modified genetic algorithm with 20 evolutions optimized the 20% worst performing networks by 84% on average. For one network, we were able to significantly increase its fitness score by 223%. The highest fitness score the algorithm was able to produce through optimization was 0.532 from a score of 0.303."
+      citation: "Samson, B.P.V., Velez, G.A.T., Nobleza, J.R., Sanchez, D., & Milan, J.T. (2018). In: Shi Y. et al. (eds) Computational Science – ICCS 2018. 18th International Conference on Computational Science - ICCS 2018. Lecture Notes in Computer Science, vol 10860. Springer, Cham. DOI: https://doi.org/10.1007/978-3-319-93698-7_1"
+
+    - id: heuristic-web
+      title: Automating Heuristic Evaluation of Websites Using Convolutional Neural Networks
+      authors: Austin Ryan Fernandez, Jordan Aiko Deja & Briane Paul V. Samson
+      year: 2018
+      venue: Asian HCI Symposium, CHI
+      acm: https://dl.acm.org/doi/10.1145/3205851.3205854?cid=99659319011 #https://dl.acm.org/authorize?N675125
+      doi: 10.1145/3205851.3205854
+      cite: /cite/heuristic-web
+      bibtex: /bibtex/heuristic-web
+      figure: ../assets/png/heuristic-web.png
+      alt: Sample website used for the model
+      citation: "Ryan Austin Fernandez, Jordan Aiko Deja, and Briane Paul V. Samson. 2018. Automating Heuristic Evaluation of Websites Using Convolutional Neural Networks. In Proceedings of the Asian HCI Symposium'18 on Emerging Research Collection (Asian HCI Symposium'18), Eunice Sari (Ed.). ACM, New York, NY, USA, 9-12. DOI: https://doi.org/10.1145/3205851.3205854"
+      abstract: "Heuristic evaluation is determining the usability of a user interface using predetermined heuristics. This task relies on heavy pattern recognition and experience which makes it suitable for deep learning techniques. A computational model is proposed which uses convolutional neural networks to automate heuristic evaluation."
+
+    - id: emote-music
+      title: On Building an Emotion-based Music Composition Companion
+      authors: Jordan Aiko Deja, Rafael Cabredo & Toni-Jan Keith Monserrat
+      year: 2018
+      venue: Asian HCI Symposium, CHI
+      link: https://dl.acm.org/citation.cfm?id=3205859
+      doi: 10.1145/3205851.3205859
+      cite: /cite/emote-music
+      bibtex: /bibtex/emote-music
+      citation: "Jordan Aiko Deja, Rafael Cabredo, and Toni-Jan Keith Monserrat. 2018. On Building an Emotion-based Music Composition Companion. In Proceedings of the Asian HCI Symposium'18 on Emerging Research Collection (Asian HCI Symposium'18), Eunice Sari (Ed.). ACM, New York, NY, USA, 25-28. DOI: https://doi.org/10.1145/3205851.3205859"
+      abstract: "In this paper, we present a draft framework and plan that describes the considerations in the creation of an augmented companion for musical composers that is emotion-based. The goal is to design an interaction that assists novice musical composers by helping them cope with creative blocks. The emotional consideration of a musical piece is heavily-considered in the framework. A description of a prototype tool in its early stages along with future work have been included."
+
+    - id: seight-m2vip
+      title: Towards an Automated Plant Height Measurement and Tiller Segmentation of Rice Crops using Image Processing
+      authors: Karol Paulette Constantino, Elisha Jeremy Gonzales, Lordd Michael Lazaro, Ellen Chelsea Serrano & Briane Paul V. Samson
+      year: 2018
+      venue: Mechatronics and Machine Vision in Practice 3
+      link: https://doi.org/10.1007/978-3-319-76947-9_11
+      doi: 10.1007/978-3-319-76947-9_11
+      cite: /cite/seight-m2vip
+      bibtex: /bibtex/seight-m2vip
+      figure: ../assets/png/seight.png
+      alt: System architecture to identify height and tiller segmentation
+      citation: "Constantino K.P., Gonzales E.J., Lazaro L.M., Serrano E.C., Samson B.P.V. (2018). Towards an Automated Plant Height Measurement and Tiller Segmentation of Rice Crops using Image Processing. In: Billingsley J., Brett P. (eds) Mechatronics and Machine Vision in Practice 3. Springer, Cham. DOI: https://doi.org/10.1007/978-3-319-76947-9_11"
+      abstract: "Plant phenotyping is the process of completely assessing the basic and complex characteristics of the plant, which includes height and tiller count. The International Rice Research Institute (IRRI) researchers does plant phenotyping to observe changes in the physical characteristics of the C4 rice crops after modifying its genetic makeup to increase yields without using too much water, land and fertilizer resources. As this advances, the traditional way of observing phenotypic data is still trailing behind. Automated plant phenotyping offers an effective substitute because it allows a regulated image analysis that can be reproduced due to the automation. This is to address the lack in accuracy, reproducibility and traceability in manual phenotyping. With this, an image processing system that automates the measuring of height and the counting of tillers of a rice crop, specifically the C4 rice, was developed. The system applies HSV and Thresholding for preprocessing, Canny Edge Detection (tiller) and Zhang-Suen Thinning Algorithm (height) for the plant structure and tracing and conversion for measuring the height. Tiller counting is done by counting the cluster of pixels in a given region of interest. Four experiments were conducted using different setups and different combinations of algorithms. The fourth experiment was able to get an average percentage error of 76.14% for the tiller count and 238.11% for the height measurement. Presence of shadows and hanging leaves heavily affected the results of this experiment."
+
+    - id: luntian-m2vip
+      title: Towards an Automated, High-Throughput Identification of the Greenness and Biomass of Rice Crops
+      authors: Rhett Jason Buzon, Louis Timothy Dumlao, Micaela Angela Mangubat, Jan Robert Villarosa & Briane Paul V. Samson
+      year: 2018
+      venue: Mechatronics and Machine Vision in Practice 3
+      link: https://doi.org/10.1007/978-3-319-76947-9_9
+      doi: 10.1007/978-3-319-76947-9_9
+      cite: /cite/luntian-m2vip
+      bibtex: /bibtex/luntian-m2vip
+      figure: ../assets/png/luntian.png
+      alt: Cleaned image of a rice plant
+      citation: "Buzon R.J.C., Dumlao L.T.D., Mangubat M.A.C., Villarosa J.R.D., Samson B.P.V. (2018). Towards an Automated, High-Throughput Identification of the Greenness and Biomass of Rice Crops. In: Billingsley J., Brett P. (eds) Mechatronics and Machine Vision in Practice 3. Springer, Cham. DOI: https://doi.org/10.1007/978-3-319-76947-9_9"
+      abstract: "Plant phenotyping is a vital process that helps farmers and researchers assess the growth, health, and development of a plant. In the Philippines, phenotyping is done manually, with each plant specimen measured and assessed one by one. However, this process is laborious, time-consuming, and prone to human error. Automated phenotyping systems have attempted to address this problem through the use of cameras and image processing, but these systems are proprietary and designed for plants and crops which are not commonly found in the Philippines. In order to alleviate this problem, research was conducted to develop an automated, high-throughput phenotyping system that automates the identification of plant greenness and plant biomass of rice. The system was developed in order to provide an efficient way of phenotyping rice by automating the process. It implements various image processing techniques and was tested in a screen house setup containing numerous rice variants. The system's design was finalized in consultation with and tested by rice researchers. The respondents were pleased with the system's usability and remarked that it would be beneficial to their current process if used. To evaluate the system's accuracy, the generated greenness and biomass values were compared with the values obtained through the manual process. The greenness module registered a 21.9792% mean percent error in comparison to using the Leaf Color Chart. On the other hand, the biomass module yielded 206.0700% mean percent error using compressed girth measurements."
+
+    - id: eeg-ux
+      title: "Using EEG Emotion Models in Viewer Experience Design: An Exploratory Study"
+      authors: Jordan Aiko Deja & Rafael Cabredo
+      year: 2018
+      venue: International Conference on Human-Computer Interaction and User Experience in Indonesia (CHIuXiD)
+      doi: 10.1145/3205946.3205958
+      link: https://dl.acm.org/citation.cfm?id=3205958
+      cite: /cite/eeg-ux
+      bibtex: /bibtex/eeg-ux
+      figure: ../assets/png/eeg-ux.png
+      alt: EEG signals while watching a draft commercial
+      abstract: "TV Commercials are often considered to be noise that viewers see in between their favorite shows. These have been used for mostly commercial and advertising purposes. Such practice has been an established one for decades. Most advertising researchers have always relied on traditional means and techniques in measuring viewer experiences and understanding conversion rates from these TV Commercials. In this work-in-progress, we present our preliminary findings from an exploratory study on understanding consumer behaviors and emotions especially when watching TV Commercials. Target consumers for a specific commercial product underwent one-on-one semi-structured interviews and from viewing sessions where their EEG data were collected using the 5-channel EMOTIV Insight headset. To triangulate the emotion modeling phase, external observers referred to as coders annotated their emotions with the aid of emotion recognition via facial recognition. Initial Analysis of the interviews along with the early version of the model revealed several interesting points on visual and audio elements that triggered viewer valence. The collection of EEG data was also able to uncover a few insights that aided in the design of a better viewing experience for the target consumers. We intend to expand the findings in the future work to build a model from a bigger data and user base along with a wider array of emotions to choose from. Also, we intend to employ more advanced experiment designs to determine if we can directly correlate viewer experiences into actual product and commercial conversion."
+      citation: "Jordan Aiko Deja and Rafael Cabredo. 2018. Using EEG Emotion Models in Viewer Experience Design: An Exploratory Study. In Proceedings of the 4th International Conference on Human-Computer Interaction and User Experience in Indonesia, CHIuXiD '18 (CHIuXiD '18), Yohannes Kurniawan, Eunice Sari, and Josh Adi Tedjasaputra (Eds.). ACM, New York, NY, USA, 82-88. DOI: https://doi.org/10.1145/3205946.3205958"
+
+    - id: airguitar
+      title: Building Guitar Strum Models for an Interactive Air Guitar Prototype
+      authors: John Edel Tamani, Jan Christian Blaise Cruz, Joshua Raphaelle Cruzada, Jolene Valenzuela, Kevin Gray Chan & Jordan Aiko Deja
+      year: 2018
+      venue: International Conference on Human-Computer Interaction and User Experience in Indonesia (CHIuXiD)
+      doi: 10.1145/3205946.3205972
+      link: https://dl.acm.org/citation.cfm?id=3205972
+      cite: /cite/airguitar
+      bibtex: /bibtex/airguitar
+      figure: ../assets/png/airguitar.png
+      alt: Guitar strumming movement while wearing Myo
+      abstract: "In this work-in-progress, we propose the design of an interaction that allows a guitar player to air guitar with the use of forearm Electromyogram (EMG). We integrate results from our previous study where we have used the same medium in training a classifier to recognize standard guitar chords. In this paper, we aim to train a classifier this time to recognize the different types of strums when playing the guitar. We collected data from ten (10) participants using the Myo armband doing strum repetitions for at least fifty (50) times. The strumming EMG data was then pre-processed and fed into a machine learning task to build a model. A k-Nearest Neighbor (k=11) classifier was trained and yielded an accuracy of at least 46% accuracy with a kappa statistic of 0.3712. Model results de- scribe that data size needs to be improved while considering equally the same set of features. Additionally, user insights and feedback on the armband usage as an alternative creative medium was gathered from our target respondents. Different views and insights are stated which opened opportunities for the improvement of the actual air guitar concept as a creativity tool."
+      citation: "John Edel Tamani, Jan Christian Blaise Cruz, Joshua Raphaelle Cruzada, Jolene Valenzuela, Kevin Gray Chan, and Jordan Aiko Deja. 2018. Building Guitar Strum Models for an Interactive Air Guitar Prototype. In Proceedings of the 4th International Conference on Human-Computer Interaction and User Experience in Indonesia, CHIuXiD '18 (CHIuXiD '18), Yohannes Kurniawan, Eunice Sari, and Josh Adi Tedjasaputra (Eds.). ACM, New York, NY, USA, 18-22. DOI: https://doi.org/10.1145/3205946.3205972"
+
+    - id: autodidac
+      title: "AuToDiDAC: Automated Tool for Disease Detection and Assessment for Cacao Black Pod Rot"
+      authors: Daniel Stanley Tan, Robert Neil Leong, Ann Franchesca Laguna, Courtney Anne Ngo, Angelyn Lao, Divina M. Amalin & Dionisio G. Alvindia
+      year: 2018
+      venue: Crop Protection
+      link: https://doi.org/10.1016/j.cropro.2017.09.017
+      doi: 10.1016/j.cropro.2017.09.017
+      cite: /cite/autodidac-crop
+      bibtex: /bibtex/autodidac-crop
+      figure: ../assets/png/autodidac.png
+      alt: Cleaned image of a rice plant
+      citation: "Tan, D.S., Leong, R.N., Laguna, A.F., Ngo, C.A., Lao A., Amalin, D., Alvindia, D. (2018). AuToDiDAC: Automated Tool for Disease Detection and Assessment for Cacao Black Pod Rot. In: Crop Protection. DOI: https://doi.org/10.1016/j.cropro.2017.09.017"
+      abstract: "Pest control strategies for crop diseases highly depend on visual inspection to assess the severity of the infection, which usually lead to inconsistencies: either over or under assessment. These inconsistencies could be attributed to the limitations of humans to perceive small differences. A more precise disease assessment is needed for better pest management decision, which will result to a more efficient utilization and allocation of resources for farm inputs. This translates to a better income for cacao farmers. This paper introduces a mobile application named AuToDiDAC or Automated Tool for Disease Detection and Assessment for Cacao Black Pod Rot (BPR). AuToDiDAC automatically detects, separates, and assesses the infection level of BPR in cacao through image processing and machine learning techniques. It gives the farmers the capacity to objectively monitor and report the infection level of the BPR compared to the common visual rating for plant disease level of infection. Pixel-level accuracy test of the tool showed an average of 84% accuracy on an independent test set of ten cacao pod images."
+
+- name: 2017
+  papers:
+    - id: swarm
+      title: Crowd Dynamics and Control in High-Volume Metro Rail Stations
+      authors: Briane Paul V. Samson, Crisanto Aldanese IV, Deanne Moree Chan, Jona Joyce San Pascual & Ma. Victoria Sido
+      year: 2017
+      venue: International Conference on Computational Science (ICCS)
+      doi: 10.1016/j.procs.2017.05.097
+      accept-rate: 27.7
+      file: /files/2017samson_swarm_iccs.pdf
+      cite: /cite/swarm
+      bibtex: /bibtex/swarm
+      figure: ../assets/png/swarm.png
+      alt: Annotated video screen capture of a station's concourse area
+      abstract: "Overcrowding in mass rapid transit stations is a chronic issue affecting daily commute in Metro Manila, Philippines. As a high-capacity public transportation, the Metro Rail Transit has been operating at a level above its intended capacity of 350,000 passengers daily. Despite numerous efforts in implementing an effective crowd control scheme, it still falls short in containing the formation of crowds and long lines, thus affecting the amount of time before they can proceed to the platforms. A crowd dynamics model of commuters in one of the high-volume terminal stations, the Taft Ave station, was developed to help discover emergent behavior in crowd formation and assess infrastructure preparedness. The agent-based model uses static floor fields derived from the MRT3 live feed, and implements a number of social force models to optimize the path-finding of the commuter agents. Internal face validation, historical validation and parameter variability-sensitivity analysis were employed to validate the crowd dynamics model and assess different operational scenarios. It was determined that during peak hours, when the expected crowd inflow may reach up to 7,500 commuters, at least 11 ticket booths and 6 turnstiles should be open to have low turnaround times of commuters. For non-peak hours, at least 10 ticket booths and 5 turnstiles are needed to handle a crowd inflow reaching up to 5,000 commuters. In the current set-up, the usual number of ticket booths open in the MRT Taft Station is 11, and there are usually 6 turnstiles open. It was observed that as the crowd inside the station increases to 200-250 commuters, there is a significant increase in the increase rate of the turnaround times of the commuters, which signifies the point at which the service provided starts to degrade and when officials should start to intervene."
+      citation: "Samson, B.P.V., Aldanese IV, C., Chan, D.M., San Pascual, J.J., & Sido, M.V.A. (2017). 17th International Conference on Computational Science - ICCS 2017. Procedia Computer Science, Volume 108, 2017, Pages 195-204. DOI: https://doi.org/10.1016/j.procs.2017.05.097"
+
+    - id: congestion-mrt
+      title: Analyzing Congestion Dynamics in Mass Rapid Transit using Agent-Based Modeling
+      authors: Briane Paul V. Samson, Cymon Marcaida, Eloisa Gervasio, Ravi Militar & Jerome Ibañez
+      year: 2017
+      venue: Philippine Computing Science Congress (PCSC)
+      file: /files/2017samson_mrtmodel_pcsc.pdf
+      cite: /cite/congestion-mrt
+      bibtex: /bibtex/congestion-mrt
+      award: Best Paper Honorable Mention
+      figure: ../assets/png/congestion-mrt.png
+      alt: Snippet of the agent-based model for MRT3
+      abstract: "Despite being designed to accommodate only 300,000 passengers, Manila's Metro Rail Transit or MRT3 is currently serving more than 500,000 passengers daily. is over-utilization has resulted into worn down coaches and facilities, and most importantly, passenger delays. In this paper, we present an agent-based model for a Philippine mass rapid transit, particularly MRT3. The agent-based model uses passenger, train, and station agents, and allows the user to run different operational scenarios. Multiple scenarios were simulated, each having different parameters to differentiate their effects to the passenger congestion dynamics of MRT3. It was observed that passenger waiting time is at its minimum when the train speed and number of trains deployed is at their maximum values, 80kph and 20 trains, respectively. However, maintaining their default speed of 50kph and decreasing headway between trains to 1 minute will lead to a drastic increase in passenger waiting and journey times, negatively affecting passenger congestion at the platforms."
+      citation: "Samson, B.P.V., Marcaida, C.M., Gervasio, E.A., Militar, R., & Ibañez, J. (2017). Analyzing Congestion Dynamics in Mass Rapid Transit using Agent-Based Modeling. In Proceedings of the 17th Philippine Computing Science Congress."
+
+    - id: guitar-model
+      title: Towards Modeling Guitar Chord Fretboard Finger Positioning using Electromyography
+      authors: Jordan Aiko Deja, John Patrick Tobias, Ryan Christopher Roque, Darren Goldwin David & Kevin Gray Chan
+      year: 2017
+      venue: Philippine Computing Science Congress (PCSC)
+      file: /files/2017deja_guitar_pcsc17.pdf
+      cite: /cite/guitar-model
+      bibtex: /bibtex/guitar-model
+      figure: ../assets/png/guitar-model.png
+      alt: Snippet of the agent-based model for MRT3
+      abstract: "We explore the use of forearm electromyography (EMG) as a gestural input interface, or the captured biofeedback signals found in the muscles, towards modeling how beginner and seasoned guitar users plot chords in the fretboard. We intend to contribute to a paradigm of studies that propose a new set of interactions with an existing device, integrating machine learning techniques. Data was collected from ten(10) participants using the Myo™muscle armband. Data on the forearm EMG signals when fingers fret the chords A to F were recorded, preprocessed and transformed into a balanced and normalized dataset that was later on fed into a machine learning task in order to build a model. The model performs with an accuracy of at least 79% with 0.8 kappa statistic following a Bayesian classifier. Such model is expected to be used to train the computer and early learners of the guitar possibly with the goal of creating a synthesizer without any more requiring a MIDI interface or an actual guitar. This can be pushed further towards building an air guitar model."
+      citation: "Deja, J.A., Tobias, J.P., Roque, R.C., David, D.G. & Chan, K.G. (2017). Towards Modeling Guitar Chord Fretboard Finger Positioning using Electromyography. In Proceedings of the 17th Philippine Computing Science Congress."
+
+- name: 2016
+  papers:
+    - id: cbmstool
+      title: A Web-based CBMS Dataset Visualization and Simulation Tool
+      authors: Marcos, N., Largoza, G., Briane Paul V. Samson, Jelvin Base, Lawrence Patrick Calulo, Bervyn Co & Charles Lo
+      year: 2016
+      venue: DLSU Research Congress
+      file: /files/2016marcos_cbmstool_dlsurc.pdf
+      cite: /cite/cbmstool
+      bibtex: /bibtex/cbmstool
+      figure: ../assets/png/cbms.png
+      alt: Map visualization of household data
+      citation: "Marcos, N., Largoza, G., Samson, B.P.V., Base, J.J., Calulo, L.P., Co, B. & Lo C. (2016). A Web-based CBMS Dataset Visualization and Simulation Tool. In Proceedings of the DLSU Research Congress 2016, volume 4."
+      abstract: "A visualization and simulation tool for community-based datasets, from Angelo King Institute (AKI) of De La Salle University, called Community-Based Monitoring System (CBMS) is designed. Currently, there is no local visualization and simulation tool for CBMS data, which were gathered from individual households from various barangays in the country. The data in the CBMS dataset is mainly categorized into eight key indicators considered to be the basic needs of a local government unit and these are health, nutrition, housing, water and sanitation, education, income, employment, and peace and order. This research is useful not only for government officials, and local communities in creating or formulating policies, but also for economists. This tool is developed to give policymakers and program implementors necessary information to study the effect of macroeconomic reforms and different kinds of policy shocks. The application is designed to be web-based. It allows users to upload and extract data from the CBMS dataset through the data management module, to visualize the data with the use of maps (over Google Maps) and charts to provide a more accessible summary of the conditions inside a community, and simulate new indicators by providing simple formulas and view the results of effects adjusting the indicator reference values. Through the results based on economic computations performed on the data, this can help the government units in deciding what policies to implement in a certain community. Several prototypes were presented to CBMS AKI and various local government units in order to consider their needs and preferences. The final application user-interface and features were deemed very acceptable to the intended users."
+
+# - name: Short Papers/Posters
+#   papers:
+#     - id: taxidash
+#       title: "Taxi Dash: Serendipitous Discovery of Taxi Carpool Riders"
+#       authors: Briane Paul V. Samson & Yasuyuki Sumi
+#       year: 2018
+#       venue: EAI International Conference on Mobile Computing, Applications and Services (MobiCASE)
+#       file: /files/2018samson_taxidash_mobicase.pdf
+#       cite: /cite/taxidash
+#       bibtex: /bibtex/taxidash
+#       figure: ../assets/png/taxidash.png
+#       alt: Sample use case of Taxidash
+#       citation: "Samson, B.P.V. & Sumi, Y. (2018). Taxi Dash: Serendipitous Discovery of Taxi Carpool Riders. In: Murao K., Ohmura R., Inoue S., Gotoh Y. (eds) Mobile Computing, Applications, and Services. MobiCASE 2018. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 240. Springer, Cham."
+#       abstract: "During winter, scheduled bus services can experience delays in locations where extreme and persistent snowfall affect road conditions. Commuters rushing to school or work often choose more flexible modes like taxis. However, taxi fares are more expensive for a single passenger, most especially students. In this paper, we present the design and implementation of a carpool application for taxi services in Hakodate, Japan. Considering the high level of shyness among Japanese university students, the application intends to facilitate serendipitous discovery and group formation among Japanese students expressing intent to take taxi services."

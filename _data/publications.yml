@@ -1,3 +1,268 @@
+- name: 2026
+  papers:
+    - id: first-contact
+      title: "First Contact Matters: Exploring Pedestrian Perceptions of a Drone-Based Crossing Companion"
+      authors: Daphne Janelyn Go, Harvey Shawn Chua, Robert Joachim Encinas, Kyle Carlo Lasala, Lanz Kendall Lim, Maria Monica Manlises, Tyler Justin Tan & Jordan Aiko Deja
+      year: 2026
+      venue: "2026 IEEE 35th International Conference on Robot and Human Interactive Communication (RO-MAN)"
+      link:
+      doi:
+      file:
+      page: /papers/first-contact
+      cite: /papers/first-contact#cite
+      bibtex: /papers/first-contact#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for First Contact Matters: Exploring Pedestrian Perceptions of a Drone-Based Crossing Companion."
+      abstract: ""
+      citation: "Daphne Janelyn Go, Harvey Shawn Chua, Robert Joachim Encinas, Kyle Carlo Lasala, Lanz Kendall Lim, Maria Monica Manlises, Tyler Justin Tan & Jordan Aiko Deja (2026). First Contact Matters: Exploring Pedestrian Perceptions of a Drone-Based Crossing Companion. 2026 IEEE 35th International Conference on Robot and Human Interactive Communication (RO-MAN), 1510–1515."
+      bibtex-cite: "@inproceedings{go2026first,</br>\n  title={First Contact Matters: Exploring Pedestrian Perceptions of a Drone-Based Crossing Companion},</br>\n  author={Go, Daphne Janelyn and Chua, Harvey Shawn and Encinas, Robert Joachim and Lasala, Kyle Carlo and Lim, Lanz Kendall and Manlises, Maria Monica and Tan, Tyler Justin and Deja, Jordan Aiko},</br>\n  booktitle={2026 IEEE 35th International Conference on Robot and Human Interactive Communication (RO-MAN)},</br>\n  pages={1510--1515},</br>\n  year={2026},</br>\n  organization={IEEE}</br>\n}"
+
+    - id: beyond-faders
+      title: "Beyond Faders: Understanding 6DoF Gesture Ecologies in Music Mixing"
+      authors: Jeremy Wertheim Co Chen, Rendell Christian Ngo, Cedric Matthew Yu, Hans Emilio Lumagui, Ethan Badayos & Jordan Aiko Deja
+      year: 2026
+      venue: "Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems"
+      link:
+      doi:
+      file:
+      page: /papers/beyond-faders
+      cite: /papers/beyond-faders#cite
+      bibtex: /papers/beyond-faders#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for Beyond Faders: Understanding 6DoF Gesture Ecologies in Music Mixing."
+      abstract: ""
+      citation: "Jeremy Wertheim Co Chen, Rendell Christian Ngo, Cedric Matthew Yu, Hans Emilio Lumagui, Ethan Badayos & Jordan Aiko Deja (2026). Beyond Faders: Understanding 6DoF Gesture Ecologies in Music Mixing. Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems, 1–5."
+      bibtex-cite: "@inproceedings{co2026beyond,</br>\n  title={Beyond Faders: Understanding 6DoF Gesture Ecologies in Music Mixing},</br>\n  author={Co Chen, Jeremy Wertheim and Ngo, Rendell Christian and Yu, Cedric Matthew and Lumagui, Hans Emilio and Badayos, Ethan and Deja, Jordan Aiko},</br>\n  booktitle={Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems},</br>\n  pages={1--5},</br>\n  year={2026}</br>\n}"
+
+    - id: feelings-not-feel
+      title: "Feelings, Not Feel: Affective Audio-Visual Pseudo-Haptics in Hand-Tracked XR"
+      authors: Kristian Paolo David, Mikkel Dominic Gamboa, Tyrone Justin Sta. Maria & Jordan Aiko Deja
+      year: 2026
+      venue: "Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems"
+      link:
+      doi:
+      file:
+      page: /papers/feelings-not-feel
+      cite: /papers/feelings-not-feel#cite
+      bibtex: /papers/feelings-not-feel#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for Feelings, Not Feel: Affective Audio-Visual Pseudo-Haptics in Hand-Tracked XR."
+      abstract: ""
+      citation: "Kristian Paolo David, Mikkel Dominic Gamboa, Tyrone Justin Sta. Maria & Jordan Aiko Deja (2026). Feelings, Not Feel: Affective Audio-Visual Pseudo-Haptics in Hand-Tracked XR. Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems, 1–5."
+      bibtex-cite: "@inproceedings{david2026feelings,</br>\n  title={Feelings, Not Feel: Affective Audio-Visual Pseudo-Haptics in Hand-Tracked XR},</br>\n  author={David, Kristian Paolo and Gamboa, Mikkel Dominic and Sta. Maria, Tyrone Justin and Deja, Jordan Aiko},</br>\n  booktitle={Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems},</br>\n  pages={1--5},</br>\n  year={2026}</br>\n}"
+
+    - id: uncertainty-visualizations
+      title: "Investigating Effective Uncertainty Visualizations for Ordinal Crowdsourced Data of Crowding Conditions"
+      authors: Bea Alexis Arcega, Annika Dominique S Campos, Kathleen Therese Cruz, Aaron Ace Toledo & Briane Paul V Samson
+      year: 2026
+      venue: "Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems"
+      link:
+      doi:
+      file:
+      page: /papers/uncertainty-visualizations
+      cite: /papers/uncertainty-visualizations#cite
+      bibtex: /papers/uncertainty-visualizations#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for Investigating Effective Uncertainty Visualizations for Ordinal Crowdsourced Data of Crowding Conditions."
+      abstract: ""
+      citation: "Bea Alexis Arcega, Annika Dominique S Campos, Kathleen Therese Cruz, Aaron Ace Toledo & Briane Paul V Samson (2026). Investigating Effective Uncertainty Visualizations for Ordinal Crowdsourced Data of Crowding Conditions. Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems, 1–6."
+      bibtex-cite: "@inproceedings{arcega2026investigating,</br>\n  title={Investigating Effective Uncertainty Visualizations for Ordinal Crowdsourced Data of Crowding Conditions},</br>\n  author={Arcega, Bea Alexis and Campos, Annika Dominique S and Cruz, Kathleen Therese and Toledo, Aaron Ace and Samson, Briane Paul V},</br>\n  booktitle={Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems},</br>\n  pages={1--6},</br>\n  year={2026}</br>\n}"
+
+    - id: osm-science-2025
+      title: "OSM Science 2025: Diversifying the Study of OpenStreetMap"
+      authors: A Yair Grinberger, Anna Zanchetta, Simeona Martinez, Briane Paul V Samson, Marco Minghini, Peter Mooney, et al.
+      year: 2026
+      venue: "Proceedings of OSM Science 2025"
+      link:
+      doi:
+      file:
+      page: /papers/osm-science-2025
+      cite: /papers/osm-science-2025#cite
+      bibtex: /papers/osm-science-2025#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for OSM Science 2025: Diversifying the Study of OpenStreetMap."
+      abstract: ""
+      citation: "A Yair Grinberger, Anna Zanchetta, Simeona Martinez, Briane Paul V Samson, Marco Minghini, Peter Mooney, et al. (2026). OSM Science 2025: Diversifying the Study of OpenStreetMap. Proceedings of OSM Science 2025, 1."
+      bibtex-cite: "@article{grinberger2026osm,</br>\n  title={OSM Science 2025: Diversifying the Study of OpenStreetMap},</br>\n  author={Grinberger, A Yair and Zanchetta, Anna and Martinez, Simeona and Samson, Briane Paul V and Minghini, Marco and Mooney, Peter and others},</br>\n  journal={Proceedings of OSM Science 2025},</br>\n  pages={1},</br>\n  year={2026}</br>\n}"
+
+    - id: crop-disease-detection
+      title: "Comparative analysis of VGG-16, ResNet50, and EfficientNet-B1 with optimization techniques for crop disease detection"
+      authors: Danish Syazani Mohd Zakir, Zatul Alwani Shaffiei, Masitah Ghazali & Briane Paul V Samson
+      year: 2026
+      venue: "Journal of Advanced Research Design"
+      link:
+      doi:
+      file:
+      page: /papers/crop-disease-detection
+      cite: /papers/crop-disease-detection#cite
+      bibtex: /papers/crop-disease-detection#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for Comparative analysis of VGG-16, ResNet50, and EfficientNet-B1 with optimization techniques for crop disease detection."
+      abstract: ""
+      citation: "Danish Syazani Mohd Zakir, Zatul Alwani Shaffiei, Masitah Ghazali & Briane Paul V Samson (2026). Comparative analysis of VGG-16, ResNet50, and EfficientNet-B1 with optimization techniques for crop disease detection. Journal of Advanced Research Design, 143(1), 55–64."
+      bibtex-cite: "@article{zakir2026comparative,</br>\n  title={Comparative analysis of VGG-16, ResNet50, and EfficientNet-B1 with optimization techniques for crop disease detection},</br>\n  author={Zakir, Danish Syazani Mohd and Shaffiei, Zatul Alwani and Ghazali, Masitah and Samson, Briane Paul V},</br>\n  journal={Journal of Advanced Research Design},</br>\n  volume={143},</br>\n  number={1},</br>\n  pages={55--64},</br>\n  year={2026}</br>\n}"
+
+- name: 2025
+  papers:
+    - id: improvisar
+      title: "ImproVisAR: designing augmented reality piano roll for teaching improvisation"
+      authors: Jordan Aiko Deja, Sandi Štor, Ilonka Pucihar, Maheshya Weerasinghe, Rafael Marco Balbin, Klen Čopič Pucihar & Matjaž Kljun
+      year: 2025
+      venue: "Virtual reality"
+      link:
+      doi:
+      file:
+      page: /papers/improvisar
+      cite: /papers/improvisar#cite
+      bibtex: /papers/improvisar#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for ImproVisAR: designing augmented reality piano roll for teaching improvisation."
+      abstract: ""
+      citation: "Jordan Aiko Deja, Sandi Štor, Ilonka Pucihar, Maheshya Weerasinghe, Rafael Marco Balbin, Klen Čopič Pucihar & Matjaž Kljun (2025). ImproVisAR: designing augmented reality piano roll for teaching improvisation. Virtual reality, 29(3), 140."
+      bibtex-cite: "@article{deja2025improvisar,</br>\n  title={ImproVisAR: designing augmented reality piano roll for teaching improvisation},</br>\n  author={Deja, Jordan Aiko and {\\v{S}}tor, Sandi and Pucihar, Ilonka and Weerasinghe, Maheshya and Balbin, Rafael Marco and {\\v{C}}opi{\\v{c}} Pucihar, Klen and Kljun, Matja{\\v{z}}},</br>\n  journal={Virtual reality},</br>\n  volume={29},</br>\n  number={3},</br>\n  pages={140},</br>\n  year={2025},</br>\n  publisher={Springer}</br>\n}"
+
+    - id: set-stage
+      title: "Set the Stage: Enabling Storytelling with Multiple Robots through Roleplaying Metaphors"
+      authors: Tyrone Justin Sta. Maria, Faith Griffin & Jordan Aiko Deja
+      year: 2025
+      venue: "Adjunct Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology"
+      link:
+      doi:
+      file:
+      page: /papers/set-stage
+      cite: /papers/set-stage#cite
+      bibtex: /papers/set-stage#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for Set the Stage: Enabling Storytelling with Multiple Robots through Roleplaying Metaphors."
+      abstract: ""
+      citation: "Tyrone Justin Sta. Maria, Faith Griffin & Jordan Aiko Deja (2025). Set the Stage: Enabling Storytelling with Multiple Robots through Roleplaying Metaphors. Adjunct Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology, 1–3."
+      bibtex-cite: "@inproceedings{sta2025set,</br>\n  title={Set the Stage: Enabling Storytelling with Multiple Robots through Roleplaying Metaphors},</br>\n  author={Sta. Maria, Tyrone Justin and Griffin, Faith and Deja, Jordan Aiko},</br>\n  booktitle={Adjunct Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology},</br>\n  pages={1--3},</br>\n  year={2025}</br>\n}"
+
+- name: 2024
+  papers:
+    - id: self-tracking-motivation
+      title: "Exploring design opportunities for improved self-motivation in self-tracking and health goal achievement"
+      authors: Elyssia Barrie H Ong & Briane Paul V Samson
+      year: 2024
+      venue: "Proceedings of the ACM on Human-Computer Interaction"
+      link:
+      doi:
+      file:
+      page: /papers/self-tracking-motivation
+      cite: /papers/self-tracking-motivation#cite
+      bibtex: /papers/self-tracking-motivation#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for Exploring design opportunities for improved self-motivation in self-tracking and health goal achievement."
+      abstract: ""
+      citation: "Elyssia Barrie H Ong & Briane Paul V Samson (2024). Exploring design opportunities for improved self-motivation in self-tracking and health goal achievement. Proceedings of the ACM on Human-Computer Interaction, 8(MHCI), 1–17."
+      bibtex-cite: "@article{ong2024exploring,</br>\n  title={Exploring design opportunities for improved self-motivation in self-tracking and health goal achievement},</br>\n  author={Ong, Elyssia Barrie H and Samson, Briane Paul V},</br>\n  journal={Proceedings of the ACM on Human-Computer Interaction},</br>\n  volume={8},</br>\n  number={MHCI},</br>\n  pages={1--17},</br>\n  year={2024},</br>\n  publisher={ACM, New York, NY, USA}</br>\n}"
+
+- name: 2023
+  papers:
+    - id: good-day-manager
+      title: "Good day manager! exploring social relationships in nft-based play-to-earn games"
+      authors: Richard Lance Parayno, Janna Aika Deja, Tyrone Justin Sta. Maria, Briane Paul V Samson & Jordan Aiko Deja
+      year: 2023
+      venue: "Proceedings of the 2023 CHI conference on human factors in computing systems"
+      link:
+      doi:
+      file:
+      page: /papers/good-day-manager
+      cite: /papers/good-day-manager#cite
+      bibtex: /papers/good-day-manager#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for Good day manager! exploring social relationships in nft-based play-to-earn games."
+      abstract: ""
+      citation: "Richard Lance Parayno, Janna Aika Deja, Tyrone Justin Sta. Maria, Briane Paul V Samson & Jordan Aiko Deja (2023). Good day manager! exploring social relationships in nft-based play-to-earn games. Proceedings of the 2023 CHI conference on human factors in computing systems, 1–11."
+      bibtex-cite: "@inproceedings{parayno2023good,</br>\n  title={Good day manager! exploring social relationships in nft-based play-to-earn games},</br>\n  author={Parayno, Richard Lance and Deja, Janna Aika and Sta. Maria, Tyrone Justin and Samson, Briane Paul V and Deja, Jordan Aiko},</br>\n  booktitle={Proceedings of the 2023 CHI conference on human factors in computing systems},</br>\n  pages={1--11},</br>\n  year={2023}</br>\n}"
+
+    - id: filipino-wordnet
+      title: "Towards the Creation of the Filipino Wordnet: A Two-Way Approach"
+      authors: Briane Paul Samson, Charibeth Cheng, Unisse Chua, Dan John Velasco, Axel Alba, Trisha Gail Pelagio, Bryce Anthony Ramirez, Robi Jeanne Bangonon, Christine Deticio, Sharmaine Gaw, et al.
+      year: 2023
+      venue: "2023 International Conference on Asian Language Processing (IALP)"
+      link:
+      doi:
+      file:
+      page: /papers/filipino-wordnet
+      cite: /papers/filipino-wordnet#cite
+      bibtex: /papers/filipino-wordnet#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for Towards the Creation of the Filipino Wordnet: A Two-Way Approach."
+      abstract: ""
+      citation: "Briane Paul Samson, Charibeth Cheng, Unisse Chua, Dan John Velasco, Axel Alba, Trisha Gail Pelagio, Bryce Anthony Ramirez, Robi Jeanne Bangonon, Christine Deticio, Sharmaine Gaw, et al. (2023). Towards the Creation of the Filipino Wordnet: A Two-Way Approach. 2023 International Conference on Asian Language Processing (IALP), 320–325."
+      bibtex-cite: "@inproceedings{samson2023towards,</br>\n  title={Towards the Creation of the Filipino Wordnet: A Two-Way Approach},</br>\n  author={Samson, Briane Paul and Cheng, Charibeth and Chua, Unisse and Velasco, Dan John and Alba, Axel and Pelagio, Trisha Gail and Ramirez, Bryce Anthony and Bangonon, Robi Jeanne and Deticio, Christine and Gaw, Sharmaine and others},</br>\n  booktitle={2023 International Conference on Asian Language Processing (IALP)},</br>\n  pages={320--325},</br>\n  year={2023},</br>\n  organization={IEEE}</br>\n}"
+
+    - id: automatic-filipino-wordnet
+      title: "Towards automatic construction of filipino wordnet: Word sense induction and synset induction using sentence embeddings"
+      authors: Dan John Velasco, Axel Alba, Trisha Gail Pelagio, Bryce Anthony Ramirez, Jan Christian Blaise Cruz, Unisse Chua, Briane Paul Samson & Charibeth Cheng
+      year: 2023
+      venue: "Proceedings of the First Workshop in South East Asian Language Processing"
+      link:
+      doi:
+      file:
+      page: /papers/automatic-filipino-wordnet
+      cite: /papers/automatic-filipino-wordnet#cite
+      bibtex: /papers/automatic-filipino-wordnet#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for Towards automatic construction of filipino wordnet: Word sense induction and synset induction using sentence embeddings."
+      abstract: ""
+      citation: "Dan John Velasco, Axel Alba, Trisha Gail Pelagio, Bryce Anthony Ramirez, Jan Christian Blaise Cruz, Unisse Chua, Briane Paul Samson & Charibeth Cheng (2023). Towards automatic construction of filipino wordnet: Word sense induction and synset induction using sentence embeddings. Proceedings of the First Workshop in South East Asian Language Processing, 1–12."
+      bibtex-cite: "@inproceedings{velasco2023towards,</br>\n  title={Towards automatic construction of filipino wordnet: Word sense induction and synset induction using sentence embeddings},</br>\n  author={Velasco, Dan John and Alba, Axel and Pelagio, Trisha Gail and Ramirez, Bryce Anthony and Cruz, Jan Christian Blaise and Chua, Unisse and Samson, Briane Paul and Cheng, Charibeth},</br>\n  booktitle={Proceedings of the First Workshop in South East Asian Language Processing},</br>\n  pages={1--12},</br>\n  year={2023}</br>\n}"
+
+    - id: autonomous-vehicles
+      title: "What if Automated Vehicles Became AUTONOMOUS? A Critical Perspective"
+      authors: Mark Colley, Stacey Li, Briane Paul V Samson & Denise Sogemeier
+      year: 2023
+      venue: "Adjunct Proceedings of the 15th International Conference on Automotive User Interfaces and Interactive Vehicular Applications"
+      link:
+      doi:
+      file:
+      page: /papers/autonomous-vehicles
+      cite: /papers/autonomous-vehicles#cite
+      bibtex: /papers/autonomous-vehicles#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for What if Automated Vehicles Became AUTONOMOUS? A Critical Perspective."
+      abstract: ""
+      citation: "Mark Colley, Stacey Li, Briane Paul V Samson & Denise Sogemeier (2023). What if Automated Vehicles Became AUTONOMOUS? A Critical Perspective. Adjunct Proceedings of the 15th International Conference on Automotive User Interfaces and Interactive Vehicular Applications, 352–355."
+      bibtex-cite: "@inproceedings{colley2023if,</br>\n  title={What if Automated Vehicles Became AUTONOMOUS? A Critical Perspective},</br>\n  author={Colley, Mark and Li, Stacey and Samson, Briane Paul V and Sogemeier, Denise},</br>\n  booktitle={Adjunct Proceedings of the 15th International Conference on Automotive User Interfaces and Interactive Vehicular Applications},</br>\n  pages={352--355},</br>\n  year={2023}</br>\n}"
+
+- name: 2022
+  papers:
+    - id: pianosurvey
+      title: "A survey of augmented piano prototypes: Has augmentation improved learning experiences?"
+      authors: Jordan Aiko Deja, Sven Mayer, Klen Čopič Pucihar & Matjaž Kljun
+      year: 2022
+      venue: "Proceedings of the ACM on Human-Computer Interaction"
+      link:
+      doi:
+      file:
+      page: /papers/pianosurvey
+      cite: /papers/pianosurvey#cite
+      bibtex: /papers/pianosurvey#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for A survey of augmented piano prototypes: Has augmentation improved learning experiences?."
+      abstract: ""
+      citation: "Jordan Aiko Deja, Sven Mayer, Klen Čopič Pucihar & Matjaž Kljun (2022). A survey of augmented piano prototypes: Has augmentation improved learning experiences?. Proceedings of the ACM on Human-Computer Interaction, 6(ISS), 226–253."
+      bibtex-cite: "@article{deja2022survey,</br>\n  title={A survey of augmented piano prototypes: Has augmentation improved learning experiences?},</br>\n  author={Deja, Jordan Aiko and Mayer, Sven and {\\v{C}}opi{\\v{c}} Pucihar, Klen and Kljun, Matja{\\v{z}}},</br>\n  journal={Proceedings of the ACM on Human-Computer Interaction},</br>\n  volume={6},</br>\n  number={ISS},</br>\n  pages={226--253},</br>\n  year={2022},</br>\n  publisher={ACM, New York, NY, USA}</br>\n}"
+
+    - id: ingroups-onlookers
+      title: "Distinguishing in-groups and onlookers by language use"
+      authors: Joshua Minot, Milo Trujillo, Samuel Rosenblatt, Guillermo De Anda-Jáuregui, Emily Moog, Allison M Roth, Briane Paul Samson & Laurent Hébert-Dufresne
+      year: 2022
+      venue: "Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis"
+      link:
+      doi:
+      file:
+      page: /papers/ingroups-onlookers
+      cite: /papers/ingroups-onlookers#cite
+      bibtex: /papers/ingroups-onlookers#bibtex
+      figure: ../assets/png/hxil.png
+      alt: "HXIL placeholder image for Distinguishing in-groups and onlookers by language use."
+      abstract: ""
+      citation: "Joshua Minot, Milo Trujillo, Samuel Rosenblatt, Guillermo De Anda-Jáuregui, Emily Moog, Allison M Roth, Briane Paul Samson & Laurent Hébert-Dufresne (2022). Distinguishing in-groups and onlookers by language use. Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis, 157–171."
+      bibtex-cite: "@inproceedings{minot2022distinguishing,</br>\n  title={Distinguishing in-groups and onlookers by language use},</br>\n  author={Minot, Joshua and Trujillo, Milo and Rosenblatt, Samuel and De Anda-J{\\'a}uregui, Guillermo and Moog, Emily and Roth, Allison M and Samson, Briane Paul and H{\\'e}bert-Dufresne, Laurent},</br>\n  booktitle={Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment \\& Social Media Analysis},</br>\n  pages={157--171},</br>\n  year={2022}</br>\n}"
+
 - name: 2021
   papers:
     - id: reddit-ban

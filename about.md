@@ -60,15 +60,23 @@ The Flow project investigates productivity, mental workload, creativity, interru
 
 ### S.P.A.C.E.
 
-> “Medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance and love, these are what we stay alive for..” 
-> _- John Keating, Dead Poets Society_
+> “Human beings have a remarkable ability to accept the abnormal and make it normal...” 
+> _- Ryland Grace, Project Hail Mary_
 
-Abbreviated from Spatial, Pervasive, Augmented, and Creative Experiences, the SPACE Agenda explores the design, development, and evaluation of novel interfaces that enable users to understand themselves better and how they work especially in ubiquitous settings. This research program utilizes eXtended Reality (XR), robotics, drones, and many other similar technologies. 
+Abbreviated from Spatial, Pervasive, Adaptive, and Cybernetic Environments, the SPACE research program studies how interactive technologies augment human perception, action, learning and creativity in complex spatial environments. 
 
-The SPACE Agenda seeks to explore the following research questions: 
-- How do people live, learn, work and interact in spatial environments? 
-- How do we balance and boost productivity when people work in such spaces?
-- How do we support creative experiences that usually thrive in social spaces through (digital, robotic) augmentation? 
+The SPACE research program augments the following core human capabilities:
+- Perception: Augmenting sensory processing and spatial awareness
+- Action: Enhancing physical execution and embodied control
+- Learning: Accelerating comprehension and skill acquisition
+- Creativity: Fostering expression in complex environments
+
+The SPACE research program explores its central research question on: How can interactive environments sense, augment, and adapt to people as they learn, create, work and operate under complex conditions? 
+
+The SPACE program branches into: 
+- Creative SPACE: augmenting learning, performance and creative expression. Keywords: piano, improvisation, music, creativity
+- Extreme and outer SPACE: interaction in Isolated, Confined and Extreme environments. Keywords: Spaceflight, XR, HRI, robots, analog missions
+- Interactive SPACE: designing new forms of spatial and embodied interaction. Keywords: XR, AI, drones, and everything in between
 
 
 ## Background
