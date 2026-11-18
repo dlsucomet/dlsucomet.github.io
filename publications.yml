@@ -1,5 +1,22 @@
 - name: 2026
   papers:
+    - id: delegatingordoing
+      title: "Delegating or Doing? Understanding User Behavior in Hybrid Human–Agent Interfaces"
+      authors: Gavin Dizon, Tyrone Justin Sta. Maria, Jordan Aiko Deja & Yasuyuki Sumi
+      year: 2026
+      venue: "HAI '26: 14th International Conference on Human-Agent Interaction"
+      link:
+      doi:
+      file:
+      page: 
+      cite: /papers/delegatingordoing#cite
+      bibtex: /papers/delegatingordoing#bibtex
+      figure: ../assets/png/delegatingordoing.png
+      alt: "HXIL placeholder image for Delegating or Doing? Understanding User Behavior in Hybrid Human–Agent Interfaces."
+      abstract: ""
+      citation: "Gavin Dizon, Tyrone Justin Sta. Maria, Jordan Aiko Deja & Yasuyuki Sumi (2026). Delegating or Doing? Understanding User Behavior in Hybrid Human–Agent Interfaces. Proceedings of the 14th International Conference on Human-Agent Interaction (HAI '26), Article 19, 1–9. https://doi.org/10.1145/3841580.3841625"
+      bibtex-cite: "@inproceedings{dizon2026delegating,</br>\n  title={Delegating or Doing? Understanding User Behavior in Hybrid Human–Agent Interfaces},</br>\n  author={Dizon, Gavin and Sta. Maria, Tyrone Justin and Deja, Jordan Aiko and Sumi, Yasuyuki},</br>\n  booktitle={Proceedings of the 14th International Conference on Human-Agent Interaction},</br>\n  year={2026},</br>\n  articleno={19},</br>\n  numpages={9},</br>\n  publisher={Association for Computing Machinery},</br>\n  address={New York, NY, USA},</br>\n  location={Osaka, Japan},</br>\n  series={HAI '26},</br>\n  isbn={9798400725753},</br>\n  doi={10.1145/3841580.3841625},</br>\n  url={https://doi.org/10.1145/3841580.3841625},</br>\n  keywords={Conversational Agents, Human-Agent Interaction, Model Context Protocol, Interaction Modality}</br>\n}"
+
     - id: first-contact
       title: "First Contact Matters: Exploring Pedestrian Perceptions of a Drone-Based Crossing Companion"
       authors: Daphne Janelyn Go, Harvey Shawn Chua, Robert Joachim Encinas, Kyle Carlo Lasala, Lanz Kendall Lim, Maria Monica Manlises, Tyler Justin Tan & Jordan Aiko Deja
